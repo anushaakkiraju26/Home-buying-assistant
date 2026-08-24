@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-pinecone
+langchain-anthropic
+langchain-text-splitters
+pinecone
+pypdf
+python-dotenv
+rank-bm25
+beautifulsoup4
+lxml
+fastapi
+uvicorn[standard]
+streamlit

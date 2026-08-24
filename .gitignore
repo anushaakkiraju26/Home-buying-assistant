@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.DS_Store
+.streamlit/secrets.toml
+
+.pytest_cache/
+.mypy_cache/
+
+# Local working copies of the canonical files in reference_documents/
+data/
