@@ -1,0 +1,546 @@
+{
+  "generated_at": "2026-08-24T05:36:40.915810+00:00",
+  "results": [
+    {
+      "id": "Q01",
+      "category": "Closing costs",
+      "question": "What costs and fees should a buyer expect to see at closing?",
+      "expected_sources": [
+        "cfpb_home_loan_toolkit.pdf",
+        "cfpb_closing_disclosure_sample.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "va_home_loan_buyers_guide.pdf",
+          "page": 12.0,
+          "score": 0.74298155,
+          "excerpt": "meets basic property requirements. (See Chapter 12 of the Lenders Handbook for more on  minimum property requirements) The NOV can also help you choose whether to continue with  the purchase or negotiate price or other conditions of the sal"
+        },
+        {
+          "source": "cfpb_home_loan_toolkit.pdf",
+          "page": 21.0,
+          "score": 0.5929023,
+          "excerpt": "Loan terms  Review your monthly payment.  Part of it goes to repay what you  borrowed (and may build equity  in your new home), and part of  it goes to pay interest (which  doesn\u2019t build equity). Equity is  the current market value of your "
+        },
+        {
+          "source": "irs_pub530_homeowners_tax.pdf",
+          "page": 14.0,
+          "score": 0.5897754,
+          "excerpt": "\u2022 Legal fees (including fees for the title search and prep- aration of the sales contract and deed). \u2022 Recording fees. \u2022 Surveys. \u2022 T ransfer or stamp taxes. \u2022 Owner's title insurance. \u2022 Any amount the seller owes that you agree to pay,  su"
+        },
+        {
+          "source": "trec_condo_resale_contract.pdf",
+          "page": 4.0,
+          "score": 0.56313777,
+          "excerpt": ".  12. SETTLEMENT AND OTHER EXPENSES:  A. EXPENSES: The following expenses must be paid at or prior to closing:  (1) Seller shall pay the following expenses (Seller's Expenses):   (a) releases of existing liens, including prepayment penalti"
+        },
+        {
+          "source": "hud_home_buying_guide.pdf",
+          "page": 6.0,
+          "score": 0.37719646,
+          "excerpt": "paid up front, in cash. The typical downpayment is three percent and family members may give a gift to make up the balance of the downpayment. This term covers various fees your lender charges for providing your loan, and other expenses. Cl"
+        }
+      ],
+      "first_relevant_rank": 2,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 0.5,
+      "expected_source_recall_at_5": 0.5,
+      "missing_expected_sources": [
+        "cfpb_closing_disclosure_sample.pdf"
+      ],
+      "top_rerank_score": 0.74298155
+    },
+    {
+      "id": "Q02",
+      "category": "Adjustable-rate mortgages",
+      "question": "How can the interest rate and monthly payment change on an adjustable-rate mortgage?",
+      "expected_sources": [
+        "cfpb_arm_charm_booklet.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "cfpb_arm_charm_booklet.pdf",
+          "page": 1.0,
+          "score": 0.9566342,
+          "excerpt": "consumer financial laws and educates and  empowers consumers to make better informed  financial decisions. This booklet, titled Consumer Handbook on Adjustable  Rate Mortgages, was created to comply with federal law  pursuant to 12 U.S.C. 2"
+        },
+        {
+          "source": "hud_home_buying_guide.pdf",
+          "page": 5.0,
+          "score": 0.9027811,
+          "excerpt": "interest rate stays the same for the term of the mortgage, which is usually 30 years. Y our principal and interest payment remains stable, making it easier to plan a monthly budget. However, initial interest rates tend to be higher than wit"
+        },
+        {
+          "source": "ca_dre_refbook_financing.pdf",
+          "page": 6.0,
+          "score": 0.6154924,
+          "excerpt": "Basically, alternative mortgages also known as non-traditi onal loan products, resulted in an expansion of the  residential mortgage market.  These alternative or non- traditional loan products shif ted to borrowers some of  the risks inher"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.9566342
+    },
+    {
+      "id": "Q03",
+      "category": "Loan estimates",
+      "question": "How should I use a Loan Estimate to compare mortgage offers from different lenders?",
+      "expected_sources": [
+        "cfpb_loan_estimate_sample.pdf",
+        "cfpb_home_loan_toolkit.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "cfpb_home_loan_toolkit.pdf",
+          "page": 11.0,
+          "score": 0.9710193,
+          "excerpt": "\u00a8 Get the facts from the lenders on your list \t \tFind out from the lenders what loan options they recommend for you, and the  costs and benefits for each. For example, you might find a discount is offered  for borrowers who have completed a"
+        },
+        {
+          "source": "cfpb_arm_charm_booklet.pdf",
+          "page": 1.0,
+          "score": 0.8967949,
+          "excerpt": "How to use the booklet When you and your mortgage lender discuss  adjustable-rate mortgages (ARMs), you receive  a copy of this booklet. When you apply for an  ARM loan, you receive a Loan Estimate. You can  request and receive multiple Loa"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 0.5,
+      "missing_expected_sources": [
+        "cfpb_loan_estimate_sample.pdf"
+      ],
+      "top_rerank_score": 0.9710193
+    },
+    {
+      "id": "Q04",
+      "category": "California disclosures",
+      "question": "What defects and conditions must a California home seller disclose to a buyer?",
+      "expected_sources": [
+        "ca_civil_code_1102_disclosure_law.html",
+        "ca_dre_refbook_disclosures.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "ca_dre_refbook_disclosures.pdf",
+          "page": 17.0,
+          "score": 0.8662457,
+          "excerpt": "property.  As discussed above, in California a seller (with a few exceptions) of residential real property comprising one- to-four dwelling units must give the buyer a Real Estate  Transfer Disclosure Stat ement. The statement must  include"
+        },
+        {
+          "source": "ca_civil_code_1102_disclosure_law.html",
+          "page": "unknown",
+          "score": 0.7501869,
+          "excerpt": "(Added by Stats. 1989, Ch. 294, Sec. 1.) 1102.155. \u00a0\u00a0 (a)\u00a0(1)\u00a0The seller of single-family residential real property subject to this article shall disclose, in writing, that Section 1101.4 requires that California single-family residences be"
+        },
+        {
+          "source": "ca_dre_refbook_agency.pdf",
+          "page": 39.0,
+          "score": 0.7405498,
+          "excerpt": "to disclose may result where the broker has knowledge of  facts materially affecting the value, desirability, or  intended use of the property, and which facts the broker does not convey to the prospective buyer knowing that  the buyer does"
+        },
+        {
+          "source": "trec_purchase_contract.pdf",
+          "page": 3.0,
+          "score": 0.3407045,
+          "excerpt": "whichever first occurs, and the earnest money will be refunded to Buyer.  q (3) The Seller is not required to furnish the Seller\u2019s Disclosure Notice under the Texas    Property Code.  C. SELLER\u2019S DISCLOSURE OF LEAD -BASED PAINT AND LEAD -BA"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.8662457
+    },
+    {
+      "id": "Q05",
+      "category": "Texas disclosures",
+      "question": "What information is included in a Texas seller's disclosure notice?",
+      "expected_sources": [
+        "trec_sellers_disclosure_notice.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "trec_sellers_disclosure_notice.pdf",
+          "page": 0.0,
+          "score": 0.9324533,
+          "excerpt": "TREC No. 55-1               05-04-2026 APPROVED BY THE TEXAS REAL ESTATE COMMISSION (TREC) SELLER'S DISCLOSURE NOTICE  CONCERNING THE PROPERTY AT (Street Address and City) THIS NOTICE IS A DISCLOSURE OF SELLER'S KNOWLEDGE OF THE CONDITION O"
+        },
+        {
+          "source": "trec_purchase_contract.pdf",
+          "page": 3.0,
+          "score": 0.8385476,
+          "excerpt": "expense shall immediately cause existing utilities to be turned on and shall keep the utilities   on during the time this contract is in effect.  B. SELLER'S DISCLOSURE NOTICE PURSUANT TO \u00a75.008, TEXA S PROPERTY CODE (Seller\u2019s  Disclosure N"
+        },
+        {
+          "source": "trec_condo_resale_contract.pdf",
+          "page": 3.0,
+          "score": 0.79581684,
+          "excerpt": "selected by Buyer and licensed by TREC or otherwise permitted by law to make inspections.  Any hydrostatic testing must be separately authorized by Seller in writing. Seller at Seller's  expense shall immediately cause existing utilities to"
+        },
+        {
+          "source": "trec_new_home_contract_completed.pdf",
+          "page": 3.0,
+          "score": 0.32896042,
+          "excerpt": "obligation may be governed by Chapter 5, Subchapter G of the Texas Property Code.   (9) PROPANE GAS SYSTEM SERVICE AREA:  If the Property is located in a propane gas  system service area owned by a distribution system retailer, Seller must "
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.9324533
+    },
+    {
+      "id": "Q06",
+      "category": "Homeowners associations",
+      "question": "What HOA documents, fees, and restrictions should a Texas buyer review?",
+      "expected_sources": [
+        "trec_hoa_addendum.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "trec_new_home_contract_incomplete.pdf",
+          "page": 4,
+          "score": 0.32188618,
+          "excerpt": "__________________________________________________________________________  .  J. RESIDENTIAL SERVICE CONTRACTS: Buyer may purchase a residential service contract from a  provider or administrator licensed by the Texas Department of Licensi"
+        },
+        {
+          "source": "trec_purchase_contract.pdf",
+          "page": 4.0,
+          "score": 0.2863688,
+          "excerpt": "required by the parties should be used.  H. RESIDENTIAL SERVICE CONTRACTS: Buyer may purchase a  residential service contract from a  provider or administrator licensed by the Texas Dep artment of Licensing and Regulation. If  Buyer purchas"
+        },
+        {
+          "source": "trec_new_home_contract_completed.pdf",
+          "page": 4.0,
+          "score": 0.21883628,
+          "excerpt": "(6) Seller  q is  q  is not aware of any threatened or endangered species or their habitat  affecting the Property.  (7) Seller  q is  q is not aware that the Property is located q  wholly q partly in a   floodplain.   (8) Seller  q  is   q"
+        },
+        {
+          "source": "trec_hoa_addendum.pdf",
+          "page": 0.0,
+          "score": 0.12678517,
+          "excerpt": "not require the Subdivision Information or an updated resale certificate, and the Title Company requires information from the Association (such as the status of dues, special assessments, violations of covenants and restrictions, and a waiv"
+        },
+        {
+          "source": "trec_condo_resale_contract.pdf",
+          "page": 5.0,
+          "score": 0.124638565,
+          "excerpt": "paid by a party, that party may terminate this contract unless the other party agrees to pay  such excess. Buyer may not pay charges and fees expressly prohibited by FHA, VA, Texas  Veterans Land Board or other governmental loan program reg"
+        }
+      ],
+      "first_relevant_rank": 4,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hit_at_5": true,
+      "reciprocal_rank": 0.25,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.32188618
+    },
+    {
+      "id": "Q07",
+      "category": "Home inspections",
+      "question": "What systems and components should a standard home inspection cover?",
+      "expected_sources": [
+        "ashi_home_inspection_standards.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "va_home_loan_buyers_guide.pdf",
+          "page": 25.0,
+          "score": 0.9863105,
+          "excerpt": "written report of the systems and components of a property including but not limited to:   \u2022 Heating System  \u2022 Cooling System  \u2022 Plumbing System  \u2022 Electrical System   \u2022 Structural Components - foundation, roof masonry structure, exterior a"
+        },
+        {
+          "source": "ashi_home_inspection_standards.pdf",
+          "page": 8.0,
+          "score": 0.9722571,
+          "excerpt": "The American Society of Home Inspectors Standard of Practice for Home Inspections  ASHI Standard of Practice for Home Inspections Effective tbd, 2026.  \u00a9 Copyright 2026 American Society of Home Inspectors, Inc.     All rights reserved.  Thi"
+        }
+      ],
+      "first_relevant_rank": 2,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 0.5,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.9863105
+    },
+    {
+      "id": "Q08",
+      "category": "Federal income taxes",
+      "question": "Which homeownership expenses may be deductible on my federal income tax return?",
+      "expected_sources": [
+        "irs_pub530_homeowners_tax.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "irs_pub530_homeowners_tax.pdf",
+          "page": 2.0,
+          "score": 0.7565375,
+          "excerpt": "your deductions on Schedule A (Form 1040). If you item- ize, you can\u2019t take the standard deduction. This section explains what expenses you can deduct as  a homeowner. It also points out expenses that you can\u2019t  deduct. There are three prim"
+        },
+        {
+          "source": "cfpb_closing_disclosure_sample.pdf",
+          "page": 12.0,
+          "score": 0.051749542,
+          "excerpt": "If you borrow more than this property is worth, the interest on the  loan amount above this property\u2019s fair market value is not deductible  from your federal income taxes. You should consult a tax advisor for  more information. Questions? I"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.7565375
+    },
+    {
+      "id": "Q09",
+      "category": "Appraisals",
+      "question": "What property details and comparable sales are documented in a residential appraisal report?",
+      "expected_sources": [
+        "fannie_mae_appraisal_report_1004.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "va_home_loan_buyers_guide.pdf",
+          "page": 24.0,
+          "score": 0.6699608,
+          "excerpt": "24  Note: An appraisal is not a home inspection. You should consider hiring a qualified home  inspector to thoroughly inspect the home for defects and potential maintenance issues. (see  Home Inspections section below)  More information on "
+        },
+        {
+          "source": "fannie_mae_appraisal_report_1004.pdf",
+          "page": 0.0,
+          "score": 0.38977876,
+          "excerpt": "Property Description File No.UNIFORM RESIDENTIAL APPRAISAL REPORT SUBJECT Property Address Legal Description Assessor's Parcel No. Borrower Property rights appraised Neighborhood or Project Name Sale Price  $ Lender/Client Appraiser Locatio"
+        },
+        {
+          "source": "tx_property_tax_basics.pdf",
+          "page": 10.0,
+          "score": 0.24580847,
+          "excerpt": "too few similar sales within that time to constitute a  representative sample.83 For residential property in  a county with a population of more than 150,000, a  sale is only comparable if the sale occurred within  36 months of the appraisa"
+        },
+        {
+          "source": "ca_dre_refbook_financing.pdf",
+          "page": 103,
+          "score": 0.2165081,
+          "excerpt": "or threatening to demote or terminate an appraiser;  3. Expressly or impliedly promising future business, promotions, or increased compensation for an  appraiser;  4. Conditioning the ordering of an appraisal report or the payment of an app"
+        }
+      ],
+      "first_relevant_rank": 2,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 0.5,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.6699608
+    },
+    {
+      "id": "Q10",
+      "category": "Homeowners insurance",
+      "question": "What should I compare when choosing a homeowners insurance policy?",
+      "expected_sources": [
+        "naic_homeowners_insurance_guide.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "naic_homeowners_insurance_guide.pdf",
+          "page": 13.0,
+          "score": 0.7112304,
+          "excerpt": "A CONSUMER\u2019S GUIDE TO HOME INSURANCE: SMART SHOPPING    \uf8e92022 NATIONAL ASSOCIATION OF INSURANCE COMMISSIONERS  8  SMART SHOPPING    Different insurance companies charge different rates for the same coverage. Also, not all insurance companie"
+        },
+        {
+          "source": "cfpb_home_loan_toolkit.pdf",
+          "page": 18.0,
+          "score": 0.21535076,
+          "excerpt": "your financial investment in the home. The Loan Estimate you receive lists the  Owner\u2019s Title Insurance policy as optional if your lender does not require the policy  as a condition of the loan.  Depending on the state where you are buying "
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.7112304
+    },
+    {
+      "id": "Q11",
+      "category": "Fair housing",
+      "question": "What kinds of discrimination are prohibited when buying or financing a home?",
+      "expected_sources": [
+        "hud_fair_housing_booklet.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "cfpb_home_loan_toolkit.pdf",
+          "page": 16.0,
+          "score": 0.93195957,
+          "excerpt": "SECTION 1: CHOOSING THE BEST MORTGAGE FOR YOU  15  Page 15 Handle problems WHAT HAPPENED WHAT TO DO ABOUT IT I have experienced a problem  with my loan application or  how my loan officer is  treating me. Ask to talk to a supervisor. It may"
+        },
+        {
+          "source": "ca_dre_refbook_financing.pdf",
+          "page": 77.0,
+          "score": 0.79581684,
+          "excerpt": "accurately the loan application package.  The proposed loan request is normally set forth in writing on the 1003. It identifies the amount and proposed  terms of the requested loan, the purpose of the loan, and how and when the loan is to b"
+        },
+        {
+          "source": "hud_fair_housing_booklet.pdf",
+          "page": 4.0,
+          "score": 0.68320817,
+          "excerpt": "FAIR HOUSING  Equal Opportunity for All The Fair Housing Act     The Fair Housing Act prohibits discrimination  in housing because of: \u2022 Race or color \u2022 National Origin \u2022 Religion \u2022 Sex \u2022 Familial status (including children under the age of"
+        },
+        {
+          "source": "ca_dre_refbook_agency.pdf",
+          "page": 33.0,
+          "score": 0.6684475,
+          "excerpt": "sale or rental of a dwelling and serve as potential bases for imposing liability for damages on brokers who  participate in discriminatory practices.   Another possible basis for imposing liability on brokers for discriminatory practices is"
+        }
+      ],
+      "first_relevant_rank": 3,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 0.3333333333333333,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.93195957
+    },
+    {
+      "id": "Q12",
+      "category": "Contractors",
+      "question": "What should I verify before hiring a contractor for repairs or renovations?",
+      "expected_sources": [
+        "ftc_hiring_a_contractor.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "ftc_hiring_a_contractor.pdf",
+          "page": 2.0,
+          "score": 0.71253234,
+          "excerpt": "1 A dding a room, renovating  a basement, or doing some  much-needed repairs? Finding  a good contractor is important  \u2014 a home improvement project  gone wrong can cost you. A  good ad isn\u2019t proof a contractor  does quality work. Find out f"
+        },
+        {
+          "source": "ca_civil_code_1102_disclosure_law.html",
+          "page": "unknown",
+          "score": 0.04569203,
+          "excerpt": "disclosed in paragraph (1) and any contact information for the contractor provided by the contractor to the seller. The obligation to provide the name of the contractor shall only apply to contracts where the aggregate contract price for la"
+        },
+        {
+          "source": "va_home_loan_buyers_guide.pdf",
+          "page": 16.0,
+          "score": 0.03027187,
+          "excerpt": "\u2022 Permit, inspection, title costs  \u2022 Labor costs  \u2022 Structural work  \u2022 Finance costs  \u2022 Removal of debris  \u2022 Changes in scope of work Note: Not all lenders are able or willing to close alteration and repair loans. And not many lenders  have"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.71253234
+    },
+    {
+      "id": "Q13",
+      "category": "VA loans",
+      "question": "What are the main eligibility, funding fee, and occupancy considerations for a VA home loan?",
+      "expected_sources": [
+        "va_home_loan_buyers_guide.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "va_home_loan_buyers_guide.pdf",
+          "page": 6.0,
+          "score": 0.86860406,
+          "excerpt": "6  Eligibility  Based on your service to the country, you may be eligible for the VA Home Loan benefit. VA is the only  organization that can determine eligibility for a VA direct or VA-backed home loan benefit based on your  length of serv"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.86860406
+    },
+    {
+      "id": "Q14",
+      "category": "USDA loans",
+      "question": "Who may qualify for a USDA rural housing loan and what properties are eligible?",
+      "expected_sources": [
+        "usda_rural_housing_loan_guide.pdf"
+      ],
+      "ranking": [
+        {
+          "source": "usda_rural_housing_loan_guide.pdf",
+          "page": 1.0,
+          "score": 0.8659059,
+          "excerpt": "- - - - - - the borrower\u2019s primary residence. A borrower may be eligible to retain a  current dwelling if it no longer meets the household\u2019s needs. The dwell- ing that the borrower is retaining, if applicable, may not be financed  with a US"
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.8659059
+    },
+    {
+      "id": "Q15",
+      "category": "California down payment help",
+      "question": "What down payment assistance options does CalHFA offer California home buyers?",
+      "expected_sources": [
+        "calhfa_downpayment_assistance.html"
+      ],
+      "ranking": [
+        {
+          "source": "calhfa_downpayment_assistance.html",
+          "page": "unknown",
+          "score": 0.9985562,
+          "excerpt": "Down Payment Assistance Programs   The money you put \"down\" or the down payment on your home loan can be one of the largest hurdles for many first-time homebuyers. That's why CalHFA offers several options for down payment and closing cost a"
+        },
+        {
+          "source": "ca_dre_refbook_financing.pdf",
+          "page": 171.0,
+          "score": 0.9241418,
+          "excerpt": "private lenders. CalHFA loan products are typically pri ced at reduced, fixed interest rates and often add down  payment assistance. CalHFA also partners with other housing authorities to help bo rrowers secure additional  assistance for a "
+        }
+      ],
+      "first_relevant_rank": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "expected_source_recall_at_5": 1.0,
+      "missing_expected_sources": [],
+      "top_rerank_score": 0.9985562
+    }
+  ]
+}

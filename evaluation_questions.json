@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Q01",
+    "category": "Closing costs",
+    "question": "What costs and fees should a buyer expect to see at closing?",
+    "expected_sources": ["cfpb_home_loan_toolkit.pdf", "cfpb_closing_disclosure_sample.pdf"]
+  },
+  {
+    "id": "Q02",
+    "category": "Adjustable-rate mortgages",
+    "question": "How can the interest rate and monthly payment change on an adjustable-rate mortgage?",
+    "expected_sources": ["cfpb_arm_charm_booklet.pdf"]
+  },
+  {
+    "id": "Q03",
+    "category": "Loan estimates",
+    "question": "How should I use a Loan Estimate to compare mortgage offers from different lenders?",
+    "expected_sources": ["cfpb_loan_estimate_sample.pdf", "cfpb_home_loan_toolkit.pdf"]
+  },
+  {
+    "id": "Q04",
+    "category": "California disclosures",
+    "question": "What defects and conditions must a California home seller disclose to a buyer?",
+    "expected_sources": ["ca_civil_code_1102_disclosure_law.html", "ca_dre_refbook_disclosures.pdf"]
+  },
+  {
+    "id": "Q05",
+    "category": "Texas disclosures",
+    "question": "What information is included in a Texas seller's disclosure notice?",
+    "expected_sources": ["trec_sellers_disclosure_notice.pdf"]
+  },
+  {
+    "id": "Q06",
+    "category": "Homeowners associations",
+    "question": "What HOA documents, fees, and restrictions should a Texas buyer review?",
+    "expected_sources": ["trec_hoa_addendum.pdf"]
+  },
+  {
+    "id": "Q07",
+    "category": "Home inspections",
+    "question": "What systems and components should a standard home inspection cover?",
+    "expected_sources": ["ashi_home_inspection_standards.pdf"]
+  },
+  {
+    "id": "Q08",
+    "category": "Federal income taxes",
+    "question": "Which homeownership expenses may be deductible on my federal income tax return?",
+    "expected_sources": ["irs_pub530_homeowners_tax.pdf"]
+  },
+  {
+    "id": "Q09",
+    "category": "Appraisals",
+    "question": "What property details and comparable sales are documented in a residential appraisal report?",
+    "expected_sources": ["fannie_mae_appraisal_report_1004.pdf"]
+  },
+  {
+    "id": "Q10",
+    "category": "Homeowners insurance",
+    "question": "What should I compare when choosing a homeowners insurance policy?",
+    "expected_sources": ["naic_homeowners_insurance_guide.pdf"]
+  },
+  {
+    "id": "Q11",
+    "category": "Fair housing",
+    "question": "What kinds of discrimination are prohibited when buying or financing a home?",
+    "expected_sources": ["hud_fair_housing_booklet.pdf"]
+  },
+  {
+    "id": "Q12",
+    "category": "Contractors",
+    "question": "What should I verify before hiring a contractor for repairs or renovations?",
+    "expected_sources": ["ftc_hiring_a_contractor.pdf"]
+  },
+  {
+    "id": "Q13",
+    "category": "VA loans",
+    "question": "What are the main eligibility, funding fee, and occupancy considerations for a VA home loan?",
+    "expected_sources": ["va_home_loan_buyers_guide.pdf"]
+  },
+  {
+    "id": "Q14",
+    "category": "USDA loans",
+    "question": "Who may qualify for a USDA rural housing loan and what properties are eligible?",
+    "expected_sources": ["usda_rural_housing_loan_guide.pdf"]
+  },
+  {
+    "id": "Q15",
+    "category": "California down payment help",
+    "question": "What down payment assistance options does CalHFA offer California home buyers?",
+    "expected_sources": ["calhfa_downpayment_assistance.html"]
+  }
+]
