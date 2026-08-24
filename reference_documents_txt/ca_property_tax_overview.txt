@@ -1,0 +1,876 @@
+California Property Tax
+An Overview
+   PUBLICATION 29 | MARCH 2025
+
+
+
+
+ BOARD MEMBERS
+
+ TED GAINES       SALLY J. LIEBER   ANTONIO VAZQUEZ   MIKE SCHAEFER     MALIA M. COHEN     YVETTE M. STOWERS
+ First District   Second District   Third District    Fourth District   State Controller   Executive Director
+ Sacramento       San Francisco     Santa Monica      San Diego
+ PREFACE
+California Property Tax provides an overview of property tax assessment in California. It is designed to give
+readers a general understanding of California’s property tax system. The publication begins with a brief history
+of Proposition 13, which since 1978 has been the foundation of California’s property tax system. It then discusses
+the roles of key players in property tax assessment—California voters, the Legislature, the California State Board of
+Equalization (BOE), and county assessors. It explains which types of property are subject to taxation and which are
+exempt. It addresses the issue of where property should be assessed. It discusses the annual process of preparing
+the property tax rolls, the procedure for challenging an assessment, and the process for collecting property taxes.
+Although this publication is periodically updated, the laws and rules concerning property tax assessment are
+continually modified. Therefore, we caution you to consult appropriate sections of the Revenue and Taxation
+Code and related codes and property tax regulations in order to have the most current information.
+We welcome your suggestions for improving this publication. Please call 1-916-274-3350 or send your
+suggestions to:
+        County-Assessed Properties Division, MIC:64
+        California State Board of Equalization
+        PO Box 942879
+        Sacramento, CA 94279-0064
+
+
+If you need more information about California property tax, visit us at www.boe.ca.gov. Our website has the complete
+text of the Assessors’ Handbook sections, special topic and assessment practices surveys, the Property Taxes Law Guide,
+Property Tax Rules, Annotations, Letters To Assessors, guidelines and procedures, issue papers, and other publications.
+In addition, you will find a listing of the addresses and telephone numbers for county assessors’ offices and answers to
+the most frequently asked questions about property tax issues, and you can find current information on property tax
+projects and Board meeting dates. The website also contains a calendar of property tax dates.
+
+
+
+Note: This publication summarizes the law and applicable regulations in effect when the publication was written, as
+noted on the cover. However, changes in the law or in regulations may have occurred since that time. If there is any
+conflict between the text in this publication and the law and/or regulations, the latter are controlling.
+
+
+
+To contact your Board Member, see www.boe.ca.gov/members/board.htm.
+CONTENTS
+
+ Chapter                                                  Page
+
+ The Background of Property Taxes in California            1
+ The Role of Voters and the Legislature                    2
+ The Role of the California State Board of Equalization    2
+ The Role of the County Assessor                           6
+ Taxable Property                                          6
+ Property Tax Exemptions                                   8
+ Other Property Tax Relief Measures                        9
+ Where Property is Taxed                                  11
+ The Assessment Process                                   11
+ The Appeal Process—Local Equalization                    12
+ Tax Collection                                           14
+ Glossary of Property Tax Terms                           15
+ For More Information                                     17
+ IMPORTANT PROPERTY TAX DATES
+January 1                Lien date for all property.
+
+
+February 15              Legal deadline for filing most exemption claims.
+                         Last day to file a timely exemption claim for cemeteries, colleges, exhibitors, free public
+                         libraries, free museums, public schools, and churches.
+                         Last day to file a timely exemption claim for veterans, disabled veterans, and
+                         homeowners.
+                         Last day to file timely exemption claims for welfare and veterans’ organizations.
+
+
+April 10                 Last day to pay second installment of secured taxes without penalty.
+
+
+July 1                   Deadline for county assessor to complete local assessment roll.
+
+
+July 2–September 15 or   Taxpayers file applications for reduction in assessed value with clerk of county
+November 30              board of supervisors.
+
+
+August 31                Last day to pay unsecured taxes without penalty.
+
+
+December 10              Last day to pay first installment of secured taxes without penalty.
+                         Last day to file an exemption claim for homeowners and veterans to receive 80 percent
+                         of the exemption.
+                         Last day to file an exemption claim for disabled veterans to receive 90 percent of the
+                         exemption.
+ THE BACKGROUND OF PROPERTY TAXES IN CALIFORNIA
+Prior to 1912, the state derived up to 70 percent of its revenue from property taxes. The state no longer relies on
+property taxes as its primary source of funds—since 1933, the only property tax directly levied, collected, and
+retained by the state has been the tax on privately owned railroad cars. Currently, the state’s principal revenue
+sources are personal income taxes, sales and use taxes, bank and corporation taxes, and a series of excise taxes.
+Today, it is California’s counties, cities, schools, and special districts that depend on the property tax as a primary
+source of revenue. The property tax raised more than $89 billion for local government during 2022-23. These funds
+were allocated as follows: counties 14 percent, cities 12 percent, schools (school districts and community colleges)
+53 percent, and other (such as special districts) 20 percent.
+
+Proposition 13
+On June 6, 1978, California voters overwhelmingly approved Proposition 13, a property tax limitation initiative. This
+amendment to California’s Constitution was the taxpayers’ collective response to dramatic increases in property
+taxes and a growing state revenue surplus of nearly $5 billion. Proposition 13 rolled back most local real property,
+or real estate, assessments to 1975 market value levels, limited the property tax rate to 1 percent plus the rate
+necessary to fund local voter-approved bonded indebtedness, and limited future property tax increases.
+After Proposition 13, county property tax revenues dropped from $10.3 billion in 1977-78 to $5.04 billion in
+1978-79. As a result, many local governments were in fiscal crisis. Keeping local governments in operation the first
+two years following Proposition 13 required legislative “bailouts” to offset property tax revenue losses. A first-year
+stopgap measure costing $4.17 billion in state surplus funds was necessary to directly aid local governments. A
+second-year bailout, a long-term fiscal relief plan, cost the state $4.85 billion.
+Prior to 1978, real property was appraised cyclically, with no more than a five-year interval between reassessments.
+Since property values were systematically reviewed and updated, assessed values were usually kept at or near
+current market value levels. In contrast, under Proposition 13, properties are reassessed to current market value
+only upon a change in ownership or completion of new construction (called the base year value). In addition,
+Proposition 13 generally limits annual increases in the base year value of real property to no more than 2 percent,
+except when property changes ownership or undergoes new construction. Essentially, Proposition 13 converted
+the market value-based property tax system to an acquisition value-based system.
+
+Disparities in Assessed Value
+Under Proposition 13, similar properties can have substantially different assessed values based solely on the
+dates the properties were purchased. Disparities result wherever significant appreciation in property values has
+occurred over time. Longtime property owners, whose assessed values generally may not be increased more than
+2 percent per year, tend to have markedly lower tax liability than recent purchasers, whose assessed values tend to
+approximate market levels.
+
+Court Challenges to Proposition 13
+Immediately after Proposition 13 passed, its constitutionality was challenged. The California Supreme Court upheld
+the constitutionality of Proposition 13 in Amador Valley Joint Union High School District v. State Board of Equalization
+on September 22, 1978. The decision rendered in this case remained the highest judicial ruling on Proposition 13
+until 1992, when the United States Supreme Court ruled, in Nordlinger v. Hahn, that Proposition 13 did not violate
+the equal protection clause of the United States Constitution. This ruling effectively ended speculation about
+whether the judicial system would ever overturn or modify Proposition 13.
+
+
+
+
+                                                                              MARCH 2025 | CALIFORNIA PROPERTY TAX        1
+    THE ROLE OF VOTERS AND THE LEGISLATURE
+Together, the electorate and the Legislature of California have reshaped the administration of property taxes since
+1978. Constitutional amendments, both voter-initiated (initiative constitutional amendments) and Legislature-
+initiated (Assembly or Senate constitutional amendments), have established fundamental changes. Meanwhile,
+legislative measures have interpreted, clarified, and implemented the constitutional provisions.
+
+
+
+    THE ROLE OF THE CALIFORNIA STATE BOARD OF EQUALIZATION
+The BOE was established in 1879 by constitutional amendment. The BOE consists of five elected members: four
+members are elected from legislatively defined districts, while the fifth member, the State Controller, is elected
+at-large and serves in an ex officio capacity. The BOE’s original purpose was to regulate county assessment practices,
+equalize county assessment ratios, and assess properties of railroads. Over the years, the legislature expanded the
+Board’s duties to include many tax and fee programs. In 2017, the Taxpayer Transparency and Fairness Act (AB102),
+restructured the BOE into three separate agencies. Statutory duties performed by the BOE were transferred to the
+California Department of Tax and Fee Administration and the Office of Tax Appeals.
+The BOE continues to perform the duties it was assigned by the state constitution, including the administration of
+most property tax programs.
+
+The Need for Uniform Assessments
+While the county assessor determines the value of locally assessable property for taxation purposes, the BOE has
+a vested interest in the valuation by virtue of its constitutional responsibility to promote uniformity in property
+assessments throughout the state. Uniformity is important both within and among counties for a number of reasons:
+    • Cost-sharing provisions for funding public schools require the state to make up the difference between
+      statutory revenue guarantees and property tax proceeds. Underassessments increase a required state subsidy
+      from the general fund.
+    • Assessments at more or less than full taxable value result in a misallocation of revenues.
+
+Divisions of the BOE’s Property Tax Department
+The BOE’s property tax functions are administered by the Property Tax Department, which has three divisions:
+Assessment Practices Survey Division, County-Assessed Properties Division, and State-Assessed Properties
+Division. Each division’s role in the administration of property tax is described on the following pages.
+
+Assessment Practices Survey Division
+The Assessment Practices Survey Division is responsible for measuring statewide compliance and uniformity in
+county assessment procedures and practices. This is achieved through the following activities.
+Assessment Practices Surveys
+The Government Code requires the BOE to periodically review the practices and procedures (surveys) of specified
+county assessors’ offices. The purpose of the survey is to determine the adequacy of the procedures and practices
+the county assessor uses in valuing property and to evaluate the assessor’s performance of mandated duties. The
+survey concentrates on statutory mandates and revenue-related issues.
+The surveys are conducted as follows: For each county, BOE staff conducts an audit of the assessor’s procedures and
+practices. The staff then publishes an assessment practices survey report that summarizes the findings and includes
+recommendations for improvement.
+
+
+
+2       CALIFORNIA PROPERTY TAX | MARCH 2025
+Sampling of Assessments
+The BOE conducts a sampling of assessments on a five-year cycle for the ten largest counties and cities and
+counties, and on either a random or as needed basis for the remaining counties. The purpose is to review a
+representative sampling of the assessments making up the local assessment rolls, both secured and unsecured, to
+determine how effectively the county assessor is identifying those properties subject to revaluation and how well
+the county assessor is performing the valuation function.
+In each case, a statistically representative sample is drawn from the county assessment roll. BOE staff audits and
+appraises each property in the sample and compares the results to the county assessor’s values. Staff then expands
+the results to determine whether the total assessment roll complies with statutory standards. The expanded results
+are summarized and are either published in an assessment sampling report or they are incorporated into the
+published assessment practices survey report.
+Special Topic Surveys
+The BOE periodically publishes “special topic” surveys on statewide assessment practices. The surveys focus on
+specific subject areas or major issues that have significant impact on local property taxation. These surveys are
+conducted when needed. To date, surveys have been conducted on Land Conservation Act (Williamson Act)
+properties, new construction, changes in ownership, mobilehomes, possessory interests, assessment appeals, audit
+procedures, confidentiality of assessors’ records, depreciation factors, coordination on tenant improvements, and
+section 11 and PERS properties.
+
+County-Assessed Properties Division
+The County-Assessed Properties Division is responsible for establishing policies and standards for proper
+assessment practices statewide. These goals are achieved through the following activities.
+Property Tax Rules
+The Board is required to prescribe rules and regulations to govern assessors and local boards of equalization. The
+BOE’s property tax rules are codified in Title 18 of the California Code of Regulations. These rules are adopted to
+clarify statutes relating to assessment principles and procedures.
+Assessors’ Handbook
+The Assessors’ Handbook comprises more than 25 instructional manuals on various assessment and appraisal topics,
+including annually revised building cost estimating guidelines. Individual manuals are periodically updated to
+reflect legislative changes and revisions in appraisal and assessment systems.
+Property Tax Exemptions
+The BOE prevents multiple claims for the Homeowners’ Exemption and the Disabled Veterans’ Exemption, by acting
+as a statewide clearinghouse. The BOE also has a dual role with county assessors in administering the Welfare
+Exemption, which exempts property used exclusively for religious, hospital, scientific, or charitable purposes and
+owned and operated for those purposes by qualifying nonprofit organizations. The BOE determines whether an
+organization is eligible for the Welfare or Veterans’ Organization Exemption. The BOE also advises assessors and
+prescribes forms for the administration of all other property tax exemptions.
+Appraiser and Assessment Analyst Training and Certification
+County assessors and the property appraisers they employ must meet certain minimum qualifications and hold
+an appraiser’s certificate issued by the BOE which is attained by successfully passing a certification examination. In
+order to retain an appraiser’s certificate, appraisers must complete a specified number of hours of training per year.
+The BOE provides training at various sites throughout California and monitors the yearly training requirements. The
+BOE conducts classes on various appraisal topics.
+
+
+
+
+                                                                            MARCH 2025 | CALIFORNIA PROPERTY TAX      3
+A county board of supervisors may pass a resolution that imposes certification and annual training requirements
+on county assessor employees responsible for property tax change in ownership and exemption decisions. An
+assessment analyst certificate issued by the BOE is attained by successfully passing a certification examination. In
+order to retain an assessment analyst certificate, assessment analysts must complete a specified number of hours of
+training per year.
+In addition, the BOE provides workshops, online sessions, and webinars on specific assessment issues to enhance
+the knowledge and skills of county assessors, appraisers, assessment analysts, Board Members and their staff, and
+appeals board members.
+Letters To Assessors
+Letters To Assessors are advisory letters issued to all county assessors and interested parties. Typically, the letters
+provide staff interpretations of rules, laws, and court decisions, or general information relating to property tax
+assessment. A no-cost email subscription service for Letters To Assessors is available at
+www.boe.ca.gov/proptaxes/letters/index.htm.
+Assessment Services
+The BOE also responds to individual inquiries from county assessors, legislators, taxpayers, and the business
+community, as well as to letters written to the Governor on property tax issues. To contact the BOE via email with
+property tax questions, email PT-WebRequests@boe.ca.gov.
+Legal Entity Ownership Program
+This program is a cooperative effort between the BOE and the Franchise Tax Board to discover both changes in
+ownership and change in control of legal entities. When the BOE determines that an entity that owns real property
+in California has undergone a change in control or ownership, the BOE informs the appropriate county assessors of
+the need to reappraise real property owned by those entities.
+Clearinghouse Programs
+The BOE monitors claims for relief under Propositions 58 (parent-child transfers) and 193 (grandparent-grandchild
+exclusion), Propositions 60 and 90 (persons over 55) and 110 (disabled persons), Proposition 19 (base year value
+transfer for persons over 55 or disabled), and Proposition 3 (eminent domain properties).
+Forms
+The BOE prescribes many types of forms for use by county assessors, such as business property statements,
+exemption claim forms, and change in ownership forms. County assessors may make limited revisions to the forms
+to meet their processing needs, but they must submit such revised forms for BOE staff review and approval.
+
+State-Assessed Properties Division
+The State-Assessed Properties Division is responsible for administering the assessment program of California
+state assessees under the BOE’s jurisdiction.
+State Assessees
+The California Constitution requires the BOE to annually assess property (except franchises) owned or used by
+regulated railway, telegraph, or telephone companies, car companies operating on railways in the state, and
+companies transmitting or selling gas or electricity. It also requires the BOE to annually assess pipelines, flumes,
+canals, ditches, and aqueducts lying within two or more counties. Except for the railway car companies (see Private
+Railroad Car Tax below), the assessed values are allocated to the counties and other local tax jurisdictions in which
+the property is located. The taxes are levied and collected in the same manner as they are for county-assessed
+properties. State-assessed property is not subject to the provisions of Proposition 13 and is assessed at its
+fair market value, or its full value, as of 12:01 a.m. each January 1.
+
+
+
+
+4      CALIFORNIA PROPERTY TAX | MARCH 2025
+Private Railroad Car Tax
+The BOE performs the entire assessment function, including appraisal and tax collection, for privately owned
+railroad cars.
+Tax-Rate Mapping Program
+A tax-rate area number is assigned to each geographical area in the state with a different distribution of revenues
+among taxing jurisdictions. The BOE maintains this program in order to allocate the value of certain state-assessed
+properties to their appropriate taxing jurisdictions. County auditors also use these tax-rate areas to allocate
+property tax revenues to the appropriate taxing jurisdictions.
+
+Taxpayers’ Rights Advocate Office
+The Taxpayers’ Rights Advocate, appointed by the BOE Executive Director, is responsible for implementing the
+Morgan Property Taxpayers’ Bill of Rights. The Advocate facilitates resolution of taxpayer complaints and problems
+in the assessment and collection of property taxes, and monitors programs administered by the BOE and by county
+assessors for compliance with the Taxpayers’ Bill of Rights. The Advocate is also charged with identifying areas of
+recurring conflict between taxpayers and property tax assessment officials.
+The Advocate has an educational role in providing education and instruction to local taxpayers to promote
+taxpayer understanding of property tax law under section 5908 of the Revenue and Taxation Code; it does so
+by issuing Information Sheets on various topics to help taxpayers. The Advocate issues a formal annual report
+highlighting the accomplishments of the Taxpayers’ Rights Advocate Office, providing examples of cases
+illustrating the services its office provides to assist taxpayers, identifying issues that its office worked on to resolve,
+and its work on educational projects to help taxpayers. The BOE holds an annual public hearing to address the
+report and give taxpayers, industry representatives and other stakeholders the opportunity to present ideas and
+concerns on property taxes and the alcoholic beverage tax.
+In addition, the Property Taxpayers’ Bill of Rights provides measures designed to promote the fair administration of
+the property tax. For example, section 5909 of the Revenue and Taxation Code provides for relief of penalties and
+interest in some situations where a taxpayer relies on written rulings from the county assessor.
+        Taxpayers’ Rights Advocate Office
+        California State Board of Equalization
+        PO Box 942879
+        Sacramento, CA 94279-0120
+        Telephone: 1-916-274-3400
+        www.boe.ca.gov/tra
+
+
+
+
+                                                                                 MARCH 2025 | CALIFORNIA PROPERTY TAX         5
+     THE ROLE OF THE COUNTY ASSESSOR
+The county assessor, an elected official, is governed by the California Constitution, the laws passed by the
+Legislature, and the rules adopted by the BOE. An individual county government does not control the county
+assessor’s tasks.1
+
+Annual Assessments
+The county assessor must annually assess all taxable property in the county, except for state-assessed property,
+to the person, business, or legal entity owning, claiming, possessing, or controlling the property on January 1. The
+duties of the county assessor are to discover all assessable property, to inventory and list all taxable property, to
+value the property, and to enroll the property on the local assessment roll.
+The assessor’s primary responsibility is to annually determine the proper taxable value for each property so the
+owner is assured of paying the correct amount of property tax for the support of local government.
+
+Local Property Tax Roll
+The assessed value determined and enrolled by the county assessor is multiplied by the appropriate tax rate to
+form the basis of the current year’s tax bill. The tax rate is 1 percent plus (1) the amount necessary to make annual
+payments due on general obligation bonds or other indebtedness incurred prior to July 1, 1978; (2) any bonded
+indebtedness for the acquisition or improvement of real property approved by a two-thirds majority of voters on
+or after July 1, 1978; and (3) certain bonded indebtedness for school facilities approved by 55 percent of the voters.
+The collection of these taxes and their allocation to the appropriate taxing jurisdictions are functions of the county
+tax collector and the county auditor, respectively. Like the county assessor, these officials are governed by state law.
+
+
+
+     TAXABLE PROPERTY
+Unless the California Constitution or federal law specifies otherwise, all property is taxable. Property is defined as all
+matters and things—real, personal, and mixed—that a private party can own.
+Real Property
+Real property is defined as:
+     • The possession of, claim to, ownership of, or right to the possession of land.
+     • All mines, minerals, and quarries in the land, all standing timber whether or not belonging to the owner of the
+       land, and all pertinent rights and privileges.
+     • Improvements—defined as all buildings, structures, fixtures, and fences erected on or affixed to the land, and
+       all fruit, nut bearing, or ornamental trees and vines, not growing naturally, and not exempt from taxation,
+       except date palms under eight years old.
+
+Personal Property
+Personal property is defined as all property except real property. Personal property is either tangible or intangible.
+Generally, all tangible personal property is taxable except where specific exemptions are provided. Tangible
+personal property is any property, except land or improvements, that may be seen, weighed, measured, felt, or
+touched, or which is in any other manner perceptible to the senses.
+
+1
+    See the BOE’s website for a listing of county assessors.
+
+
+
+
+6           CALIFORNIA PROPERTY TAX | MARCH 2025
+Examples of taxable tangible personal property include portable machinery and equipment, office furniture,
+tools, and supplies. Examples of nontaxable tangible personal property are household goods and personal
+effects, noncommercial boats worth $400 or less, and goods held for sale or lease in the ordinary course of
+business (inventories).
+Examples of nontaxable intangible property include notes, corporate securities, shares of capital stock, solvent
+credits, bonds, deeds of trust, mortgages, liquor licenses, insurance policies, club memberships, and copyrights.
+The classification of property as either real property or personal property is significant because the tax assessment
+procedures vary depending on the type of property:
+  • The Legislature may exempt personal property from taxation or provide for differential taxation. The Legislature
+    does not have this power over real property.
+  • Personal property is not subject to Proposition 13 value limitations.
+  • Generally, special assessments are not applicable to personal property.
+
+Possessory Interests
+Private interests in publicly owned lands, known as possessory interests, are also taxable. Examples of taxable
+possessory interests include permitted use of U.S. Forest Service property such as ski resorts, stores, and cabins;
+harbor leases; boat slips at public marinas; tie-downs at public airports; grazing land permits; employee housing on
+tax-exempt land; and mineral rights in public lands.
+A possessory interest in real property exists as a result of possession, exclusive use, or a right to possession or
+exclusive use of land and/or improvements without either outright ownership of the land or a life estate in the
+property. A possessory interest becomes taxable when the interest is held in nontaxable publicly owned real
+property. There is no possessory interest assessment on the use of publicly owned personal property.
+
+Properties Owned by Local Governments Outside Their Boundaries
+Properties that are owned by local governments but located outside their boundaries are taxable under article
+XIII, section 11, and article XIII A of the California Constitution if the property was taxable when it was acquired by
+the local government. Each year, the lowest of the following three values is enrolled: the current market value, the
+factored base year value, or the value determined under a special formula prescribed in section 11.
+
+Property Not Covered by Proposition 13
+Proposition 13 did not affect the assessment of all property. Properties not affected by Proposition 13 fall into two
+general categories:
+  • Personal property.
+  • Utilities, railroads, and other properties assessed by the BOE.
+
+
+
+
+                                                                              MARCH 2025 | CALIFORNIA PROPERTY TAX        7
+    PROPERTY TAX EXEMPTIONS
+The State Constitution provides for a variety of full and partial exemptions. The Legislature has unlimited authority
+to provide for exemption of any kind of personal property, but it cannot exempt real property without specific
+authority provided by the Constitution.
+Following is a brief discussion of some of the major property tax exemptions in California. Please note that
+issues regarding many of these exemptions are complex; the assessor’s office should be consulted for detailed
+requirements regarding exemptions.
+
+Personal Effects
+Household furniture, hobby equipment, and other personal effects are exempt. This exemption does not include
+vehicles, aircraft, or boats with a value over $400. It also does not include any property used for a trade or business.
+No filing is required.
+
+Intangible Personal Property
+All forms of intangible personal property are exempt. Examples of intangible personal property include cash, bank
+accounts, mortgages, and stock certificates. No filing is required.
+
+Homeowners’ Exemption
+The Constitution requires a $7,000 reduction of taxable value for qualifying owner-occupied homes when the homes
+are the owners’ principal place of residence. Rentals and vacation homes do not qualify. The state reimburses local
+agencies for the loss in property tax revenue. The homeowner must make a simple one-time filing with the county
+assessor for the exemption.
+
+Business Inventory
+Personal property held for sale or lease in the ordinary course of business is exempt. “Business inventory” includes
+merchandise held for sale or lease, animals used in the production of food or fiber, and incidental supplies passed
+on to the customer. The exemption does not include property in use on the lien date (except animals) or ordinary
+supplies. No filing is required, but the assessor may audit the taxpayer to verify whether the property qualifies.
+
+Low-Value Property Tax Exemption
+A county board of supervisors is authorized to exempt from property taxes real property with a base year value and
+personal property with a full value so low that, if not exempt, the total taxes, special assessments, and applicable
+subventions on the property would amount to less than the cost of assessing and collecting them. The value
+threshold is $10,000 or less. However, the value threshold is increased to $50,000 for possessory interests that are
+for a temporary and transitory use in a publicly owned convention center, cultural facility, or fairground.
+
+Church Exemption
+Land, buildings, and personal property used exclusively for religious worship are exempt. The exemption does not
+include excess property or property used for purposes other than religious worship. This exemption requires an
+annual filing.
+
+Welfare Exemption
+The welfare exemption includes property owned, irrevocably dedicated to, and used for religious, hospital,
+scientific, and/or charitable purposes. The BOE makes a one-time determination regarding whether an organization
+is eligible for the exemption. Each year, the county assessor determines whether the property is being used for
+exempt purposes.
+
+
+8      CALIFORNIA PROPERTY TAX | MARCH 2025
+Disabled Veterans’ Exemption
+Current law provides a basic exemption of $100,000 on the principal place of residence for veterans with specified
+disabilities or for unmarried surviving spouses of deceased disabled veterans. A one-time filing is required. This
+exemption may be raised to $150,000 if the applicant meets the income limit of $40,000. Annual filing is required
+for the $150,000 exemption. The income limit and both the exemption amounts are adjusted annually for inflation.
+
+Crops, Trees, and Vines
+Growing crops are exempt. No filing is required. Grapevines are exempt for the first three years and orchard trees
+for the first four years after the season in which they are planted. Date palms under eight years of age are exempt.
+
+Other Examples of Exempt Properties
+Listed below are some other types of properties that are fully or partially exempt. Some of the exemptions require
+filing, and there are restrictions on the use of the properties in some cases.
+        Aerospace museum personality               Historical aircraft
+        Livestock (most)                           Burial plots
+        Nonprofit colleges and schools             Large vessels and low-value boats
+        Free libraries and museums                 Art gallery displays
+
+
+
+ OTHER PROPERTY TAX RELIEF MEASURES
+The State Constitution provides for a variety of tax relief measures that the Legislature has implemented as
+California property tax relief programs. The issues and qualifications regarding these programs are complex, and
+claim forms must be filed to obtain the relief. The county assessor’s office should be contacted for claim forms and
+detailed requirements regarding these programs.
+
+New Construction Exclusion for Disabled Access
+New construction may be excluded from reassessment if it consists of modifying an existing structure to make the
+structure more accessible to a physically disabled person. Claims for this exclusion must be filed with the county
+assessor.
+
+Disaster Relief
+The taxable value of properties that have been substantially damaged or destroyed by a disaster may be reassessed
+to reflect the damage, under the county’s disaster relief ordinance. Claims for this relief must be filed with the
+county assessor within the time period specified in the ordinance or within one year from the date the property
+was damaged or destroyed by the disaster, whichever is later. The reduced value remains until the property is fully
+repaired, restored, or reconstructed. Then the factored base year value will be restored as long as it is substantially
+equivalent to the property prior to the damage or destruction.
+If the disaster occurs in an area proclaimed by the Governor to be in a state of emergency and the taxpayer chooses
+not to repair, restore, or reconstruct the damaged property, the taxpayer may seek to transfer their base year value
+under one of the following programs:
+
+
+
+
+                                                                             MARCH 2025 | CALIFORNIA PROPERTY TAX      9
+     • The taxable value of property substantially damaged or destroyed may be transferred to comparable
+       replacement property that is located within the same county and acquired or newly constructed within five
+       years (eight years for Camp Fire) after the disaster. Claims for this exclusion are filed with the county assessor.
+       (Revenue and Taxation Code 69)
+     • The taxable value of a principal residence substantially damaged or destroyed may be transferred to a qualified
+       replacement residence located within another county, provided that the replacement residence is purchased or
+       newly constructed within three years after the disaster and located in a county that has adopted an ordinance that
+       allows such taxable value transfers. This is effective for disasters occurring on or after October 20, 1991. Contra
+       Costa, Glenn, Los Angeles, Modoc, Orange, San Diego, San Francisco, Santa Clara, Solano, Sonoma, Sutter, Ventura,
+       Yolo, and Yuba Counties have adopted ordinances accepting transfers of base year value under this program.
+       Claims for this exclusion must be timely filed with the county assessor. (Revenue and Taxation Code 69.3)
+     • The taxable value of a principal residence substantially damaged or destroyed by wildfire or natural disaster may
+       be transferred to a replacement residence located anywhere in California provided the replacement residence is
+       purchased or newly constructed within two years of the sale of the damaged or destroyed principal residence.
+       Claims for this exclusion must be timely filed with the county assessor. (Revenue and Taxation Code 69.6)
+
+Eminent Domain
+The taxable value of property may be transferred to a comparable replacement property if the person acquiring the
+real property has been displaced from property by eminent domain proceedings, by acquisition by a public entity,
+or by governmental action that resulted in a judgment of inverse condemnation. The replacement property does
+not have to be located in the same county as the taken property. Claims for this exclusion must be filed with the
+county assessor within four years of displacement.
+
+Over 55 and Disabled Citizens Relief
+People over the age of 55 or who are severely and permanently disabled may transfer the taxable value of their
+principal residence to a replacement residence if it is purchased or newly constructed within two years of the sale
+of the original property. While the replacement home may be of any value, if the full cash value of the replacement
+home exceeds the full cash value of the original property, the difference in values will be added to the transferred
+base year value. A person may utilize this tax relief program three times.
+Claims must be filed with the county assessor within three years of the purchase or completion of construction of
+the replacement residence.
+
+Parent-Child and Grandparent-Grandchild Exclusions
+The purchase or transfer of a family home or family farm between parents and children is not subject to
+reassessment if certain qualifications are met and claims are filed. A key requirement for a family home is that the
+family home continues as the principal residence of the transferee. This exclusion also applies to transfers between
+grandparents and grandchildren when both qualifying parents are deceased, subject to certain limitations.
+Additionally, the transfer of each family home or legal parcel of a family farm is subject to a value cap, which is the
+sum of the property’s factored base year value plus $1 million. The $1 million amount is subject to adjustment on
+February 16, 2023, and every other February 16 thereafter. Claims for this exclusion must be filed with the county
+assessor within certain time limits.
+
+Solar New Construction Exclusion
+The construction or addition of any active solar energy system is excluded from new construction and is not subject
+to property taxation until the property changes ownership. A qualifying solar energy system does not include solar
+swimming pool heaters or hot tub heaters. This exclusion is scheduled to sunset on January 1, 2027.
+
+
+
+10        CALIFORNIA PROPERTY TAX | MARCH 2025
+ WHERE PROPERTY IS TAXED
+
+Real Property
+Real property, interests in real property, and taxable possessory interests are taxable in the county where they are
+located, regardless of where the owner lives. If a parcel of real property spans more than one revenue district, the
+portion lying within each district is taxable in that district.
+
+Personal Property
+Tangible personal property is taxable where it has established “permanent situs” (location), regardless of where
+the owner lives. The only exception is personal property belonging to members of the armed services who are
+on active service in California and who have permanent residence outside of California. Some types of personal
+property do not have a fixed location and are movable, for example, copy machines. As a result, determining
+permanent situs depends on a number of factors including the type of property, the way the property is typically
+used, and where the property owner lives.
+
+Aircraft and Vessels
+Private aircraft are taxed at the location of the airport or hangar where they are usually kept. Commercial
+certificated aircraft are taxed on an apportioned basis in each county to which flights are made. Vessels in excess
+of $400 in value are generally assessed where they are habitually located. A small boat not habitually kept at a
+mooring, but lifted from the water and trailered to the owner’s residence or other location, is taxed at the location
+where it is usually kept.
+
+
+
+ THE ASSESSMENT PROCESS
+
+Annual Assessments
+Annually, whoever owns taxable property on January 1 (the lien date) becomes liable for a tax calculated at
+1 percent of the “taxable” value of the property. Article XIII A of the California Constitution (Proposition 13) also
+permits adding to the 1 percent tax rate a rate needed to pay interest and redemption charges for voter-approved
+indebtedness. Such additional rates can vary from area to area within a county.
+
+Change in Ownership and New Construction
+The assessed value for most property taxed under Article XIII A is the prior year’s assessed value adjusted for
+inflation up to 2 percent. However, if there has been a change in ownership or completed new construction, the
+new assessed value will be the market value of the property as of the date that it changed ownership or was newly
+constructed. That property will also be assessed on the supplemental roll.
+
+Supplemental Assessments
+The supplemental roll provides a mechanism for placing reappraisals under Article XIII A into immediate effect,
+rather than waiting for the next January 1 lien date. A prorated assessment (the supplemental assessment) reflects
+the increase or decrease in assessed value that results from the reappraisal. It covers the portion of the fiscal year
+that remains after the date of change in ownership or completed new construction. The supplemental assessment
+statutes apply to any property subject to Article XIII A that has undergone a change in ownership or completed new
+construction.
+
+
+
+
+                                                                            MARCH 2025 | CALIFORNIA PROPERTY TAX        11
+For changes in ownership or completed new construction occurring between January 1 and May 31, two
+supplemental assessments are issued. The first covers the portion of the current fiscal year remaining after the date
+of the event; the second covers the entire next fiscal year. An increase in assessment will result in a supplemental
+tax bill. A decrease in assessment will result in a refund.
+Supplemental assessments do not affect exemptions for which the assessee is otherwise eligible. If granted, the
+exemption is applied to the amount of the supplemental assessment.
+
+
+
+ THE APPEAL PROCESS—LOCAL EQUALIZATION
+The assessor must reassess real property to current market value whenever there is a change in ownership or
+completed new construction. In addition, the assessor may change the assessed value of a property to recognize
+a decrease in value, to correct an error, or to enroll an escaped assessment (one overlooked previously). Except for
+changes in assessment due to annual adjustments for inflation, assessors must notify property owners whenever
+their assessments of real property are increased. The notifications are sent on or before the date the assessment
+roll is completed, generally July 1. Personal property is reassessed annually. Notification of personal property
+assessments is not required.
+
+Appeal Rights
+Property owners can appeal the value of the property appearing on the regular assessment roll by filing an
+Assessment Appeal Application for changed assessment during the regular assessment filing period with the
+clerk of the board of supervisors (sitting as a local board of equalization) or assessment appeals board. The
+regular assessment filing period is July 2 through either September 15 or November 30, depending on whether
+the assessor has elected to mail assessment notices to all taxpayers on the secured roll. A listing of assessment
+appeal filing deadlines by county is posted on the BOE website at www.boe.ca.gov/proptaxes/pdf/filingperiods.pdf.
+Assessments made outside the regular assessment period (supplemental assessments and escape assessments)
+must be appealed within 60 days after the date the notice of change in assessment is mailed. An exception exists in
+Los Angeles County and in any other county where the board of supervisors has adopted an alternative resolution.
+In these counties, such assessments may be appealed within 60 days of the date of mailing printed on the tax bill or
+the postmark date, whichever is later. For disaster relief assessment appeals, a claim must be filed within six months
+of the reassessment notice.
+Homeowners desiring a more complete guide to the appeal process may obtain a copy of the BOE’s
+publication 30, Residential Property Assessment Appeals. This guide may also be found on the BOE website at
+www.boe.ca.gov/proptaxes/asmappeal.htm.
+
+Informal Discussion with Assessor
+Often, a taxpayer’s first step in challenging an assessment is simply to discuss the matter informally with the
+assessor’s staff. The taxpayer should request an explanation of how the assessment was determined and inform the
+assessor of any facts that may affect the value of the property.
+
+
+
+
+12     CALIFORNIA PROPERTY TAX | MARCH 2025
+Administrative Hearing
+The first formal level of appeal is to the board of supervisors, sitting as a county board of equalization, or to the
+assessment appeals board if the county has created one. Taxpayers may obtain an Assessment Appeal Application
+from the clerk of the board. Many counties have the Assessment Appeal Application posted on their county website.
+Some counties use hearing officers for certain appeals.
+The hearing before the board is an administrative hearing. The property owner can choose to be represented by a
+lawyer or a tax agent, but this representation is optional. As a general rule, the property owner has the burden of
+proving that the assessor has improperly valued the property. However, when the property is an owner-occupied,
+single-family dwelling which is the principle residence of the taxpayer, the burden falls on the assessor to prove
+that the property was valued correctly.
+If the taxpayer wants a written explanation of the board’s or hearing officer’s decision, the taxpayer should request
+a “Findings of Fact” before the beginning of the hearing. Findings and a transcript are necessary when a taxpayer
+seeks judicial review of an adverse decision.
+Further information on the actual hearing process may be found in the BOE’s Assessment Appeals Manual.
+This manual provides information and instruction to local boards on assessment appeals practices and
+procedures. The BOE has also created a video that explains and describes the appeals process. The manual,
+video, and other information regarding assessment appeals may be found on the BOE website at
+www.boe.ca.gov/proptaxes/asmappeal.htm.
+
+Court Appeal
+If the county board denies the appeal, the taxpayer may file an action in superior court, but only under certain
+circumstances. Generally, the court will hear a case only for the following reasons: arbitrariness, lack of due process,
+abuse of discretion, failure to follow standards prescribed by law (for example, using an erroneous method of
+valuation), or other questions of law. The court will not receive new evidence of value; it will only review the
+record of the hearing before the county board. If it finds that the county board’s decision is supported by credible
+evidence, it will uphold the board’s decision.
+Taxpayers must exhaust their administrative remedies before seeking relief in court. This includes filing an
+Assessment Appeal Application for changed assessment with the appeals board and a claim for refund of taxes with
+the appropriate county official(s). An action against a county must be filed in superior court within six months after
+the county denies the claim for refund. However, if the county fails to act on the claim for refund for more than six
+months, the taxpayer may consider the claim rejected and file legal action without waiting for the county to act.
+
+
+
+
+                                                                             MARCH 2025 | CALIFORNIA PROPERTY TAX     13
+ TAX COLLECTION
+
+Secured Roll
+The county tax collector is responsible for preparing property tax bills. Bills for the regular secured assessment roll
+(generally real property) are mailed by November 1 and are due in two equal installments. The first installment is
+due November 1 and becomes delinquent December 10. The second installment is due on February 1 and becomes
+delinquent April 10.
+If taxes are not paid by the delinquent date, there is a 10 percent penalty. If a taxpayer receives a notice of
+impending default, and the taxes remain unpaid on the date the notice says they are due, the property is declared
+tax-defaulted. Monthly redemption penalties of 1.5 percent are added to the unpaid taxes. The property owner has
+the right to redeem the property by paying the taxes, penalties, and costs within five years of the date the property
+becomes tax-defaulted. If the property is not redeemed within five years, the property may be sold at public
+auction or acquired by a public agency.
+
+Unsecured Roll
+Property on the unsecured roll is primarily tenant-owned personal property and fixtures (such as office equipment
+and machinery), boats, aircraft, and possessory interests. Property taxes on the unsecured roll are due in one
+payment. They are due on January 1 and become delinquent August 31. The property tax rate on unsecured
+property is based on the previous year’s secured property tax rate.
+To collect delinquent property taxes on the unsecured roll, the tax collector may seize and sell the property, file suit
+for taxes owed, seek a summary judgment against the assessee, or file a certificate of lien.
+
+Supplemental Roll
+The Supplemental Assessment Roll contains a listing of all property that has undergone a change in ownership or
+experienced new construction. Taxes on the supplemental roll are due on various dates depending on when the
+tax bill is mailed. If the bill is mailed between July 1 and October 31, taxes become delinquent on the same days
+as the regular secured roll (December 10 and April 10). If the bill is mailed between November 1 and June 30, the
+first installment becomes delinquent on the last day of the month following the month the bill was mailed, and the
+second installment becomes delinquent the last day of the fourth month following the month in which the first
+installment became delinquent.
+Delinquent supplemental assessments are declared in default if the second installment is delinquent at the time
+the notice of impending default says they are due. A delinquency in supplemental tax leads to default of the entire
+property, even though “regular” taxes have been paid. Monthly redemption penalties of 1.5 percent accrue, and the
+property is subject to sale after five years if taxes are not paid.
+
+
+
+
+14     CALIFORNIA PROPERTY TAX | MARCH 2025
+ GLOSSARY OF PROPERTY TAX TERMS
+Ad Valorem Property Tax
+A tax imposed on the basis of value.
+Assessed Value
+The taxable value of a property against which the tax rate is applied.
+Base Year Value
+For real property assessed under Proposition 13, its fair market value as of either the 1975 lien date or the date the
+property was purchased, newly constructed, or underwent a change in ownership after the 1975 lien date.
+Change in Ownership
+A transfer of a present interest in real property, including its beneficial use, the value of which is substantially equal
+to the value of the fee interest (or, in other words, equal to the value of the full estate) in the property.
+Fixture
+An item of tangible property, the nature of which was originally personal property, but which is classified as real
+property for property tax purposes because it is physically or constructively attached to real property with the
+intent that it remain attached indefinitely.
+Full Cash Value or Fair Market Value
+The amount of cash or its equivalent that property would bring if exposed for sale in the open market under
+conditions in which all of the following occur:
+  • Neither buyer nor seller could take advantage of the needs of the other.
+  • Both buyer and seller have knowledge of all of the uses and purposes to which the property is adapted and for
+    which it is capable of being used.
+  • Both buyer and seller are aware of any enforceable restrictions on the property’s uses and purposes.
+Full Value
+Full value means fair market value, full cash value, or another value standard prescribed by the California
+Constitution or in the Revenue and Taxation Code under the authorization of the Constitution.
+Improvements
+Improvements include:
+  • All buildings, structures, fixtures, and fences erected on or attached to the land.
+  • All fruit, nut bearing, or ornamental trees and vines, not growing naturally, and not exempt from taxation,
+    except date palms under eight years old.
+Lien Date
+12:01 a.m. on January 1 preceding the fiscal year for which taxes are collected. The time that property is valued for
+tax purposes and when taxes become a lien on property.
+New Construction
+Any addition to real property, whether land or improvements (including fixtures) since the last lien date; or any
+alteration of land or improvements (including fixtures) since the last lien date that constitutes a major rehabilitation
+or that converts the property to a different use.
+Personal Property
+All tangible property except real estate. See also “real property.”
+Possessory Interest
+The taxable, private, beneficial use and enjoyment of nontaxable, publicly owned real property as defined in
+section 107 of the Revenue and Taxation Code, and in taxable, publicly owned real property subject to the
+provisions of sections 3(a), (b), and 11 of Article XIII of the California Constitution.
+
+
+
+                                                                               MARCH 2025 | CALIFORNIA PROPERTY TAX      15
+Real Property
+Real estate or real property includes all of the following:
+  • The possession of, claim to, ownership of, or right to the possession of land.
+  • All mines, minerals, and quarries in the land, all standing timber whether or not belonging to the owner of the
+    land, and all pertinent rights and privileges.
+  • Improvements.
+Roll
+A listing of all assessable property within the county. It identifies the property, the owner (if known), and the
+assessed value of the property. Every year the county assessor must prepare two separate rolls: the “Regular
+Assessment Roll“ (section 601 Roll), and the “Supplemental Assessment Roll.”
+Regular Assessment Roll (section 601 Roll)
+The Regular Assessment Roll consists of:
+     1. The “Board Roll,” which lists all property that the BOE is required to assess. This roll is prepared by the BOE
+        and delivered to the county auditor.
+     2. The “Local Roll,” which lists all property assessed by the county, is divided into at least two parts:
+        a. The “Secured Assessment Roll,” which contains state-assessed property and locally assessed property.
+           The taxes on the property are adequately secured by a lien on the real property.
+        b. The “Unsecured Assessment Roll,” which contains property that is not secured to real property or is not
+           a lien against real property. It consists largely of business personal property owned by tenants.
+Supplemental Assessment Roll
+The “Supplemental Assessment Roll” contains a listing of all property that has undergone a change in ownership or
+experienced new construction since the prior “Local Roll” was established.
+Secured Tax Rate
+The percentage at which property on the secured roll is taxed. Taxes on real property cannot exceed 1 percent
+of its taxable value plus an amount to pay the interest and redemption charges on: (1) debts approved by voters
+prior to June 6, 1978; (2) debts approved by a two-thirds vote of the qualified voters after that date; or (3) effective
+January 1, 2001, certain bonded indebtedness for school facilities approved by 55 percent of the voters.
+Severance Tax
+A tax on mineral or forest products at the time they are removed or severed from the soil, usually regarded as a
+form of property taxation.
+State Assessees
+Certain owners and users of property assessed by the BOE on the Board roll.
+Supplemental Assessment
+A property tax assessment made in accordance with chapter 3.5 of part 0.5 of division 1 of the Revenue and
+Taxation Code. Supplemental assessments are made whenever a property, or a portion of it, changes ownership or
+experiences new construction.
+The amount of each supplemental assessment is the difference between the property’s new base year value—
+determined as of the date of change in ownership or completion of new construction—and the existing taxable value.
+Taxable Value
+For real property subject to Article XIII A, the base year full value adjusted for inflation for any given lien date as
+required by law, or the full cash value for the same lien date, whichever is less.
+Unsecured Tax Rate
+Previous year’s secured property tax rate.
+
+
+
+
+16      CALIFORNIA PROPERTY TAX | MARCH 2025
+    FOR MORE INFORMATION
+Below is a list of additional information/resources available on the BOE website at www.boe.ca.gov.
+
+Revenue and Taxation Code and Other Statutes
+The legislative implementation and interpretation of the state constitutional provisions applicable to property tax
+assessment matters are found in the Revenue and Taxation Code. These statutes provide the framework of the
+property tax assessment process. In addition, the Revenue and Taxation Code sections may incorporate and follow
+the provisions of other codes; for example, Government Code sections 15602 and following sections implement the
+constitutional provisions relating to the authority of the California State Board of Equalization.
+
+Property Tax Rules
+Government Code section 15606 provides that the “State Board of Equalization shall ... [p]rescribe rules and
+regulations to govern local boards of equalization when equalizing, and assessors when assessing, including uniform
+procedures for the consideration and adoption of written findings of fact by local boards of equalization....” Title 18,
+Public Revenues, of the California Code of Regulations contains the body of regulations that the Board has adopted
+to implement, interpret, and make specific the statutes governing the property tax assessment process, change
+in ownership, and the functions of assessment appeals boards and boards of equalization. These regulations are
+commonly referred to as Property Tax Rules.
+
+Assessors’ Handbook Sections
+The Assessors’ Handbook is a collection of manuals or sections adopted and published by the California State Board of
+Equalization. The manuals address property tax appraisal and assessment practices. Prior to adoption, each manual
+undergoes a process whereby interested parties participate in drafting the language, and interested parties are
+afforded an opportunity to submit written comments or to address the Board during a public hearing regarding the
+final language.
+The Assessors’ Handbook and other Board-approved publications do not have the force of law. Instead, they provide
+advisory notice to county assessors and appeals boards of the Board’s interpretation, analyses, conclusions, and
+recommendations concerning problems of general concern, and often document court decisions, legislative
+enactments, or other legal and policy information. While Board-adopted publications are advisory only, courts
+have held that they may be properly considered as evidence in the adjudicatory process.2
+
+Publications
+Property tax publications provide basic information on the specific property tax topic addressed in the publication. In
+any instance where there is an inconsistency between a statute or regulation and a publication or other document,
+statutory or regulatory law is controlling.
+
+Forms
+Government Code section 15606, subdivision (d), provides that the California State Board of Equalization (BOE) shall:
+Prescribe and enforce the use of all forms for the assessment of property for taxation, including forms to be used
+for the application for reduction in assessment. In addition to section 15606, the Legislature has enacted numerous
+statutes mandating forms for use in particular property tax programs and has specified that the Board shall prescribe
+the content of the forms after consultation with interested parties. Both the forms prescribed pursuant to section
+15606 and the forms prescribed pursuant to specific statutes are referred to as Board-prescribed forms.
+
+
+Coca-Cola Co. v. State Board of Equalization (1945) 25 Cal.2d 918; Prudential Ins. Co. v. County of San Francisco (1987) 191 Cal.App.3d 1142; Hunt-Wesson
+2
+
+Foods, Inc. v. County of Alameda (1974) 41 Cal.App.3d 163.
+
+
+
+                                                                                                   MARCH 2025 | CALIFORNIA PROPERTY TAX                     17
+          CALIFORNIA STATE BOARD OF EQUALIZATION
+MAILING ADDRESS: P.O. BOX 942879 • SACRAMENTO, CA 94279-0001
+

@@ -1,0 +1,2113 @@
+VA Home Loan Guaranty
+    Buyer’s Guide
+
+
+
+
+                    Version: April 2022gf
+Table of Contents
+Overview ....................................................................................................................................................... 3
+Outline of the VA Homebuying Process ........................................................................................................ 5
+Eligibility ........................................................................................................................................................ 6
+Before Borrowing .......................................................................................................................................... 9
+      Beginning the VA Home Loan process .................................................................................................. 9
+      Some helpful tips: ............................................................................................................................... 10
+      General Mortgage Costs ..................................................................................................................... 11
+Buying a Home with a VA-Guaranteed Loan .............................................................................................. 14
+Additional VA Loan Options ........................................................................................................................ 15
+      Energy Efficient Mortgage (EEM) ........................................................................................................ 15
+      Alteration and Repair loan .................................................................................................................. 16
+      Construction Loan ............................................................................................................................... 17
+      Farm Residence Loan .......................................................................................................................... 19
+      Loan Assumption................................................................................................................................. 20
+Required Loan Documents.......................................................................................................................... 22
+      Lender-Required Documents .............................................................................................................. 22
+      VA-Required Documents..................................................................................................................... 22
+The VA ‘Escape Clause’ ............................................................................................................................... 23
+VA Appraisal ................................................................................................................................................ 23
+   What if my appraisal is below the purchase price? ................................................................................ 24
+Home Inspections ....................................................................................................................................... 25
+   Negotiable items ..................................................................................................................................... 27
+At Closing: Buying Your Home .................................................................................................................... 28
+Post-Purchase: Mortgage Servicing ............................................................................................................ 29
+      Escrow Accounts ................................................................................................................................. 29
+Appendix A: Military Service Requirements ............................................................................................... 31
+      Veterans and Active Duty Service members ....................................................................................... 31
+      National Guard and Reserve members ............................................................................................... 31
+      Exceptions to minimum service requirements ................................................................................... 32
+      Other Than Honorable, Bad Conduct, or Dishonorable discharges .................................................... 32
+Appendix B: Certificate of Eligibility (COE).................................................................................................. 33
+   How to apply for a COE ........................................................................................................................... 33
+   Proof of Service Requirements ............................................................................................................... 33
+   Character of Service (COS) Requirements .............................................................................................. 34
+      Notes on Reserve and National Guard COS requirements ................................................................. 35
+      Upgrading discharge status................................................................................................................. 35
+Appendix C: Funding Fee Tables ................................................................................................................. 36
+Appendix D: Reusing the VA Loan............................................................................................................... 37
+      Re-using your VA Loan benefit (Restoring Entitlement) ..................................................................... 37
+      Buying Another Home (Remaining Entitlement) ................................................................................ 37
+Appendix E: Eligible Spouses....................................................................................................................... 40
+      How to apply for Dependency and Indemnity Compensation (DIC): ................................................. 41
+      Surviving Spouses applying for VA Home Loan eligibility: .................................................................. 41
+Appendix F: Native American Direct Loan (NADL) Program ....................................................................... 43
+      NADL Eligibility .................................................................................................................................... 43
+Appendix G: How to Avoid Foreclosure ...................................................................................................... 45
+
+
+
+                                                                                  1
+    If You Cannot Make Payments on the Due Date?............................................................................... 45
+    What If I Experience Financial Troubles? ............................................................................................ 46
+    Beware of the "Dotted Line" ............................................................................................................... 46
+Appendix H: FAQs and Common Issues ...................................................................................................... 48
+Appendix I: Terms and Definitions .............................................................................................................. 50
+
+
+
+
+                                                                        2
+                                             Overview
+Created by the original G.I. Bill (Servicemen’s Readjustment Act of 1944), the VA-Guaranteed Home Loan
+program has helped generations of Veterans, Servicemembers, and their families enjoy the dream of
+homeownership and the opportunity to retain their homes in times of temporary financial hardship.
+
+Should you have any questions about the VA Home Loan benefit or issues with your current home loan,
+                             feel free to contact us at: 1-877-827-3702.
+
+What is the VA Home Loan ‘Guaranty’?
+The VA home loan guaranty is an agreement that VA will reimburse a lender (such as banks, credit
+unions, mortgage companies, etc.) in the event of loss due to foreclosure. This guaranty takes the place
+of your down payment.
+
+Who is eligible for a VA Home Loan?
+Active-duty servicemembers and Veterans with discharges other than dishonorable, National Guard and
+Reserve service members and Veterans with an honorable discharge, certain eligible spouses, and other
+uniformed service personnel may be eligible for VA home loan guaranty benefits. The full listing is
+available online at: https://www.va.gov/housing-assistance/home-loans/eligibility/.
+
+Is there a fee to use the VA Home Loan Guaranty?
+Yes, but the funding fee can be waived (see list below). To keep the program viable, Congress instituted
+a program funding fee, which is a percentage of the total loan amount. This user fee varies based
+whether the loan is a first-time or subsequent (second, third, etc.) use of the benefit. The funding fee
+may be paid in cash or included in the loan at closing.
+    *The funding fee can also be paid by the seller, lender, or any other party on your behalf. (See
+    Chapter 8 of the Lenders Handbook)
+The following individuals do not pay the VA funding fee:
+    • Veterans receiving VA compensation for a service-connected disability.
+    • Veterans entitled to receive VA compensation for a service-connected disability, but receive
+        retirement pay or active service pay.
+    • Unremarried surviving spouses of Veterans who died in active service or from a service-
+        connected disability.
+    • Service member with a proposed or memorandum rating from VA, prior to loan closing, as
+        eligible to receive compensation as a result of a pre-discharge claim.
+    • Service member on active duty who provides, on or before the date of loan closing, evidence of
+        having been awarded the Purple Heart.
+
+Is there a limit to the size of a VA-backed mortgage?
+There are no loan limits if one has full home loan benefit or full entitlement. If you are a first-time
+homebuyer or have sold your previous VA-backed home and paid your loan in full, you can enjoy VA-
+backing on a home loan regardless of home price and without the need for a down payment.1 Of
+course, you must be able to afford the home and the property must appraise for at least the purchase
+price, otherwise you may have to make a small down payment.
+
+
+1
+ Blue Water Navy Vietnam Veterans Act of 2019, https://www.congress.gov/bill/116th-congress/house-
+bill/299/text
+
+
+                                                     3
+   Note: For loans made prior to 2020 that exceeded the Freddie Mac conforming loan limit, lenders
+   required borrowers to pay a down payment for the loan amount above the county loan limit.
+
+What if I want to buy a home while I still have another VA Home Loan?
+While you can buy a home for any loan amount, you must either sell your previous home or understand
+VA rules on subsequent purchases and remaining entitlement. Those who purchase a subsequent home
+without selling their previous VA-guaranteed home will continue to follow their county conforming loan
+limit for the VA loan guaranty. This may mean a down payment on any amount above the loan limit.
+   Note: You must be able to afford all your VA loans at the same time and the subsequent home must
+   become your residence. (See Appendix D: Reusing the VA Loan below or this blog)
+
+Why choose VA?
+The VA Home Loan is often the best home loan product for Veterans. Some benefits include:
+   •    No down payment as long as the sales price is at or below the home’s appraised value (the
+        value set for the home after an expert review of the property) See VA Appraisal section below
+   •    No loan limit with full entitlement if you can afford the loan, VA will back loans in all areas of
+        the country, regardless of home price.
+   •    Competitive terms and interest rates from private banks, mortgage lenders, or credit unions
+   •    No need for private mortgage insurance (PMI) or mortgage insurance premiums (MIP)
+           o PMI is a type of insurance that protects the lender if the borrower ends up not being
+               able to pay the mortgage. It’s usually required on conventional loans if the down
+               payment is less than 20% of the total mortgage amount.
+           o MIP is what the Federal Housing Administration (FHA) requires borrowers to pay to self-
+               insure an FHA loan against future loss.
+           o Not having to pay PMI could save a borrower on their monthly mortgage payment
+   •    Fewer closing costs, which may be paid by the seller, lender, or any other party
+   •    No penalty fee for paying off the loan early
+   •    Access to VA loan staff who can answer questions by mail or phone (1-877-827-3702). (Contact
+        information is online at: https://www.benefits.va.gov/homeloans/contact_rlc_info.asp)
+
+       See more frequently asked questions in Appendix H: FAQs and Common Issues.
+
+
+
+
+                                                       4
+                 Outline of the VA Homebuying Process
+Buying a home can seem intimidating to first-time homebuyers. The intent of this guide is to help
+alleviate some of that stress by giving you the information you’ll need to make the decisions right for
+you.
+This guide is organized to explain the general VA homebuying process in a linear fashion. You can start
+with VA – from starting the home shopping through what do if you need to avoid foreclosure in the
+future.
+
+
+
+ What you need to know when buying a home with the VA home loan:
+     •   Verify your VA Home Loan eligibility (or if you meet the criteria for surviving spouse eligibility)
+     •   Learn about the basics of home-buying before you shop around
+     •   Apply for your VA home loan Certificate of Eligibility (or apply through your lender)
+     •   Know the additional loan options for VA home loans
+     •   Gather the required documents to provide to your lender
+     •   Learn about the VA appraisal and ‘VA Escape Clause’
+     •   Some things to know after you close on your loan
+
+
+
+
+ Additional sections of this document include:
+     •   Military service requirements, exemptions and other than honorable discharges
+     •   Funding Fees
+     •   Reusing the VA loan
+     •   Who are eligible surviving spouses
+     •   How to avoid foreclosure
+     •   Some frequently asked questions
+
+
+
+
+                                                     5
+                                            Eligibility
+Based on your service to the country, you may be eligible for the VA Home Loan benefit. VA is the only
+organization that can determine eligibility for a VA direct or VA-backed home loan benefit based on your
+length of service or service commitment, duty status, and character of service. Details for determining
+eligibility (including calculating credible years of service) can be found in Chapter 7 of the M26-1
+Guaranteed Loan Processing Manual.
+
+                            Lenders’ Borrowing Requirements:
+You must meet your lender’s minimum or standards of credit, income, and any other requirements to
+approve a loan. VA does NOT require a minimum credit score, but most lenders will use a credit score to
+help determine your interest rate and to lower risk. Typically, lenders may want borrowers to have a
+minimum credit score.
+Because different lenders have different requirements, feel free to shop around for a lender that meets
+your financial and homebuying needs.
+
+                               VA’s Borrowing Requirements:
+VA does not determine how much you can borrow. However, unlike other loans, VA requires you to
+have enough income remaining after paying your mortgage and other financial obligations. This helps
+ensure you can afford homeownership and lessen the risk of defaulting on your loan.
+Also, you must:
+        1) live in the home being bought with the loan, and
+        2) meet ONE of the following:
+
+Active-Duty Servicemember: Currently on active duty and have served at least 90 continuous days.
+    Note: Active duty includes Active Guard Reserve (AGR) members activated under Title 10 U.S.C.
+
+Veteran: Veterans separated from active duty between August 2, 1990 and the present (Gulf War era)
+must have served:
+    •   24 continuous months, or
+    •   A full period (at least 90 days) for which you were called or ordered to active duty, or
+    •   At least 90 days if discharged for a hardship, a reduction in force, or for convenience of the
+        government, or
+    •   Less than 90 days (if discharged for a service-connected disability)
+    Note: This includes Reserve and National Guard members called to active duty for at least 90 days.
+    Active duty does not include active duty for training.
+                                    NATIONAL GUARD on Active-duty:
+        •   At least 90 days of non-training active-duty service (shown on DD214 for the activation or
+            any other documents to support the activation), OR
+        •   At least 90 days of active service including at least 30 consecutive days (shown as 32 USC
+            sections 316, 502, 503, 504 or 505 activation on your DD214, annual point statements,
+            DD220 with accompanying orders, or any other documents to support the activation)
+                                         RESERVE on Active-duty:
+        •   At least 90 days of non-training active-duty service (shown on DD214 or any other
+            documents to support the activation)
+
+
+                                                     6
+                 A full listing of length of service requirements for other eras is located here.
+
+
+Reserve / National Guard Service member: If not otherwise eligible (e.g., with prior active duty or
+Title 10 or Title 32 service listed under the ‘Veteran’ section above), this includes those currently serving
+in the Selected Reserve or National Guard (member of an active unit, attending required weekend drills,
+and two-week active duty for training). You must complete a total of six credible years and ONE of the
+following:
+     • Continue to serve in the Selected Reserve.
+     • Serve as Active Guard Reserve (AGR).
+     • Placed on the retired list.
+     • Transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected
+         Reserve after service characterized as honorable service.
+      Note: AGR Service members (on Title 32 U.S.C. orders) and Individual Mobilization Augmentee
+      (IMA) Service members must meet the 6-year requirement. Periods of Inactive Ready Reserve (IRR)
+      service are NOT creditable toward the 6-year requirement.
+
+Reserve / National Guard Veteran: If not otherwise eligible (see ‘Veteran’ section above), you must
+have completed a total of six credible years in the Selected Reserve or National Guard (member of an
+active unit, attended required weekend drills and two-week active duty for training) and ONE of the
+following:
+     • Discharged with an honorable discharge, or
+     • Placed on the retired list, or
+     • Were transferred to the Standby Reserve or an element of the Ready Reserve other than the
+        Selected Reserve after service characterized as honorable service.
+      Note: Periods of Inactive Ready Reserve (IRR) service are NOT creditable toward the 6-year
+      requirement Individuals who completed less than six years may be eligible if discharged for a
+      service-connected disability. For discharge status that is not honorable, see the Other Than
+      Honorable, Bad Conduct, or Dishonorable discharges under Appendix A below.
+
+Eligible Spouses: The spouse of a Veteran can also apply for home loan eligibility if they 1) are eligible
+for, or in receipt of, a qualifying Dependency and Indemnity Compensation (DIC) benefit award, and 2)
+under ONE of the following conditions:
+     • Unremarried surviving spouse of a Veteran who died while in service (active, reserve, or national
+          guard) or from a service-connected disability, or
+     • Unremarried surviving spouse of certain totally disabled (100% rated) Veteran whose disability
+          may not have been the cause of death, or
+     • Surviving spouse who remarries on or after December 16, 2003 after attaining age 57, or
+     • Spouse of a living Service member missing in action (MIA) or a prisoner of war (POW) for more
+          than 90 days, for as long as the Service member is in that status (this is one-time use only) 2
+      Note: More information is available below in Appendix E: Eligible Spouses
+
+
+
+
+2
+    See paragraph 3 of 38 U.S.C §3701(b)
+
+
+                                                        7
+Other eligible borrowers:
+   • A U.S. citizen who served in the Armed Forces of a government allied with the United States in
+       World War II
+   •   Served as a member in certain organizations, such as:
+           o Cadet at the United States Military, Air Force, or Coast Guard Academy
+           o Commissioned Officers of the Public Health Service
+           o Officer of the National Oceanic & Atmospheric Administration (NOAA)
+           o Midshipman at the United States Naval Academy
+           o Merchant seaman during World War II
+   •   Details for other eligible borrowers can be found in Chapter 7 of the M26-1 Guaranteed Loan
+       Processing Manual
+
+
+
+
+                                                  8
+                                   Before Borrowing
+Before buying a home, you should consider the costs and benefits of homeownership. While renting a
+home can offer flexibility and limited responsibility for maintenance, rent can change over time, the
+owner can sell the property, and you may or may not receive your security deposit when you move.
+Homeownership, over the long-term can offer benefits such as relatively stable monthly mortgage
+payments and a way to build wealth for you and your family.
+VA highly recommends that you determine your priorities before buying a home, such as what you are
+willing to spend each month on a mortgage and what other expenses (vehicle, childcare, etc.) you will
+have to consider. Only you can determine what meets your housing and financial needs.
+       Note: The Consumer Financial Protection Bureau (CFPB) offers tools and resources to help you
+       find the right home loan for you at: https://www.consumerfinance.gov/owning-a-home/.
+
+
+     When you are ready to buy a home or refinance your loan, VA will be there to serve you
+                               throughout the life of the loan.
+
+
+Beginning the VA Home Loan process
+Below are the general steps for starting the home buying process.
+
+   1. Apply for your VA home loan Certificate of Eligibility (COE) – The COE verifies to
+      your lender that you qualify for the VA home loan benefit. If you have used your loan benefit in
+      the past, a current COE may be helpful to know how much remaining entitlement you have or to
+      ensure your entitlement was restored for previous VA-backed loans that were paid in full.
+
+   2. Look at your current finances – Review your credit profile, income, expenses, and
+      monthly budget to make sure you’re ready to buy a home. Decide how much you want to spend
+      on a mortgage—and be sure to include closing costs in the overall price. Get more advice from
+      the Consumer Financial Protection Bureau.
+
+   3. Choose a lender – You can go through a private bank, mortgage company, or credit union to
+      get your loan. Lenders offer different loan interest rates and fees, so shop around for the loan
+      that best meets your needs.
+
+   4. Choose a real estate agent – Meet with several real estate agents and then select one to
+      represent you in the homebuying process. You can take your lender’s pre-approval letter to your
+      real estate agent and begin shopping. Read all agreements—and make sure you understand any
+      charges, fees, and commissions—before signing with an agent. Remember they work for you
+      and should put your interests first.
+
+   5. Shop for a home – Look at houses in your price range until you find one that works for you.
+
+
+
+
+                                                   9
+Some helpful tips:
+    •   Know your lender’s credit requirements – VA does NOT require a minimum credit
+        score, but most lenders will use a credit score to help determine your interest rate. Typically,
+        lenders may want borrowers to have a minimum credit score of 620, unless there is a large
+        down payment.
+
+    •   Know what is in your credit history – Consumer Financial Protection Bureau (CFPB)
+        recommends that borrowers get a free copy of their credit report from the three nationwide
+        credit reporting companies. This also offers an opportunity to correct errors and strengthen
+        your scores:
+            o Visit AnnualCreditReport.com, OR use the automated phone system at 1-877-322-8228
+            Note: Anyone can receive one free credit report from each company, every 12 months
+
+    •   Shop around for a lender – Lenders offer competitive interest rates, fees, and closing
+        costs on VA-backed purchase loans. You can start by looking around for a network of people and
+        information you trust to help you through the process. You can start gathering facts about your
+        finances, so you’ll have them ready at your fingertips.
+            o Ask multiple lenders for a Loan Estimate and review the helpful guide on comparing
+                loan offers at: https://www.consumerfinance.gov/owning-a-home/process/compare/
+                     Note: Multiple credit checks from mortgage lenders within a 45-day window are
+                     recorded on your credit report as a single inquiry. 3
+            o Explore interest rates with CFPB’s Interest Rate Explorer:
+                https://www.consumerfinance.gov/owning-a-home/explore-rates/
+
+    •   Loan term – VA loans can be issued for 30 years or 15 years. Shorter-term loans typically have
+        a lower interest rate and lower total cost; however, they also have higher monthly payments.
+        See more comparisons at: https://www.consumerfinance.gov/owning-a-home/loan-options/.
+            o Note: For VA home loans, you can pay off (amortize) your loan with NO penalty or early
+                payoff fee.
+
+    •   Fixed or ARM – VA loans can be a fixed-rate or adjustable rate mortgage (ARM)
+           o Fixed rate mortgage – (the most common VA loan option) This mortgage option has a
+              set principal and interest payment throughout the life of the loan, no matter how rates
+              change nationally. You may see slight increases in your monthly mortgage payment each
+              year due to changes in local property taxes and insurance.
+           o ARM – This is where your loan interest rate is adjusted periodically, based on an index.
+              These loans may have a low introductory rate, but the rate can grow over time and so
+              will your monthly mortgage payment.
+           o More information on loan types is available at:
+              https://www.consumerfinance.gov/owning-a-home/loan-options/
+
+
+
+
+3
+ CFPB, What exactly happens when a mortgage lender checks my credit? https://www.consumerfinance.gov/ask-
+cfpb/what-exactly-happens-when-a-mortgage-lender-checks-my-credit-en-2005/
+
+
+                                                    10
+    •   Energy and improvements – VA offers two loan options that can be utilized in
+        conjunction with a VA purchase or refinance loan. These loans must be closed along with your
+        VA loan. (See Energy Efficiency Improvement and Alteration and Repair loan sections below)
+
+    •   Purchasing a condo – VA maintains a list of approved condos. If the condo is not on the list,
+        the project must be submitted to VA for review to ensure that it complies with VA requirements.
+        (See Chapter 10 of the Lenders Handbook) For additional questions, you can contact VA at 1-
+        877-827-3702.
+
+    •   Selling your current home to buy another – Generally, you can hold multiple home
+        loans if you can afford all the loans. If your plan to purchase a new home is contingent on selling
+        your current home, your lender can disregard the payments on the outstanding mortgage(s) and
+        any consumer obligations that you intend to clear. Just be sure to speak with your lender on any
+        required documentation.
+
+    •   Adverse items on your credit – In circumstances not involving bankruptcy, satisfactory
+        credit is generally considered to be re-established after you have made satisfactory payments
+        for 12 months after the date the last derogatory credit item was satisfied.
+            o In cases of bankruptcies – see Chapter 4 of the Lenders Handbook, Topic 7: Credit
+                 History – Required Documentation and Analysis.
+
+
+                                 General Mortgage Costs
+Buying a home requires both one-time and recurring costs. VA policy allows sellers, lenders, or any other
+party to pay loan fees and charges on behalf of the borrower. (See Chapter 8 of the Lenders Handbook)
+
+Although some additional costs are unique to certain localities, the closing costs generally include VA
+appraisal, credit report, survey, title evidence, recording fees, a 1 percent loan origination fee, and
+discount points. The closing costs and origination charge may not be included in the loan, except in VA
+refinancing loans.
+
+VA requires you to have enough cash assets to cover:
+    • Closing costs, pre-paid costs, or discount points which are the borrower’s responsibility and are
+       not financed into the loan
+    • The difference between the sales price and the loan amount, if the sales price exceeds the
+       reasonable value established by VA (i.e., negative equity)
+
+    Note: VA does not require you to have additional cash to cover a certain number of mortgage
+    payments, unplanned expenses or other contingencies on the residence, or refinance of a residence.
+    However, you may want to consider saving money for unforeseen circumstances or large purchases,
+    such as replacing appliances, replacing a roof, or re-painting walls.
+
+Can I include any fees into the loan? The VA funding fee, if appliable, can be included in the
+purchase loan. No other fees and charges or discount points can be included in the loan amount for
+purchase or construction loans. Only refinancing loans may include other allowable fees and charges
+and discount points in the loan amount.
+
+Below are some expenses for you to consider when you determine your financial plans for buying and
+maintaining a home.
+
+
+
+                                                    11
+One-Time Expenses
+When purchasing a home there are will be many fees and options for you to consider. Some are
+required by VA or the lender, while others are optional, but may serve you as you make the investment
+in a home. This list in not all-inclusive.
+   •   VA Funding Fee – This is the user fee to utilize the VA home loan. Some borrowers may be
+       exempt from paying the fee. (see Appendix B: VA Funding Fee Tables for percentage or
+       exemption)
+   •   Appraisal – (Mandatory) The appraisal is required for purchase and cash-out refinance loans.
+       A VA-approved appraiser will determine a reasonable value of the home. VA can then determine
+       how much, if not all, of your loan to guarantee. The notice of value (NOV) generated from the
+       appraisal provides comprehensive information on the home and may help you know if the home
+       meets basic property requirements. (See Chapter 12 of the Lenders Handbook for more on
+       minimum property requirements) The NOV can also help you choose whether to continue with
+       the purchase or negotiate price or other conditions of the sale. (See Escape Clause section
+       below)
+   •   Closing Costs – (Mandatory) The fees paid at closing include (but not limited to) taxes,
+       transfer fees, origination fees, and other customary costs. The seller, lender, or any other party
+       can pay for fees and charges on your behalf. You can negotiate with the seller on splitting these
+       costs, if any concessions do not exceed 4% of the sale. (see Chapter 8 of the Lenders Handbook)
+   •   Down payment – (Optional) If you choose to make one, this one-time cost can help lower
+       both your monthly payment and overall outstanding loan amount.
+          o Note: If your down payment is at least 5-percent, you can pay a lower VA funding fee, if
+              you are not already exempt. (see Appendix C: VA Funding Fee Tables)
+   •   Discount Points – (Optional) While most lenders offer VA Home Loan borrowers
+       competitive rates, borrowers can also opt to pay for an even lower interest rate by paying for
+       discount points. The seller, lender, or any other party can pay for discount points (or other fees
+       and charges) on your behalf. (see Chapter 8 of the Lenders Handbook)
+   •   Earnest Money Deposit – (Optional) This is a cash deposit used to hold a home you are
+       bidding on. It shows that you are serious about purchasing that home.
+   •   Home Inspection – (Optional) VA highly recommends that you get a third-party to conduct
+       a thorough inspection of the home. This is in addition to the appraisal. Your appraisal does not
+       take the place of an inspection. You don’t want to be surprised by something that will cost you
+       later to repair or replace. (see Home Inspections section below)
+   •   Lender’s Title Insurance –– (Optional) Most lenders require title insurance to protect
+       them against legal claims against the home.
+   •   Owner’s Title Insurance – (Optional) While owner’s title insurance is optional, it is highly
+       recommended to purchase this one-time premium insurance. This can protect you if someone
+       has a claim against the home before you purchased it, such as home repairs that weren’t paid
+       off when the seller sold the home.
+
+
+
+
+                                                   12
+Recurring Expenses
+Beyond the purchase of your new home, you must consider the full cost of home ownership. This is not
+an all-inclusive list, but
+
+   •   Mortgage payment – This monthly expense includes payment towards the loan principal,
+       interest, homeowner’s insurance, and your estimated property taxes. (see CFPB article for
+       further explanation)
+
+   •   Homeowner’s insurance – This is required for all mortgages. VA highly recommends that
+       you shop around to find the coverage that can cover your home and personal property in the
+       home, such as clothing and high-value items.
+
+   •   Utilities and Maintenance – This may include water, electricity, and gas. Maintenance
+       costs can include general servicing or replacement of heating and cooling systems, water
+       heaters, laundry machines, refrigerators, and ovens.
+
+   •   Homeowner’s/Condominium association fees – If required, these fees go towards
+       upkeep of property and other services provided by the association, such groundskeeping,
+       swimming pools, and security.
+
+
+
+
+                                                 13
+               Buying a Home with a VA-Guaranteed Loan
+Buying a home is a process. It requires a combination of filling out forms, verifying ability to pay, and
+meeting the interests of both buyer and seller. Getting a VA-backed home loan is only one piece of the
+puzzle. Here are some general steps in the home buying process:4
+
+Lenders offer competitive interest rates on VA-guaranteed loans. This can help borrowers buy a home—
+especially if they don’t want to make a down payment. You may be able to get a VA-guaranteed
+purchase loan if you meet all the requirements listed below:
+      1.   Qualify for a VA-guaranteed home loan Certificate of Eligibility (COE), and
+      2.   Meet VA—and your lender’s—standards for credit, income, and any other requirements, and
+      3.   Will live in the home you’re buying with the loan
+
+If eligible for a VA-guaranteed purchase loan, you can use the loan to:
+    • Buy a single-family home, townhouse, or multi-family up to 4 units
+    • Buy a condo in a VA-approved project
+    • Buy a home and improve it
+    • Buy a manufactured home and lot
+    • Build a new home
+    • Make changes or add new features to make the home more energy efficient (see EEM section
+        above)
+
+You can also:
+  • Re-use a VA loan benefit if selling or refinancing a home bought with a VA-guaranteed home
+      loan,
+  • Assume a VA-backed home loan (which means that instead of opening a new mortgage loan, the
+      buyer takes over the seller’s loan)
+
+Note on purchasing a condo: VA maintains a list of approved condos. If the condo is not on the
+list, the project must be submitted to VA for review to ensure that it complies with VA requirements.
+(See Chapter 10 of the Lenders Handbook) For additional questions, contact VA at 1-877-827-3702.
+
+                For more information, please visit the VA Home Loan program home page at:
+                            https://www.benefits.va.gov/HomeLoans/index.asp.
+
+
+
+
+4
+    Source: https://www.va.gov/housing-assistance/home-loans/loan-types/purchase-loan/
+
+
+                                                      14
+                          Additional VA Loan Options
+When purchasing or refinancing a home, you have some additional loan options that can used in
+conjunction with your VA home loan. You can opt to make energy efficiency or other improvements
+when you purchase the home. However, these loan options must be closed at the same time as you
+close your VA home loan. So be sure negotiate with your lender prior to closing your VA home loan
+when you find the option that is best for your situation. (see Chapter 7 of the Lenders Handbook)
+
+
+Energy Efficient Mortgage (EEM)
+EEMs are loans that cover of the cost of making energy efficiency improvements to a home. VA allows
+up to $6,000 worth of improvements to be included in your loan. While this will slightly increase your
+monthly payment, the cost is normally offset by a reduction in utility costs over time.
+
+You may wish to contact a qualified person or firm for a home energy audit to identify recommended
+energy efficiency improvements. In some areas, the utility company may perform this service.
+
+Energy efficiency improvements may include (but not limited to):
+        • Solar heating and cooling systems
+        • Caulking and weather stripping
+        • Furnace efficiency modifications
+        • Clock thermostats
+        • New or additional insulation
+        • Storm windows/doors
+        • Heat pumps
+        • Other energy related improvements may also be considered
+
+Note: An EEM is not a separate VA home loan product. An EEM can only be used in conjunction with a
+VA purchase loan, or an interest rate reduction refinance loan (IRRRL) secured by the dwelling. It must
+also be closed at the same time as the VA loan is closed.
+
+If you are interested in making energy improvements, be sure to find a lender willing and able to do this
+type of loan. Some lenders may not have experience with EEMs, but they can review Chapter 7 of the
+Lenders Handbook or contact the nearest VA Regional Loan Center.
+
+It is important that you work with your lender early in the loan process to determine the cost of
+improvements, monthly mortgage increase, and any funding fee increase.
+
+Generally, efficiency improvements must be complete either before or within six months after loan
+closing. Your lender will set up an escrow to pay for any improvements after loan closing.
+
+    Note: You are not required to make improvements. Even after loan closing, you can contact your
+    lender to cancel the EEM if you decide that improvements do not meet your personal, financial, or
+    housing needs.
+
+
+
+
+                                                   15
+Alteration and Repair loan
+VA understands that the aging housing stock in the United States has contributed to an increased
+demand for alteration and repair loans. You can use the VA home loan to purchase or (cash-out)
+refinance homes that need alteration and/or repair.5
+
+VA can guarantee a loan for alteration and repair:
+      •    Made in conjunction with a purchase loan on the property, OR
+      •    Cash-out refinance of a residence you already own and occupy as a home
+
+      Note: For purchase loans, VA will guarantee the lesser of the acquisition cost OR as-completed value
+      determined by the VA appraiser. For refinance loans, you can use the as-completed value in the
+      transaction.
+
+VA allows improvements to be included in the value and completed after closing of the loan. Loan
+proceeds are paid out to the builder and/or contractor during the alteration/repair period. The lender
+must obtain written approval from you before each disbursement or draw payment to the builder
+and/or contractor.
+
+You can alter a home to your preference, but the alterations and repairs must be those ordinarily found
+on similar property of comparable value in the community. Also, they must bring the home up to the
+VA’s minimum property requirements. (See Chapter 12 of the Lenders Handbook for more on minimum
+property requirements)
+
+      Some common alterations and repairs include (but not limited to): roof, foundation, floors,
+      plumbing, electrical, and HVAC system.
+
+You may want to seek advice of an inspector or structural engineer for recommended upgrades. Also,
+VA highly recommends that you first consider the full cost of renovating a home, including anticipated
+and unanticipated costs (which can grow as new issues are found) and may include:
+      •    Permit, inspection, title costs                         •   Finance costs
+      •    Labor costs                                             •   Removal of debris
+      •    Structural work                                         •   Changes in scope of work
+
+      Note: Not all lenders are able or willing to close alteration and repair loans. And not many lenders
+      have experience with these loan types. Be sure to shop around for a lender that will meet your
+      personal, financial, and housing needs.
+
+To determine the acquisition costs for a purchase, add the following: Contract sales price, total cost of
+alterations and repairs, contingency reserve (if any up to 15 percent of the repair cost), inspection fees,
+title update fees, and permits.
+
+      Do I need to put in any money?
+      A contingency reserve is not required however, your lender may consider a contingency reserve if
+      the project warrants it. The maximum contingency reserve is 15 percent of the alteration and/or
+      repair cost.
+
+
+
+5
+    The terms alteration, repair, renovation, and improvement are interchangeable
+
+
+                                                         16
+        •   For purchases, any unused contingency reserve funds are applied to the principal balance,
+            unless it was paid in cash at closing. If you paid in cash, it can be returned to you.
+        •   For refinances, any unused contingency reserve funds may be returned to you or applied to
+            the principal balance at your discretion.
+
+    Can I choose my builder or contractor?
+    Yes, you are free to choose your builder or contractor. However, they must be register with VA to
+    obtain a VA builder identification number. (See Chapter 10 of the Lenders Handbook) Your lender
+    may have additional requirements, such as ensuring the builder or contractor is licensed, bonded,
+    and insured according to state and local requirements. A list may be found at
+    https://lgy.va.gov/lgyhub/.
+                          Instructions to become a registered builder with VA are at
+                 https://www.benefits.va.gov/HOMELOANS/appraiser_cv_builder_info.asp.
+
+    What if I change my mind on upgrades during construction?
+    You are permitted to pay for change orders and upgrades out of pocket. Any change order or
+    upgrade made after the appraisal cannot be mortgaged into the new loan unless the appraisal is
+    updated. Change orders must be approved, in advance, by the appraiser, to ensure there is no loss
+    in value. If an appraisal is to be updated, your lender will be responsible for contacting the appraiser
+    with the documented change order(s). You can pay an additional appraisal charge if change orders
+    are requested. This additional appraisal charge may come out of available contingency reserve
+    funds.
+
+
+Construction Loan
+The VA home loan can be used to construct a new residence. You can use the construction loan to build
+a home on property that you already own or want to buy as part of the loan.
+
+    Note: Construction loans include loans do not include newly developed properties where a builder is
+    using their own funds for construction. You can still use the VA loan to purchase the property from
+    the builder.
+
+You must find a participating VA lender which offers options for construction loans. The interest rate
+varies from lender to lender, so VA strongly encourages you to shop around to multiple lenders to
+ensure you get the best rate and terms available for your mortgage needs. Once you decide on a
+participating lender, you can complete the building and lending process, to include closing the loan and
+paying all applicable fees.
+
+(See Chapter 7 of the Lenders Handbook for more on construction home loans)
+
+    Note: Not all lenders are willing or able to offer construction loans. These types of loans and
+    projects inherently have uncertain elements that require more careful examination compared to
+    traditional purchase loans. Be sure to find a lender with specialized experience to originate, process,
+    underwrite (you, project, and builder), close, service and administer such loans.
+
+Typically, construction timelines are established as part of the contract. Your lender is responsible for all
+aspects of project management and may set specific limitations. VA will not issue a Certificate of
+Guaranty to the lender until completion of the project.
+
+
+
+                                                     17
+Construction loans are closed prior to the start of construction with proceeds disbursed to cover the
+cost to build, cost of the land, or balance owed on the land, with the remaining balance in escrow,
+sometimes referred to as a Loan in Process (LIP) account, or a Draw account.
+
+The escrowed monies are paid out to the builder during construction. Your lender must obtain your
+written approval before each disbursement, or draw payment, is provided to the builder.
+
+You don’t not have to make payments on your home loan until after construction is complete. The initial
+payment on the principal may be postponed up to 1 year. For example, if you have a 30-year mortgage
+and construction takes 6 months to complete, then you must repay your loan in 29 years and 6 months.
+You can work with your lender as to whether you have a balloon payment at the end of your loan or set
+up slightly larger payments to avoid the balloon payment.
+
+Also, during construction, the builder is responsible for interest payments and all fees normally paid by
+builders with interim construction loans, such as inspection fee, title updates, title update fees, hazard
+insurance, and property taxes.
+
+Two types construction to permanent loans:
+
+    •   One-time close (or single close) construction loan – This loan is used to close both the
+        construction loan and permanent financing at the same time. The permanent financing is
+        established prior to construction, and the final terms are modified to the permanent terms at
+        the conclusion of construction.
+                          General Process:
+            1)   Your lender verifies your eligibility and entitlement.
+            2)   Your lender orders an appraisal “based on Plans and Specs,” if the appraisal can be
+                 completed before the completion of the foundation.
+                 (Note: For projects farther along than the completion of the foundation, the appraisal
+                 must wait until construction is complete)
+            3)   VA issues the Notice of Value (NOV) to you and your lender.
+            4)   Your loan closes.
+            5)   Unless exempt, you must pay the funding fee within 15 days
+            6)   Builder completes construction.
+            7)   Final inspection or CO signifies the end of the project.
+            8)   Your lender modifies your loan.
+
+    •   Two-time close construction loan – This loan generally involves an initial loan closing prior to
+        the start of construction, and a second closing where permanent financing is used to take out,
+        or replace the initial loan
+                         General Process:
+            1)   Your lender verifies your eligibility and entitlement.
+            2)   Your lender orders an appraisal “based on Plans and Specs,” if the appraisal can be
+                 completed before the completion of the foundation.
+                 (Note: For projects farther along than the completion of the foundation, the appraisal
+                 must wait until construction is complete)
+            3)   VA issues the Notice of Value (NOV) to you and your lender.
+            4)   Your lender closes the initial loan with non-VA financing.
+            5)   Builder completes construction.
+
+
+                                                    18
+            6) Qualify the borrower(s) again.
+            7) Order the appraisal, if appropriate.
+            8) Issue the NOV, if appropriate.
+            9) Your loan closes.
+            10) Unless exempt, you must pay the funding fee within 15 days
+
+Can my builder finance construction?
+Yes, the builder can finance the construction from his or her own resources.
+
+When do I have to pay the VA funding fee?
+Unless you are exempt from paying it, the VA funding fee is due at loan closing prior to the start of
+construction. Your lender must submit that fee payment to VA within 15 days of loan closing. Payment
+is not tied to the start or completion of construction.
+
+How is my interest rate set?
+Your lender may offer a “ceiling-floor” where the interest rate “floats” during construction. The
+agreement must provide that at lock-in, the permanent interest rate will not exceed a specific maximum
+interest rate while allowing you to lock-in at a lower rate based on market fluctuations. Interest rates
+vary from lender to lender. The rates available to the Service member or Veteran borrower will vary
+based on specific lender criteria for approving the loan and what the bank or non-bank lender offers,
+and VA strongly encourages all borrowers seeking to acquire a loan and purchase a home to shop
+around multiple lenders to ensure that they obtain the best mortgage terms available to them. Note:
+You must qualify for the mortgage at the maximum rate.
+
+
+
+Farm Residence Loan
+You can use your VA home loan benefit to purchase, construct, repair, alter, or improve a farm
+residence that you intend to occupy. You can also use the loan to construct a farm residence on land
+you already own. (See Chapter 7 of the Lenders Handbook)
+
+The VA-guaranteed loan cannot cover:
+       • Non-residential value of farmland in excess of the home site, OR
+       • Barn, silo, or other outbuildings necessary for farm operations, OR
+       • Farm equipment or livestock
+
+    Note: When constructing a farm residence on land you own, you may use a portion of the loan to
+    pay off liens on the land only if the reasonable value of the land is at least equal to the amount of
+    the lien(s).
+
+You can start a business on the farm you purchase, but keep in mind that the VA loan benefit exists to
+help you buy a home, not start a business. The VA loan can be used to purchase the residential portion
+of the farmland. However, you would need to secure a separate loan to purchase the non-residential
+portion of the land and any building or equipment associated with farming operations.
+
+
+
+
+                                                    19
+If you plan to use farming operations income to support your loan payments, your lender will have to
+determine your ability and experience as a farm operator. The general procedures and analysis provided
+under “Self-Employment Income” is in Chapter 4 of the Lenders Handbook.
+
+For new farmers, your lender will need the following:
+    •   Your proposed plan for farm operations, including the number of acres for each crop, number of
+        livestock, etc., to estimate your potential income and expenses.
+    •   A statement that you own or will purchase the farm equipment required to operate the farm. If
+        you will incur additional debt when purchasing this equipment, your statement should contain
+        full details as to repayment terms, etc.
+    •   An estimate of farm income and expenses by a local farm appraiser designated by VA or another
+        qualified person, or the estimate used by a lender offering you an operating line of credit. The
+        estimate should be based on your proposed plan of operation, ability and experience, and the
+        nature and condition of the farm, including livestock and livestock products. The expense
+        estimate must detail labor, seed, fertilizer, taxes and insurance, repairs, machinery, fuel, etc.
+    •   A copy of a commitment from a lender for an operating line of credit or evidence of the
+        resources to be used to cover operating expenses.
+
+For experienced farmers continuing the same farm operation:
+    •   If you finance operations from an operating line of credit, you will need to provide records of
+        advances from, payments to, and carryover balances on the operating line of credit for at least
+        the last 3 years.
+
+
+Loan Assumption
+One feature of the VA home loan is that is assumable. This means that anyone can assume, or take over
+payment, on a VA home loan, if they qualify. It is a unique feature that gives you the option to purchase
+a home with a previously set interest rate or, in a time of need, avoid foreclosure.
+
+There could be a situation where you are unable pay back your loan or maybe you are simply unable to
+sell a home in your area. In any case, this feature of the VA home loan is meant to serve your needs.
+Why would this be a benefit to you?
+    •   When interest rates rise, assuming a low interest rate VA home loan could make the home more
+        desirable to a purchaser
+    •   The funding fee (unless exempt) is only 0.5%
+    •   A Veteran can substitute their own VA home loan entitlement to assume your loan, thereby
+        allowing VA to restore your entitlement, assuming the other Veteran has enough entitlement to
+        cover your loan
+    •   Anyone, even a non-Veteran, can assume your loan, but in such case your entitlement remains
+        with the loan
+    •   Any equity in the home remains with the loan, however you can negotiate with the buyer on
+        cashing out some or all the equity as part of the sale
+VA home loan assumption requires servicer approval, and in some instances VA approval. Be sure to
+work with your servicer to obtain approval for assumption. They will usually perform an income and
+credit check to be sure the assumer is a good risk and is not likely to default on the loan.
+
+
+
+
+                                                   20
+    Note: You should be highly selective about who assumes your VA home loan. If there is a default on
+    an assumed loan, it will count against the original veteran’s entitlement and may affect your chance
+    of securing another VA loan.
+
+If another eligible borrower substitutes their VA entitlement, the following forms are required:
+     • Either a COE or fully completed VA Form 26-1880 (Request for a Certificate of Eligibility) for the
+        assumer. The assumer must have enough entitlement to substitute for that of the original
+        Veteran.
+     • A signed VA Form 26-8106 (Statement of Veteran Assuming GI Loan). The assumer must certify
+        that the property securing the loan will be occupied as their home.
+
+Note: If VA uses your entitlement to pay a claim on a defaulted loan, even if that loan has been assumed
+by someone else, you can’t use that entitlement amount on a new loan. You must repay the claim
+amount to VA before your entitlement is restored. However, either you or the person that assumed
+your loan can repay it.
+
+
+
+
+                                                    21
+                              Required Loan Documents
+Just as anyone with a mortgage will tell you, there are a lot of forms to fill out when you’re applying for
+a mortgage. The loan process begins with you filling out forms and providing copies of financial
+documents to help your lender to determine the size and terms of your loan.
+
+Lender-Required Documents
+Most lenders will require documents to estimate the amount they can lend you, the interest rate, and
+any other requirements for loan approval. These documents include, but are not limited to:
+    • Your Certificate of Eligibility (COE) or VA Form 26-1880 (Request for a Certificate of Eligibility)
+    • Uniform Residential Loan Application (URLA) – a Freddie Mac Form 65 or Fannie Mae Form 1003
+       is required for all home loans
+    • Credit report 6
+    • Proof of income (2-year minimum of employment):
+             o Pay stubs, including LES for military employment
+             o W-2 forms or income tax returns
+             o Bank statements
+             o Proof of other income (including but not limited to investments, rental properties, etc.):
+    • Documentation of outstanding debts:
+             o Including student loan, car loan, child support, alimony, and other debts
+             o Your lender may use this information to determine if your other debts may affect your
+                 ability to make monthly mortgage payments
+    • (if applicable) Homeowner’s or Condominium association forms
+    •   (if applicable) Gift letter for gift funds provided by someone not involved with the sale
+             o (Rules for gift funds are in Chapter 4 of the Lenders Handbook)
+
+VA-Required Documents
+When you request a VA home loan certificate of eligibility (COE), VA will verify your eligibility for a VA-
+guaranteed loan and whether you are exempt from paying the VA funding fee due to VA rating for a
+service-connected disability. Your lender will likely provide you with these forms, but you may download
+and fill out these forms electronically on your own. You will need to fill out and provide your lender with
+the following documents with your loan application:
+    • Your COE or a VA Form 26-1880
+    • VA service-connected disability award letter if not noted on COE (to verify funding fee
+          exemption)
+    • Condo form (*if applying for a condo)
+
+    Note: Although your lender may provide paper copies of these forms, we have provided the links to
+    the most current version of the forms so that you can electronically fill out the information and
+    submit clear copies with your loan application.
+
+If your lender does not know which forms are currently required, you can refer them to the VA Lenders
+Handbook for the most current VA requirements.
+
+
+6
+ Note: VA does NOT require a minimum credit score. However, most lenders will use your score to help
+determine your interest rate. Feel free to shop around for a lender that meets your financial and homebuying
+needs.
+
+
+                                                       22
+                                 The VA ‘Escape Clause’
+When you find the home that is right for you, your real estate agent can help you develop an offer,
+create the sales contract, and assist you with the negotiation process. Remember to include in your
+sales contract, a contingency (called an ‘escape clause’) which allows you to not incur any penalty by
+forfeiture of earnest money or can void the contract if the contract purchase price or cost exceeds the
+reasonable value of the property established by the Department of Veterans Affairs.
+
+The Escape Clause must be contained in the sales contract for all VA-guaranteed loans. Your lender is
+responsible for ensuring that the paragraph is in the sales contract prior to closing. If the clause is not in
+the sales contract, VA may not guaranty the loan.
+
+VA Escape Clause:
+       "It is expressly agreed that, notwithstanding any other provisions of this contract, the purchaser
+       shall not incur any penalty by forfeiture of earnest money or otherwise be obligated to complete
+       the purchase of the property described herein, if the contract purchase price or cost exceeds the
+       reasonable value of the property established by the Department of Veterans Affairs. The
+       purchaser shall, however, have the privilege and option of proceeding with the consummation of
+       this contract without regard to the amount of the reasonable value established by the
+       Department of Veterans Affairs (38 U.S.C. 501, 3703(c)(1))."
+
+This clause states that you have the option not to purchase a home when the appraisal’s Notice of Value
+(NOV) is below the sales contract price. If the property doesn’t appraise, you will need to bring cash to
+closing for the difference between the appraised value and the sales price (if unable to renegotiate with
+the seller). If you don’t have enough remaining entitlement, you can make a down payment on the part
+of the loan that exceeds the amount you have in entitlement to support. If the appraised value is less
+than the sales price (after Reconsideration of Value (ROV) and renegotiation), bringing cash to closing is
+the only option. (see VA Appraisal section below)
+
+Other contingencies to consider are an appraised value contingency and a satisfactory home inspection
+contingency. Your real estate agent can advise you if these or other contingencies are typical in your
+real estate market.
+
+
+
+                                          VA Appraisal
+Once you and the seller sign a purchase agreement, your lender (not you) will request a VA-approved
+appraiser to provide an opinion of value of the home. All VA purchase and cash-out refinance loans
+require an appraisal, which you must pay at this time.
+
+The appraisal provides an appraiser’s opinion of value of the home and whether it meets VA’s minimum
+property requirements. It also assures you and your lender that the value of the property is based on
+facts and market data, not just the seller’s opinion. It can help give you confidence that the home you
+want to purchase is worth the investment you are making.
+
+
+
+
+                                                      23
+        Note: An appraisal is not a home inspection. You should consider hiring a qualified home
+        inspector to thoroughly inspect the home for defects and potential maintenance issues. (see
+        Home Inspections section below)
+
+        More information on the difference between a VA appraisal and a home inspection can be
+        found by viewing this short video. For more information on VA's minimum property
+        requirements, please watch this video.
+
+When the appraisal is complete you will receive a notice of value (NOV). The NOV documents the
+estimated value of the home, a list of comparable sales in the area, floor layout, photographs, and a list
+of items requiring repair to meet VA minimum property requirements.
+
+Your lender will request the appraisal in a timely manner after you submit your loan application. Lenders
+should request the appraisal early in the loan process to avoid any potential process delays.
+
+        Note: Appraisers on the VA fee panel are NOT employees of VA, your lender, or your real estate
+        agent. They are licensed professionals with at least 5 years of experience to competently
+        appraise and value within your area.
+
+What if my appraisal is below the purchase price?
+If the appraised value is not enough to complete the loan, you have several options to enable you to
+continue with the purchase:
+•   Request a Reconsideration of Value (ROV) – If you feel that the appraised value is less than it
+    should be, ask your lender or real estate agent to provide valid sales data to your lender to support
+    your opinion. VA staff will review the appraisal report the additional data that was provided, and
+    market data available in the VA Appraisal Management Service. (see Reconsideration of Value
+    section in Chapter 10 of the Lenders Handbook)
+
+•   Renegotiate the sale price – The seller may be willing to consider a reduced sale price that is equal
+    to or lesser than the appraised value. The seller can also offer other concessions for the sale. (see
+    Seller Concessions section in Chapter 8 of the Lenders Handbook)
+
+•   Bring cash to the closing table. If the ROV does not yield a higher value and the seller is unwilling to
+    negotiate a reduced sale price, you may have the option to pay the difference in cash at closing.
+
+•   Utilize your ‘Escape Clause’ – As stated above the ‘VA escape clause’ in your sale contract states
+    that you can opt not to purchase a home when the NOV is below the sales contract price. You can
+    get your earnest money back, but not any out-of-pocket home inspection or appraisal costs,
+    however it may be in your interest not to buy a home that is not worth the cost of buying or
+    repairing the home. Note: on new construction, you may pay for upgrades in advance, but if you do
+    not continue with the purchase, the upgrades are often not refundable or covered by the escape
+    clause.
+
+•   Request a “cost-approach” appraisal on new construction. This applies to new construction, if you
+    are building a home or you’re buying in a newly development area where there are no comparable
+    properties to estimate your home’s value. Your lender can request that the appraiser use a cost
+    approach to estimate value, as well as the sales approach.
+
+
+
+
+                                                    24
+               For more information on appraisal cost and timeliness in your state, go to:
+                http://www.benefits.va.gov/HOMELOANS/appraiser_fee_schedule.asp.
+
+     For more information on the local VA appraisal requirements (such as wood-destroying insect
+information) in your area, go to: https://www.benefits.va.gov/HOMELOANS/appraiser_cv_local_req.asp.
+
+
+                                    Home Inspections
+Home inspections are not required by VA; however, a home inspection is highly recommended for every
+borrower. We recommend that you choose an inspector that can give you an impartial assessment of
+the home’s condition. The inspector should not have a conflict of interest in the sale. It is more
+important that you get the value for your investment, and not just enter into another loan.
+
+A home inspection is a process where a home inspector (licensed by the state) observes and provides a
+written report of the systems and components of a property including but not limited to:
+    •   Heating System
+    •   Cooling System
+    •   Plumbing System
+    •   Electrical System
+    •   Structural Components - foundation, roof masonry structure, exterior and interior components
+        or any other related residential building component recommended by the Home Inspection
+        Council and implemented by the Department through the regulatory process.
+
+    Note: Please note that it may be in your best interest to hire a structural engineer for your
+    inspection, especially for an older property. This type of inspection may cost more up front, but the
+    professional insight of an engineer can help you know if the home is structurally sound or requires
+    repairs or upgrades. You do not want to discover your home has major structural issues only after
+    buying the home.
+
+Tips on picking a home inspector:
+    •   Look for someone licensed to conduct inspections in your area
+    •   Talk to your friends, family, and colleagues
+    •   Search the web for inspectors and their reviews, if available
+    •   Find someone not tied to any party in the sale of the home
+
+    What if my inspector finds a major issue?
+    Finding problems during an inspection is not a deal-breaker. In fact, an inspection gives you more
+    insight into the condition of the home that aren’t apparent to untrained eyes. Are the appliances
+    beyond their life expectancy and need replacing? What is the condition of the roof and foundation?
+    Knowing the issues can help you in re-negotiating with the seller. Perhaps they can lower their
+    asking price, make needed repairs/replacements, or make other concessions that may keep you
+    interested in the home. (*see Seller concessions in Chapter 8 of the Lenders Handbook)
+
+As stated in the VA ‘Escape Clause’ section above, you may want to consider a satisfactory home
+inspection contingency in your sales contract. Your real estate agent can advise you if these or other
+contingencies are typical in your real estate market.
+
+
+
+                                                       25
+26
+                                    Negotiable items
+You can negotiate the sale of the home up until the actual mortgage closing. Does the home price
+exceed the VA appraisals reasonable home value? Does the home require repairs or upgrades?
+Whatever the reason, as a buyer you can negotiate with your seller to find a middle ground that both
+parties can agree.
+
+   Closing date of your loan
+
+   Earnest money
+
+   Funding Fee payment
+   Any party can pay for your funding fee (if you are not already exempt). This includes the seller and
+   your lender. Your family could also pay with gift funds.
+
+   Seller’s Concessions
+   VA allows sellers to pay closing costs, discount points, and any such concessions can be up to 4% of
+   the loan amount. (*See Seller Concessions section in Chapter 8 of the Lenders Handbook)
+
+
+
+
+                                                  27
+                     At Closing: Buying Your Home
+Once you are ready to close on your home loan you will have to sign your documents and bring the
+required money to the table. Your lender is required by law to provide you a Closing Disclosure at least
+three business days before closing.
+
+    Note on Closing Disclosure: More information on the closing disclosure is available here. To see
+    an explanation for each part of the Closing Disclosure, go to:
+    https://www.consumerfinance.gov/owning-a-home/closing-disclosure/.
+
+Closings may occur at a title company, escrow office, or attorney’s office depending on your area’s laws
+or customary practices. You can expect to sign numerous documents including the mortgage, the note,
+and the deed. During closing, expect your real estate agent to be present; an escrow officer or closing
+agent to conduct the transaction; and the seller or a representative may or may not be at closing with
+you.
+
+This can be a lengthy process but always feel free to stop to ask questions if you have any. For more
+information on what to expect at closing, please visit this link.
+
+Fees and charges that you can pay
+You can pay a maximum of:
+    •   reasonable and customary amounts for any or all of the “Itemized Fees and Charges” designated
+        by VA, plus
+    •   a one percent flat charge by the lender, plus
+    •   reasonable discount points.
+
+    (*See Section 2 “Fees and Charges the Veteran-Borrower Can Pay” in Chapter 8 of the Lenders
+    Handbook)
+
+Note on down payments: Remember, the VA-guaranteed home loan features a no down payment
+option, unless required by your lender or if the purchase price is above the reasonable value of the
+property, as determined by a VA appraiser. With no down payment, you can use those savings to further
+grow your emergency fund or use the money on household expenses.
+
+
+
+                 Once you are done with closing, the home is yours.
+
+                                       Congratulations!
+
+
+
+
+                                                   28
+                   Post-Purchase: Mortgage Servicing
+The mortgage servicer is the company that handles the day-to-day tasks for managing your loan.
+Typically, this includes processing loan payments, responding to your inquiries, keeping track of principal
+and interest paid, managing the escrow account (if applicable), and sending you your mortgage
+statements. A servicer may or may not be the same company that originated your loan.
+
+You can identify your servicer by checking your monthly mortgage statement or payment coupon book.
+If you cannot find a statement or coupon, you can try the Mortgage Electronic Registration System
+(MERS®) Servicer Identification System toll-free at (888) 679-6377 or visit the MERS® website.
+
+              Borrowers can search for their servicer information on the MERS® website using
+              one of the following:
+                • MERS® System Mortgage Identification Number (MIN)
+                • Property Address Only
+                • Borrower Name and Property Address
+                • Borrower Name, SSN and Property Zip Code
+                • VA Case Number
+
+           *MERS is a private company that maintains information about mortgage loans and servicers.
+VA encourages borrowers to contact their servicer to resolve any concerns they have with their existing
+mortgage. Each servicer determines the best approach to fit individual borrower circumstances and are
+required to comply with all applicable local, State, and Federal laws, such as the Real Estate Settlement
+Procedures Act (RESPA) 7, and regulations governing the VA Home Loan Program.
+
+You may also call 1-877-827-3702, to contact the nearest VA Regional Loan Center and speak with a VA
+representative regarding your individual home loan situation for counseling and guidance. Even
+Veterans without a VA home loan can call the VA Regional Loan Center for questions about their loan.
+
+If you have any unresolved disputes with your servicer (e.g., not applying payments, double billing,
+transferring loan without a 15-day notice, etc.) you can contact:
+      •    VA at 877-827-3702, or
+      •    Consumer Financial Protection Bureau (CFPB) at https://www.consumerfinance.gov/about-
+           us/contact-us/ or 1-855-411-2372
+
+Do I pay the same company that closed my loan?
+Not necessarily. Some companies lend to borrowers and service (collect payments on) loans. It’s also
+common for lenders to sell mortgages or to pay another company to service their loans.
+
+
+Escrow Accounts
+Sometimes called an impound account, an escrow account is an account set up by a mortgage lender to
+pay certain property-related expenses. The mortgage servicer manages the account and takes a portion
+of the mortgage payment to pay for taxes and homeowners insurance.
+
+
+
+7
+    RESPA: https://files.consumerfinance.gov/f/201503_cfpb_regulation-x-real-estate-settlement-procedures-act.pdf
+
+
+                                                        29
+   Note: Although principal and interest (P&I) remain the same, property taxes and insurance
+   premiums can change from year to year. Escrow payments—and with it, your total monthly
+   payment – will change accordingly.
+
+Things to keep in mind about your escrow account:
+    • Read your annual escrow statement. This tells you what you owe or are owed at the end of the
+        year.
+   •   If you do not have an escrow account, you are still responsible to pay taxes and insurance.
+   •   Failure to pay your state or local taxes may result in a tax lien on your home and you could face
+       foreclosure.
+   •   If you have automatic payments for your escrow, be sure to understand how your servicer will
+       change monthly payments when escrow shortages and surpluses occur.
+
+More information on escrow accounts is available at: https://www.consumerfinance.gov/ask-
+cfpb/what-is-an-escrow-or-impound-account-en-140/.
+
+
+
+
+                                                  30
+Appendix A: Military Service Requirements
+Borrowers eligible a VA-guaranteed home loan must receive a military discharge that is NOT
+dishonorable and meet the minimum service requirement based on era of service. More information on
+eligibility is available in Chapter 2 of the VA Lender’s Handbook.
+
+                         Veterans and Active Duty Service members
+                                                                           Minimum active-duty service
+    Date of service:
+                                                                           requirement:
+    Currently on active duty                                               90 continuous days
+    September 16, 1940 – July 25, 1947 (WWII)                              90 total days
+    July 26, 1947 – June 26, 1950 (post-WWII)                              181 continuous days
+    June 27, 1950 – January 31, 1955 (Korean War)                          90 total days
+    February 1, 1955 – August 4, 1964 (post-Korean War)                    90 total days
+    August 5, 1964 – May 7, 1975 (Vietnam War), OR
+    February 28, 1961 – May 7, 1975, if served in the Republic of          90 total days
+    Vietnam
+    May 8, 1975 – September 7, 1980 (post-Vietnam War), OR
+                                                                           181 continuous days
+    May 8, 1975 – October 16, 1981, if served as an Officer
+                                                                          ▪ 24 continuous months, OR
+    September 8, 1980 – August 1, 1990, OR
+                                                                          ▪ The full period (at least 181 days)
+    October 17, 1981 – August 1, 1990, if served as an Officer
+                                                                            if called to active duty
+                                                                          ▪ 24 continuous months, OR
+    August 2, 1990 to present (Gulf War)                                  ▪ The full period (at least 90 days) if
+                                                                            called or ordered to active duty
+
+                            National Guard and Reserve members
+    Date of service:                Minimum service requirement:
+    August 2, 1990 to present       90 continuous days of active duty (i.e., ordered to active service under
+    (Gulf War)                      Title 10 orders. Does NOT include active duty for training)
+                                    6 creditable years8 in the Selected Reserve or National Guard, AND at
+                                    least one of following must be true:
+                                       ▪ Continue to serve in the Selected Reserve, or
+    Any time period                    ▪ Discharged honorably, or
+                                       ▪ Placed on the retired list, or
+                                       ▪ Transferred to the Standby Reserve or an element of the Ready
+                                           Reserve other than the Selected Reserve after service
+                                           characterized as honorable
+
+8
+  A credible year must include at least 16 points per anniversary year as seen on your retirement points statement.
+(This can include 15 membership points plus Active Duty Training (ADT) and weekend drill points)
+
+
+                                                        31
+                   Exceptions to minimum service requirements
+
+Service members discharged prior to meeting minimum service requirements may still be eligible for
+a VA-guaranteed home loan if discharged for one of the reasons listed below:
+      • Hardship, or
+      • Convenience of the government (you must have served at least 20 months of a 2-year
+         enlistment), or
+      • Early out (you must have served 21 months of a 2-year enlistment), or
+      • Reduction in force, or
+      • Certain medical conditions, or
+      • A service-connected disability (a disability related to military service)
+
+
+      Other Than Honorable, Bad Conduct, or Dishonorable discharges
+
+One of these discharge statuses may disqualify a Veteran from receiving VA benefits, including the VA
+home loan benefit.
+
+If the Department of Defense (DoD) or the Coast Guard determined you served honorably in one
+period of service, you may use that honorable characterization to establish eligibility for VA benefits,
+even if you later received a less than honorable discharge. You earned your benefits during the period
+in which you served honorably. Make sure you specifically mention your period of honorable service
+when applying for VA benefits.
+
+You can apply for a discharge upgrade or correction, even if your previous upgrade application was
+denied. For example, you may have additional evidence that wasn’t available to you when you last
+applied, or the Department of Defense (DoD) may have issued new rules regarding discharges.
+
+       Note: DoD rules changed for discharges related to PTSD, TBI, and mental health in 2014,
+       military sexual harassment and assault in 2017, and sexual orientation in 2011.
+
+You may want to consider finding someone to advocate on your behalf, depending on the complexity
+of your case. A lawyer or Veterans Service Organization (VSO) can collect and submit supporting
+documents for you. Find a VSO near you.
+
+       Note: You can ask for a VA Character of Discharge review while at the same time applying for
+       a discharge upgrade from the Department of Defense (DoD) or the Coast Guard. Veterans can
+       apply to the Department of Defense (DoD) for a Discharge Upgrade:
+                     Learn about the Character of Discharge review process
+
+
+
+
+                                                  32
+Appendix B: Certificate of Eligibility (COE)
+The first step in obtaining a VA direct or VA-backed home loan is to apply for a Certificate of Eligibility
+(COE). This document confirms to lenders that the borrower is eligible for the VA home loan benefit.
+
+How to apply for a COE
+
+    Apply through your lender: Most lenders have access to the WebLGY system. This internet-based
+    application can establish eligibility and issue an online COE in a matter of seconds. Not all cases can
+    be processed through WebLGY, because the system can only establish eligibility in cases which VA
+    has sufficient data in our records. However, VA encourages you to ask your lender if they can
+    receive the COE through VA’s WebLGY system.
+
+    Apply online: Go to www.VA.gov. You can log in using your current Digital Service (DS) Logon or by
+    creating a new account using ID.me.
+    Apply by mail: Obtaining a COE by mail may take longer than requesting via Internet or VA system.
+    Fill out VA Form 26-1880 (Request for Certificate of Eligibility) and mail to the address of your state
+    listed on the back of the form.
+
+    * Eligible Spouses applying for VA Home Loan, see Appendix D: Eligible Spouses below.
+
+Proof of Service Requirements
+If you do not have supporting documentation, you can:
+        a) submit a completed SF 180 (Request Pertaining to Military Records) to the address indicated
+        on the back of the form, OR
+        b) request military service records on the U.S. National Archives and Records Administration
+        website, OR
+        c) obtain a Certificate in Lieu of Lost or Destroyed Discharge. (Any VA office can assist you in
+        obtaining necessary proof of military service)
+        Also see Appendix A: Military Service Requirements (below) for length of service requirements.
+
+Service members: (Active Duty, Reserve, and National Guard)
+    Service members who are on active duty must provide a statement of service signed by, or by the
+    direction of, the adjutant, personnel office, or commander of the unit or higher headquarters they
+    are attached to. There is no one form used uniformly by the military for a statement of service.
+    While statements of service are typically on military letterhead, some may be computer-generated.
+    The statement of service must clearly show the Service member’s:
+        • Full name,
+        • Social Security Number (SSN) or the last 4 digits of SSN,
+        • Entry date of on Active, Reserve or Guard duty,
+        • Duration of lost time, if any (for Active only), and
+        • Name of the command providing the information.
+
+
+
+
+                                                     33
+     Note: The statement must clearly indicate that a Reserve or Guard member is an “active” (drilling)
+     and not in an inactive (non-drilling) status.
+
+Veterans (Active Duty):
+   Service members separated from active duty before January 1, 1950, should furnish documentation
+   that shows length and character of service. Those separated from military service after January 1,
+   1950, should furnish their DD Form 214.
+   Those separated after October 1, 1979, should furnish Member 4 copy of DD Form 214 that includes
+   character of service and the narrative reason for separation.
+
+Veterans (Reserve and Guard):
+   Discharged members (not drilling anymore) of the Selected Reserves or National Guard may submit
+   NGB Form 22 (Report of Separation and Record of Service) or NGB Form 23 (Retirement Points
+   Accounting) or their equivalent. Typically, members of the Reserves and Guard receive an annual
+   retirement points summary that indicates their participation. These Veterans should submit their
+   latest such statement along with evidence of honorable service. Some common forms include, but
+   not limited to:
+       •   Army Reserve DA Form 5016
+       •   Naval Reserve NRPC 1070-124
+       •   Air Force Reserve AF 526
+       •   Marine Corps Reserve NAVMC 798
+       •   Coast Guard Reserve CG 4174 or 4175
+       •   DD Form 214 (If activated under Title 10 for a non-training purpose and met minimum length
+           of active service requirement)
+       •   DD Form 220, with accompanying orders (If activated under Title 10 or Title 32 for a non-
+           training purpose and met minimum length of active service requirement)
+
+Retired Reserve and National Guard:
+   Members of the Reserves or Guard who have completed 20 years of service often receive a ‘20-year
+   letter’, which verifies the successful completion of 20 years as an active Reserve or National Guard
+   member.
+
+Commissioned Officers of the Public Health Service:
+   For service after January 1, 1955: Documentation of active duty consists of PHS Form 1867,
+   (Statement of Service-Verification of Status of Commissioned Officers of the U.S. Public Health
+   Service)
+   Commissioned officers still on active duty must provide documentation signed by, or at the direction
+   of, the adjutant or personnel officer or commanding officer of the unit or higher headquarters.
+
+
+Character of Service (COS) Requirements
+A Veteran must complete at least one satisfactory period of service to be deemed eligible. If you were
+discharged with an unsatisfactory character of service (COS) but had a previous or subsequent tour that
+was satisfactory, you may still qualify using the satisfactory tour. For enlisted Service members, a
+reenlistment or extension will satisfy that the COS was satisfactory.
+
+
+
+                                                  34
+  Active duty acceptable COS:
+      • Honorable                                              •   Uncharacterized
+      • General                                                •   Under Honorable Conditions
+
+  Reserve / National Guard the only acceptable COS:
+     • Honorable
+
+
+Notes on Reserve and National Guard COS requirements
+  A discharge of General, Under Honorable Conditions, Under Other Than Honorable Conditions, Bad
+  Conduct, or Dishonorable is NOT acceptable to meet Reserve and National Guard COS requirements.
+
+  Also, Standby Reserve or Inactive Ready Reserve (IRR) character or service discharge does not count
+  towards eligibility. For gaps in service or change of component, you will need to provide an
+  Honorable COS for each qualified tour or component to count toward the 6-year requirement.
+
+  If you are still actively participating and meet the 6-year requirement, no COS determination is
+  required.
+
+Upgrading discharge status
+  The Department of Defense (DOD) is the responsible agency for annotating the discharge status on
+  the DD-214 (or other separating documentation). Each Secretary of the DOD may use different
+  language to represent the discharge status. (See Appendix A: Military Service Requirements for
+  information on upgrading discharge status)
+
+
+
+
+                                                 35
+Appendix C: Funding Fee Tables
+The VA funding fee is calculated as a percentage of the total loan amount. It must be paid or included
+in the loan balance at time of closing.
+
+                             The following do NOT pay the VA funding fee:
+       •    Veteran receiving VA compensation for a service-connected disability.
+       •    Veteran entitled to receive VA compensation for a service-connected disability, but receives
+            military retirement pay in lieu of compensation or Active Duty pay.
+       •    Surviving spouse of one who died in service, from a service-connected cause, or totally
+            disabled; and is receiving Dependency and Indemnity Compensation (DIC).
+       •    Service member with a proposed or memorandum rating from VA, prior to loan closing, as
+            eligible to receive compensation because of a pre-discharge claim.
+       •    Service member on Active Duty who provides, on or before the date of loan closing, evidence
+            of having been awarded the Purple Heart.
+
+For all other borrowers, Congress has established the funding fee rates for loans closed on or after
+January 1, 2020, at the levels listed below:
+
+                                   Purchase and Construction Loan
+             Note: Reduced fees only apply to purchase loans with a down payment of at least 5 percent.
+            Military Service          Down payment               First-time Use            Subsequent Use
+             Active Duty **,         None                            2.30 %                    3.60 % *
+              Reserves, &            5% or more                      1.65 %                     1.65 %
+             National Guard          10% or more                     1.40 %                     1.40 %
+
+                                Cash-Out/Regular Refinancing Loan
+              Note: See above table for reduced fees on loans with a down payment of at least 5 percent.
+                     Military Service                 First-Time Use             Subsequent Use
+               Active Duty **, Reserves, &
+                                                           2.30 %                     3.60 % *
+                     National Guard
+      * If the Veteran's only prior use of entitlement was for a manufactured home loan, the higher subsequent
+         use fee does not apply.
+     ** Active service includes Reserves and National Guard ordered to active service that meets the eligibility
+        requirements for their era of service (https://www.va.gov/housing-assistance/home-loans/eligibility/).
+        Active service does NOT include active duty for training, or (Title 32 U.S.C.) Active Guard Reserve
+
+
+                          Other Types of Loans                                    First-Time and Subsequent Use
+         Direct Loan (for rural areas, or small cities/towns)                                  1.0 %
+         Interest Rate Reduction Refinance Loan (IRRRL)                                        0.5%
+         Loan Assumption                                                                       0.5%
+         Manufactured Home Loan (NOT permanently affixed)                                      1.0%
+         Native American Direct Loan (NADL) ǂ                                                  1.25%
+         Vendee Loan (for purchasing VA-acquired property)                                     2.25%
+ ǂ
+     Note: A list of Tribes participating in the NADL Program is at https://www.benefits.va.gov/homeloans/nadl_mou.asp
+
+
+
+                                                           36
+Appendix D: Reusing the VA Loan
+You can reuse your VA home loan benefit to buy or refinance another home after your first use. The size
+of loan and potential down payment amount will depend on whether you plan to have just one or more
+than one outstanding loan at a time.
+
+        How to apply: You can request a restoration of entitlement for subsequent use on
+        another home loan in one of two ways:
+           ▪   Apply online at www.VA.gov, using your Digital Service (DS) Logon or by creating a
+               new account using ID.me
+           ▪   Download VA Form 26-1880 (Request for a Certificate of Eligibility) and send it to
+               the VA regional loan center with jurisdiction in your state
+
+
+
+Re-using your VA Loan benefit (Restoring Entitlement)
+As a previous borrower, you can apply to “restore” your previously used VA entitlement, if at least ONE
+of the following is true:
+    ▪    The home you bought with a prior VA loan has been sold and the loan repaid in full, OR
+    ▪    Another qualified Veteran agrees to assume (take over payment on) your loan and substitutes
+         their own VA entitlement for the original loan amount, OR
+    ▪    You’ve repaid your prior loan in full, but haven’t sold the home you bought with that loan**
+         (**Note: this is a one-time option)
+
+You can apply to VA to have your full entitlement restored. Now you can purchase a new home, and VA
+will back any loan amount and with no down payment requirement.
+
+Buying Another Home (Remaining Entitlement)
+As of January 1, 2020, first-time homebuyers, or homebuyers who have sold their home and have full
+benefit entitlement available, will no longer have to worry about loan limits or down payment
+requirements when purchasing, refinancing, or constructing a new home.
+
+If you used your VA home loan benefit and want to buy another home without selling your previous
+home, you will not have full entitlement, but you may have partial entitlement.
+This means that you can still purchase a home at any loan amount, but VA can only guarantee the loan
+amount covered by your “remaining entitlement,” if any.
+To determine your remaining entitlement:
+       1) Request an updated certificate of eligibility to see how much entitlement you have already
+           used. (Unless you already know)
+       2) Calculate 25% of the FHFA Conforming Loan Limit (‘One-unit’ column) for the county where
+           you want to purchase your next home. If this amount is higher than your used entitlement,
+           the difference is your ‘remaining entitlement’.
+
+
+
+
+                                                   37
+If you want to keep your current VA home loan and purchase a new home using a VA-guaranteed loan
+on a home valued over $144,000, you must keep the following in mind:
+        •     You must be able to afford all the loans at the time of closing
+        •     The next home you purchase must be your residence
+VA may be able to back all your loans, but only up to the conforming loan limit (CLL) for your next
+home’s county. This means that any amount above that loan limit may require a down payment.
+
+        Note: Most lenders require a combination of the guaranty entitlement and any cash down
+        payment to equal at least 25 percent of the appraised value or sales price of the property,
+        whichever is less.
+Generally, your remaining entitlement multiplied by four is the size of loan or part of the loan that VA
+can guarantee on your subsequent loan without requiring down payment.
+
+For example, if your county loan limit is $700,000: your first loan was for $300,000 and the second for
+$400,000, you may have enough remaining entitlement for a no-down payment option.
+                                                                                       County
+                                                                                     Loan Limit
+                                                                                         ▼
+             $100,000         200         300    400          500        600      * 700    $800,000
+
+                        VA Guaranteed                         VA Guaranteed
+
+
+
+                                 1                                  2
+
+                         $300,000 loan                         $400,000 loan
+
+
+If your county loan limit is $500,000: your first loan was for $300,000 and the second for $400,000, you
+may have to pay a down payment on the amount above the $500,000 loan limit.
+                                                                 County
+                                                               Loan Limit
+                                                                   ▼
+            $100,000        200          300    400         * 500       600        700       $800,000
+
+
+                       VA Guaranteed            VA Guaranteed        Down payment required
+
+
+
+                             1                                      2
+
+                        $300,000 loan                          $400,000 loan
+
+
+Note: Your loan amount may include your funding fee and can be lowered by any down payment. You
+can also combine a down payment and your remaining entitlement (if any) for a larger loan amount.
+
+
+                            More examples of remaining entitlement can be found here.
+
+
+
+
+                                                       38
+What is your remaining entitlement?
+As each case is different, your first step should be to request your certificate of eligibility through your
+lender or online to see how much of your entitlement that you have used (‘Entitlement Charged’). Next,
+calculate 25% of the conforming loan limit (‘one-unit’ column) for the county you want to purchase your
+next home. The county conforming loan limit minus your used entitlement is your remaining
+entitlement.
+
+How large of a loan can VA guarantee?
+This depends on how much entitlement you have used and your remaining entitlement (based on the
+loan limit of your county). You can estimate the size of loan or part of the loan VA can back on your
+subsequent loan by taking your remaining entitlement times four.
+
+If you decide to include your VA funding fee (if not already exempt) in the loan, the total loan amount
+VA can guarantee must include the fee amount. Again, if you have no other active VA loans, VA can
+back any loan amount.
+
+
+
+
+                                                    39
+Appendix E: Eligible Spouses
+The surviving spouse of a Veteran may be eligible for a VA home loan if they are eligible for (or in receipt
+of) a qualifying Dependency and Indemnity Compensation (DIC) benefit award 9 AND under one of the
+following conditions:
+     •   Unremarried surviving spouse of a Veteran, who died while in service (active, reserve, or
+         national guard) or from a service-connected cause, OR
+     •   Unremarried surviving spouse of a Veteran, whose death was not service-connected, if the
+         Veteran was one of the following:
+             o    Rated totally disabled (100% rated) for a period of 10 or more years immediately
+                  preceding death, or
+             o    Rated totally disabled for a period of not less than 5 years from the date of discharge or
+                  release from active duty, or
+             o    A former POW who died after September 30, 1999, and the disability was rated totally
+                  disabled for a period of not less than 1 year immediately preceding death. OR
+     •   Spouse of a Service member missing in action (MIA) or a prisoner of war (POW) for more than
+         90 days 10 is eligible for VA home loan benefit for as long as the Service member is in that status
+         (this is one-time use only), OR
+     •   Remarried spouse of a Veteran who dies on active duty or from service-connected causes, who
+         remarries on or after December 16, 2003 after attaining age 57.
+
+                              More information on DIC benefit is at:
+                     https://www.va.gov/disability/dependency-indemnity-compensation/
+
+
+
+     Note 1: A surviving spouse who remarried before December 16, 2003, and after reaching age 57, must have
+       applied no later than December 15, 2004, to establish home loan eligibility. VA must deny applications
+       received after December 15, 2004 from surviving spouses who remarried before December 16, 2003.
+
+     Note 2: Surviving spouses receiving DIC awarded from 38 U.S.C. 1318 or 38 U.S.C. 1151 compensation OR
+       VA pension DO NOT qualify for the VA home loan benefit. 11
+       (see M21-1, Part IV, Subpart ii, Chapter 2, Section G - Benefits Under 38 U.S.C. 1151 online or Chapter
+       7 of M26-1 Guaranteed Loan Processing Manual for more information)
+
+     Note3: The definition of spouse includes same-sex couples. VA will apply the same standards for all
+       married couples for VA loan guaranties regardless of the sex of spouses. (see
+       https://www.va.gov/opa/marriage/)
+
+     Note 4: A remarried surviving spouse whose marriage is void or annulled by a court, may be eligible as an
+       ‘unremarried spouse’ in the eligibility criteria listed above.
+
+
+
+
+9
+  DIC award must be primary, secondary, ancillary, or Chapter 38 (not sections 1318 or 1151)
+10
+   See paragraph 3 of 38 U.S.C §3701(b)
+11
+   M26-1 (Chap. 7, Section 6): https://www.benefits.va.gov/WARMS/M26_1.asp
+
+
+                                                        40
+How to apply for Dependency and Indemnity Compensation (DIC):
+Meeting eligibility for the VA home loan, VA must first determine if, as a surviving spouse, you are
+eligible for, or in receipt of, certain types of Dependency and Indemnity Compensation (DIC). In addition,
+you must meet VA’s definition of a surviving spouse, as described below under Basic Eligibility.
+    Surviving Spouses not receiving DIC benefit will need to submit the following to the appropriate
+    Pension Management Centers (PMC) office:
+        •   VA Form 21-534
+        •   Copy of DD-214 (if available)
+        •   Copy of Marriage License
+        •   Copy of Death Certificate or DD Form 1300 (Report of Casualty)
+    The mailing address to send the VA 21-534 and copies of document is based on state of residence.
+    (See PMC States link for mailing addresses)
+
+
+Surviving Spouses applying for VA Home Loan eligibility:
+If you have Veteran status as a result of your own military service, then you should attempt to qualify as
+a Veteran. If you qualify as a Veteran in your own right, you can apply for your COE through your lender,
+online, with a VA Form 26-1880, Request for a Certificate of Eligibility. If you cannot qualify as a Veteran,
+then VA must determine whether you qualify as a surviving spouse.
+
+If you are receiving DIC and not a qualified Veteran in your own right, you can apply for a Certificate of
+Eligibility (COE) in one of two ways:
+
+    1) Provide your lender with a Request for Determination of Loan Guaranty Eligibility - Unmarried
+    Surviving Spouses (VA form 26-1817), OR
+    2) Mail a completed VA form 26-1817 and a copy of your spouse’s DD-214 discharge document (if
+    available) to the address listed on page 2 of the form.
+
+     * Most lenders have access to Web LGY, an Internet-based application that can establish eligibility
+       and issue a COE in a matter of seconds. Not all cases can be processed through Web LGY – the
+       system can only be used for cases where VA has sufficient data in its records. However, spouses
+       are encouraged to first ask their lenders about this method of obtaining a COE.
+     **Applicants unable to print the form may call 1-877-827-3702 and follow the prompts for
+       Eligibility, and VA can mail you the form.
+
+
+Where to find supporting documentation: Many applicants can obtain supporting documentation by
+submitting a completed SF 180, Request Pertaining to Military Records, to the address indicated on the
+back of that form, or online through the U.S. National Archives and Records Administration.
+
+Note on funding fees: A surviving spouse with their own entitlement may be exempt from paying a
+funding fee, if in receipt of DIC. The DIC must be awarded as primary, secondary, ancillary or Chapter 38.
+
+Note on VA refinancing: If the surviving spouse is submitting a loan application for an IRRRL, there is no
+need to submit a COE application, if the surviving spouse appeared on the loan to be refinanced with the
+
+
+
+                                                        41
+Veteran. If the surviving spouse was not on the loan, he/she would only be permitted to complete a
+cash-out refinance, upon qualification as a surviving spouse.
+
+Note on entitlement: The entitlement of the spouse is independent from that of the Service member.
+Therefore, the spouse's entitlement is not reduced by any prior use of entitlement by the Service
+member, and the Service member entitlement is not reduced by any use of entitlement by the spouse.
+12
+
+
+
+
+12
+     Source: Chapter 7, Topic 6 of M26-1
+
+
+                                                  42
+Appendix F: Native American Direct Loan (NADL)
+Program
+VA provides direct home loans to eligible Native American Veterans, eligible spouses, or the Veteran
+spouse of a Native American to buy, build, or improve a home on Federal Trust Land. It can also be used
+to refinance a prior NADL to reduce the interest rate.
+
+Congress mandates that VA have a signed Memorandum of Understanding (MOU) with your tribal or
+territorial government. This agreement recognizes your rights as a VA Home Loan borrower and the
+conditions that allow VA to provide a direct loan on Trust land. To see if your tribe has an MOU with VA,
+go to https://benefits.va.gov/homeloans/nadl_mou.asp.
+
+VA can enter into MOUs with federally recognized Tribes, Villages, Nations, Bands, Communities, as well
+as traditional Pacific Islander Communities of the Hawaiian Home Lands, American Samoa, Guam, and
+the Commonwealth of the Northern Marianas Islands.
+
+        Note: If your Tribal Government does not yet have an active NADL MOU with VA, you can ask
+        your Tribal Government representative or Housing Authority to contact the nearest Regional
+        Loan Center. (More information on NADL MOUs is in Chapter 2 of the NADL Manual).
+
+        A sample MOU is available at https://benefits.va.gov/homeloans/documents/docs/mou.pdf.
+
+As of January 1, 2020, the previous $80,000 loan limit on NADLs was removed. This expansion to the
+loan limit makes this loan more competitive with other loan products on Federal Trust Land and gives
+you all the benefits and service of the VA Home Loan Program.
+
+   More information on Federally recognized Indian Tribes and resources for Native Americans is at:
+                                    https://www.usa.gov/tribes
+
+
+                         More information on NADL is available online at:
+     https://www.benefits.va.gov/WARMS/M26_13_Native_American_Direct_Loans_Manual.asp
+
+
+NADL Eligibility
+And, as with all VA home loans, you must have a valid Certificate of Eligibility to be eligible for the
+benefit (meeting length of service and character of service requirements) and have available entitlement.
+(see Appendix B: Certificate of Eligibility (COE) above). Plus, you must be a:
+        •   Member of the Tribe, or
+        •   Veteran married to a member of the Tribe
+You must provide documentation that you or your spouse is an enrolled member of a Federally
+recognized tribe. To obtain a NADL, you must have ‘meaningful interest’ in ownership of the property,
+meaning a lease for a period of years which exceeds the mortgage by at least 14 years, or a life estate.
+(More information on Veteran and land eligibility is in Chapter 3 of the NADL Manual)
+
+
+
+
+                                                    43
+The NADL loan must be to purchase, construct, or improve a home on Federally recognized trust,
+allotted lands, Alaska Native corporations, or Pacific Island territories. Also:
+         •   You must occupy the property as your home
+         •   You must be a satisfactory credit risk
+         •   Your income and that of your spouse, if any, must be shown to be stable and sufficient to
+             meet the mortgage payments, cover the other costs of owning a home, take care of other
+             obligations and expenses, and have enough left over for family support
+
+     Why Use the NADL Program?
+       • VA is your direct lender                          •   Low fixed interest rate
+         •   Easy to qualify                               •   Low closing costs
+         •   No down payment required                      •   30-year mortgage
+         •   No private mortgage insurance                 •   Re-usable benefit
+             required
+
+     What is the interest rate for NADLs?
+     Interest rates are subject to change due to market fluctuations. VA evaluates market trends to
+     determine if interest rate reductions or increases are warranted. Please contact VA for most the
+     current rate at 1-877-827-3702.
+
+     Is there a Fee Associated with the NADL Program?
+     NADL borrowers must pay a low funding fee to obtain VA's direct loan to purchase a home. This fee
+     can be paid in cash or included in the loan, but the funding fee must be paid at the time of loan
+     closing.
+     The funding fee for active duty Veterans is 1.25% of the total loan amount and the fee for eligible
+     Reservist or National Guard Native American Veterans is 2% of the total loan amount.
+     The funding fee for a NADL Interest Rate Reduction Refinance Loan (IRRRL) is 0.50% percent of the
+     total loan amount.
+     You do not have to pay the funding fee if you are a:
+        • Veteran receiving VA compensation for a service-connected disability, OR
+        • Veteran who would be entitled to receive compensation for a service-connected disability if
+            you did not receive retirement or active duty pay, OR
+        • Surviving spouse of a Veteran who died in service or from a service-connected disability.
+
+     Is there a limit to size of a VA-guaranteed mortgage?
+     Not if you will have only one active VA loan. If you are a first-time homebuyer or have sold your
+     previous VA-guaranteed home loan, you can enjoy VA-backing on a home loan regardless of home
+     price and without the need for a down payment.13 However, VA can only guarantee the lesser of
+     the appraised value or actual loan amount.
+
+
+
+13
+   Blue Water Navy Vietnam Veterans Act of 2019, https://www.congress.gov/bill/116th-congress/house-
+bill/299/text
+
+
+                                                      44
+Appendix G: How to Avoid Foreclosure
+VA urges all borrowers experiencing problems making their mortgage payments to contact their loan
+servicers as soon as possible to explore options to avoid foreclosure. Contrary to popular opinion, your
+mortgage company (servicer) really does not want to foreclose because foreclosures cost a lot of money.
+
+Depending on your situation, servicers may offer any of the following options to avoid foreclosure:
+    •   Repayment Plan – You make regular installment payments each month plus part of the
+        missed installments.
+    •   Special Forbearance – Your servicer agrees not to initiate foreclosure which allows you
+        time to repay the missed installments. (For example, you are waiting for a tax refund)
+    •   Loan Modification – Your servicer provides you a fresh start by adding the delinquency to
+        the loan balance and establishing a new payment schedule.
+    •   Short Sale – Your servicer agrees to allow you to sell your home for a lesser amount than
+        what is currently required to pay off the loan. Note: Settling debt for less than the amount owed
+        will affect your credit and VA loan entitlement. You can always call VA at the number below to
+        discuss your loan entitlement.
+    •   Deed-in-Lieu of Foreclosure – You voluntarily agree to deed the property to the servicer
+        instead of going through a lengthy foreclosure process.
+
+    Note: VA only has the authority to intervene on your behalf if you have a VA-guaranteed loan,
+    however ALL Veterans are welcome to contact VA at 1-877-827-3702 to speak with our VA Loan
+    Technicians for advice on approaches to take with your servicer.
+
+
+If You Cannot Make Payments on the Due Date?
+Even the most reliable borrowers sometimes have trouble making every payment on its due date. VA
+understands there are legitimate reasons for missing a payment, such as a reduction of earnings or
+illness in your family.
+
+If you are unable to make your payment when it is due, you should contact your servicer right away. (A
+servicer is the company that handles collecting your installment payments.)
+
+Try to work out a satisfactory plan to make up the payments missed. Your servicer's advice may be
+helpful when you are in a tight spot. Try to call your servicer before they write to you. And always
+answer notices or letters you receive.
+
+Frankly explain your trouble. Put "all your cards on the table." If you can, offer a plan to catch up on your
+payments. Or you can request advice or guidance. Just let your servicer know that you want to keep
+your home and are sincere in your desire to find a way out of your trouble. Your sincerity will be
+appreciated. If possible, your servicer may help you develop a plan to enable you to keep your home.
+
+If you do not cooperate with your mortgage company, you may lose your home by foreclosure. Besides
+causing the loss of your home, this would naturally have a very bad effect on your credit standing and
+
+
+
+                                                     45
+may even leave you with a debt. You can, and should, make every attempt to avoid this. With a VA loan,
+you have the options available above. If your servicer is unwilling or unable to work with you, contact
+the nearest VA Regional Loan Center at 1-877-827-3702. Our technicians can offer you financial
+counseling and help you deal with your servicer (or work with you directly in the case of a VA direct
+loan).
+
+    Note: In emergencies, your first impulse sometimes may be to borrow money to keep your
+    mortgage payments current. However, any new loan must be paid off in a short time perhaps
+    through burdensome installments, and the extra strain may lead to more serious financial trouble.
+    Before taking on new debt, contact VA at 1-877-827-3702.
+
+
+What If I Experience Financial Troubles?
+When serious financial troubles arise, you may have to cut down on living expenses. This can include
+cutting luxuries you previously enjoyed and even some “necessities” may have to be dropped for a time.
+
+It is far better to sell a home of your own free will and perhaps save your equity (amount by which value
+of property exceeds loan balance) than to have it taken away by foreclosure. A foreclosure could cause
+you to lose your equity, hurt your credit standing, and possibly increase your present debts. You may
+again be able to buy a home in the future when your financial position improves by taking proactive
+action today.
+
+For more information:
+    ▪ You can talk to a HUD-approved housing counselor
+    ▪ See VA’s Delinquency Assistance information is available in regard to Veterans encountering
+       problems making mortgage payments
+    ▪ See HUD’s Homeowner's Guide to Success helps families at risk of missing a mortgage payment
+       or facing foreclosure.
+    ▪ See Consumer Financial Protection Bureau’s advisory on how to spot a foreclosure relief scam
+
+
+Beware of the "Dotted Line"
+If you are behind in your mortgage payments, VA warns you to be very careful before agreeing to any
+offers by strangers to make up your back payments if you just "sign on the dotted line."
+
+If you are offered such a proposition, contact your servicer or the nearest VA Regional Loan Center (1-
+877-827-3702) about any loan before you sign any paperwork. They can advise you about the soundness
+of the offer. VA cannot give you legal advice but can advise you of dangerous practices or the
+advisability of consulting an attorney.
+
+Here are examples of things to look out for:
+    •   Someone tells you they can pay your missed payments: Some Veterans behind on VA loan
+        payments and have been approached by unknown persons who offer to pay their delinquent
+        installments if they "sign on the dotted line." They may later learn that they signed a deed and
+        can get the property back only by signing another contract at a much higher price. If they cannot
+        meet the stiff terms of the new contract, legal action is started to take possession their home.
+
+
+
+
+                                                   46
+   •   Someone offers some cash to buy your equity: Sometimes individuals will visit a housing
+       development find Veterans having trouble meeting their VA loan payments. If so, these
+       individuals will offer each Veteran a small amount of cash for the equity in the property for the
+       privilege of buying another home in a lower cost neighborhood on a land sales contract. The
+       Veteran agrees to give possession in 60 days and "signs on the dotted line," not knowing that
+       they are signing a deed to the property. When the 60 days are up, the Veteran is told that no
+       houses are available in the lower cost development. Then the Veteran is put out of the home.
+   •   Someone rents out your home: A third method is used in states with a long foreclosure or
+       mortgage redemption period. Veterans may fall behind in their home loan payments and is
+       offered a small sum of cash for a "quit claim" deed to the property with a promise that all back
+       payments will be made up. The Veteran moves out believing that the loan will be brought up to
+       date. Instead, the individual holding the quit claim deed rents the house without making up back
+       payments. Most of the money received as rent is profit for the individual until foreclosure is
+       final, and the Veteran, not knowing what has happened, may still owe the servicer.
+
+You can protect your own interests and do other Veterans a service if you report any such propositions
+to the company accept your mortgage payments and to the nearest VA Regional Loan Center.
+
+
+
+
+                                                   47
+Appendix H: FAQs and Common Issues
+Can I obtain a VA loan to purchase property in a foreign country?
+No. You can only purchase property in the United States, its territories, or possessions (including Puerto
+Rico, Guam, Virgin Islands, American Samoa, and Northern Mariana Islands).
+
+Does active duty for training in the Guard and Reserves qualify a person for home
+loan benefits?
+No. Active duty for training in the Guard and Reserves does not qualify a person for home loan benefits,
+unless you complete a total of 6 years in the Guard and/or Reserves and serves under title 10, U.S.C.
+
+What can I do if my Certificate of Eligibility (COE) is denied?
+The two most common reasons for a denial are: 1) the length of your military service does not meet VA
+eligibility requirements, or 2) your character of service that does not meet VA eligibility requirements. If
+you believe this decision was made in error, you have the following options:
+     1) Request a Higher-Level Review of the decision based on the same evidence you presented in
+          your initial COE application, OR
+     2) Submit additional evidence, OR
+     3) File a direct appeal to the Board of Veterans Appeals (BVA) - Please note: You may not request
+          options 1 or 2 above after you file an appeal to the BVA
+     For more information on your options, you can contact the nearest VA Regional Loan Center at 1-
+     877-827-3702.
+
+May someone else join me in obtaining a VA loan?
+Yes, but the guaranty is based only your portion of the loan. The VA guaranty cannot cover a
+nonveteran's part of a loan, unless the nonveteran is your spouse. Note: Joint loans are generally more
+complicated than regular loans. Be sure to consult lenders to determine whether they would be willing
+to accept applications for joint loans. Also, you can contact the nearest VA Regional Loan Center at 1-
+877-827-3702.
+
+Will my monthly mortgage payments always be paid to the same company?
+No. It’s common practice in the mortgage lending industry to sell mortgages, often before the first
+payment is even due. If your loan is sold, the company servicing your loan must give you notice. For
+more information on loan servicing, see the Post-Purchase: Mortgage Servicing section above.
+
+If I die before the loan is paid off, will the VA guaranty pay off the balance of the
+loan?
+No. Your surviving spouse or other coborrower must continue to make the payments. If there is no
+coborrower, the loan becomes the obligation of your estate. Protection against this may be obtained
+through mortgage life insurance, which must be purchased from private insurance sources.
+
+What if I had a previous bankruptcy or foreclosure?
+VA may only guarantee a loan when it is possible to determine an eligible Veteran is a satisfactory risk
+and has the anticipated income to pay the terms of the new loan. When underwriting a loan, bankruptcy
+itself does not in itself disqualify an applicant. Lenders must consider the reason for the bankruptcy and
+type of bankruptcy. Typically, there is a two-year waiting period for Chapter 7 bankruptcy filing (from
+discharge date), and a one-year waiting period for Chapter 13 filings (also from discharge date) to
+qualify for a VA-guaranteed loan.
+
+
+                                                     48
+       More information on bankruptcy and VA home loans can be found on the VAntage Point blog
+       post located here: https://www.blogs.va.gov/VAntage/19931/va-busts-four-home-loan-myths-
+       that-hurt-veteran-homebuyers/
+
+       Additional guidance on eligibility and restoration of entitlement can be found here:
+       https://www.va.gov/housing-assistance/home-loans/eligibility/
+
+Borrowers seeking restoration of their VA home loan entitlement may also choose to call their Regional
+Loan Center (RLC) at 1-877-827-3702 to discuss further.
+
+
+
+
+                                                  49
+Appendix I: Terms and Definitions
+Below are definitions for some common words or phrases used throughout this guide and in the
+mortgage industry:
+   1.   Assumption: a situation where, instead of opening a new mortgage loan, the buyer takes
+        over the seller’s loan.
+
+   2.   Amortize: to pay off (an obligation, such as a mortgage) gradually usually by periodic
+        payments of principal and interest.
+
+   3.   Borrower: In this guide, this refers to the person applying for the VA home loan, (can be
+        eligible Veteran, Service member, or surviving spouse).
+
+   4.   Certificate of Eligibility (COE): A statement from VA shows lenders that a borrower
+        qualifies for the VA home loan based on service history and duty status. It also states the
+        funding fee percentage (based on service, type of loan, and first/subsequent use) or exemption
+        (based on VA compensation for a service-connected disability).
+
+   5.   Disability Compensation: A tax-free monetary benefit paid to Veterans who are
+        determined by VA to be disabled by an injury or illness that was incurred or aggravated during
+        active military service (service-connected). To be eligible for compensation, the Veteran must
+        have been separated or discharged under conditions other than dishonorable and have applied
+        to VA for service-connected disability.
+   6.   Escrow account: Sometimes called an impound account, is an account set up by your
+        mortgage servicer or mortgage holder to pay certain property-related expenses. The mortgage
+        servicer manages the account and takes a portion of the mortgage payment to pay for taxes and
+        homeowners insurance.
+
+   7.   Full Entitlement: A situation where you are eligible for a VA home loan and can purchase a
+        home or refinance a non-VA home loan into a VA home loan. This is typical when you have
+        never used your VA home loan benefit, or you used your VA loan benefit in the past and paid off
+        your loan or sold the property.
+
+   8.   Guarantee: (verb) “to undertake to answer for the debt, default, or miscarriage of” a loan.
+        (See ‘Guaranty’)
+
+   9.   Guaranty: (noun) The VA Guaranty is a promise that the Federal Government will pay lenders
+        a proportion of the value of the loan in cases of default and foreclosure. The guaranty allows
+        borrowers NOT to pay for mortgage insurance for the life of the loan.
+
+   10. Home Loan Products:
+           o   Purchase loan – used to buy, build, or manufacture a new home. (see VA Purchase
+               Loans).
+           o   Native American Direct Loan (NADL) – used to purchase, build, improve, or
+               refinance a home on Native American (see Appendix F: NADL Program).
+           o   Interest Rate Reduction Loan (IRRRL) – used to refinance an existing VA-
+               guaranteed loan, generally at a lower interest rate than the existing VA loan, and with
+               lower principal and interest payments than the existing VA loan.
+
+
+                                                  50
+       o   Cash-out (Regular) refinance loan – can be used to take cash out of home
+           equity (such as to pay off debt or make home improvements), OR to refinance a non-VA
+           loan into a VA loan.
+       o   Construction loan – a loan to finance the construction and purchase of a residence.
+           The loan is closed prior to starting construction and monies are paid out to the builder
+           during construction. (see Construction Loan section)
+       o   Energy Efficient Mortgage (EEM) – a loan to add energy efficiency
+           improvements made in conjunction with a VA purchase loan, or a refinance loan secured
+           by that home. (see EEM section)
+
+11. Lender: a bank, credit union, or mortgage company that originates and loans money for a
+   home to eligible borrowers. Over 1,500 lenders participate in the VA Home Loan program.
+
+12. Loan Term: A loan term refers to the length of time and feature of a loan. VA can back loans
+   that are either 15 or 30-year terms. Also, terms include fixed-rate and adjustable rate mortgage
+   (ARM).
+
+13. Maturity date: Maturity or maturity date refers to the final payment date of a loan at which
+   point the principal (and all remaining interest) is due to be paid.
+
+14. Partial Entitlement: A situation where you have used part of your VA loan benefit in the
+   past may still purchase a home at any loan amount, but VA can only guarantee the loan amount
+   covered by your “remaining entitlement,” if any.
+
+15. Restoration of entitlement: a term that refers to reinstating a borrower’s entitlement to
+   use their VA home loan benefit more than once. (see Appendix D: Reusing the VA Loan)
+
+16. Service-connected disability: a disability (or disabilities) that either arose during service,
+   was worsened or aggravated by service; or is presumed by VA to be related to military service.
+
+17. Servicer: the mortgage servicer handles the daily functions of mortgages, such as collecting
+   the monthly mortgage payment. (see Mortgage Servicer section)
+
+18. Service member: a person currently serving in the military in active duty, reserve, or
+   National Guard status.
+
+19. Special Forbearance: an agreement between a homeowner and their mortgage servicer
+   (the company they send their monthly mortgage payments to) that establishes an alternative
+   payment schedule to reduce or suspend payments for a period of time. Importantly, mortgage
+   forbearance plans do not reduce the principal amount owed on a mortgage, and interest
+   continues to accrue for the duration of the plan. Homeowners who can afford to make partial
+   payments should do so in order to lessen the amount due at the end of the forbearance.
+
+20. Surviving spouse: For the purposes of the VA home loan, a surviving spouse is the spouse of
+   a Veteran who: served and was reported MIA/KIA, died of a condition or impairment connected
+   to their service in the Armed Forces (as determined by VA or DoD), or whose service-connected
+   disability/impairment, they believe, entitles them to benefits from the Department of Veterans
+   Affairs. (see Appendix E: Eligible Spouses)
+
+
+
+
+                                                51
+

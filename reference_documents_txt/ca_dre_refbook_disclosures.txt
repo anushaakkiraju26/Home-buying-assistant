@@ -1,0 +1,1023 @@
+20 Basic Contract Provisions and Disclosures in a Residential Real
+         Estate Transaction
+
+A residential real estate sale transaction usually begins at the time a broker obtains an agency contract in the
+form of a listing from the property owner. When a buyer is found, the transaction proceeds through several
+interrelated processes:
+    Concluding the sale. Buyer and seller agree to terms. The agreement and joint escrow instructions are
+    fully executed and unqualified acceptance is communicated. This is the result of sales effort, negotiation
+    and communication.
+    Legal transfer of title. Title insurance or title evidence has been furnished and escrow has the funds
+    necessary to cash out the seller’s equity, less expenses. All instruments necessary to transfer title are
+    executed and recorded. Transfer of title and transfer of money are thought of as simultaneous acts.
+    Completing the financing and providing the final settlement statement. Completing the financing is
+    closely related to the legal transfer of title but with more emphasis upon the settlement function: i.e., the
+    actual disbursement of funds by checks and a written accounting to all parties. In a complicated transaction
+    involving new financing, besides the buyer and seller, there may be prior lenders and a new lender. To
+    show the instructions of the escrow have been fully performed, the escrow holder will prepare an
+    accounting of the transaction by providing a settlement statement for the principals.
+
+                                       A TYPICAL TRANSACTION
+The California Association of REALTORS® provides many of the forms used and user guides associated with a
+typical transaction. C.A.R. assists the user of these forms in the defense of any claim, on appeal, that any pre-
+printed provision of the current version of a C.A.R. form is unlawful.
+While the C.A.R. forms are used in typical real estate transactions, they may be written in a number of other
+legal formats. Regardless of the written form, the licensee must be familiar with the form used or seek the
+advice of another professional.
+Typical C.A.R. Forms, Name and Number
+ Transaction Cover Sheet – TCS
+   Disclosure Regarding Real Estate Relationships – AD
+   Disclosure and Consent, Representation Of More Than One Buyer Or Seller – DA
+   Statewide Buyer and Seller Advisory – SBSA
+   Contingency For The Sale Or Purchase of Other Property – COP
+   Contingency Removal – CR
+   Lead Based Paint Hazards - FLD
+   Real Estate Transfer Disclosure Statement – TDS
+   Water Heater and Smoke detector Compliance Statement – WHSD
+   Extension of Time Addendum – ETA
+   Purchase Agreement Addendum – PAA
+   Receipt and Delivery of Notices To Perform - RDN
+   Addendum – ADM
+   Counter Offer – CO
+   Cancellation of Contract, Release of Deposit and Joint Escrow Instructions - CC
+476                                         CHAPTER TWENTY
+
+Additional C.A.R. Listing Forms and Number
+ Estimated Sellers Proceeds – ESP
+     Residential Listing Agreement, Exclusive – RLA
+     Seller's Advisory - SA
+     Short Sale Addendum - SSA
+     Modification of Terms Authorization - MT
+     Notice To Buyer To Perform – NBP
+
+
+Other Types of C.A.R. Listing Forms
+ Seller Instruction to Exclude Listing From the Multiple Listing Service – SEL
+     Seller Financing Addendum and Disclosure – SFA
+     Seller’s Intent To Exchange – SES
+     Business Listing Agreement – BLA
+     Business Purchase Agreement and Joint Escrow Instructions - BPA
+     Lease Listing Agreement – LL
+     Residential Lease or Month to Month Rental Agreement - LR
+     Manufactured Home Listing Agreement – MHL
+
+
+Additional C.A.R. Buyer Forms and Number
+ Estimated Buyers Costs – EBC
+     Residential Purchase Agreement and Joint Escrow Instructions – RPA CA
+     Notice of Default Purchase Agreement - NODPA Megan's Law Data Base Disclosure - DBD
+     Wood Destroying Pest Inspections and Allocation of Cost Addendum - WPA
+     Request for Repair – RR
+     Notice To Seller To Perform – NSP Notice to Buyer to Perform - NBP
+     Verification of Property Condition – VP
+
+
+Other Types of C.A.R. Forms Used with Buyers
+ Buyer Broker Representation Agreements – BRE, BRNE and BRNN
+     Probate Purchase Agreement and Joint Escrow Instructions – PPA
+     Residential Income Purchase Agreement and Joint Escrow Instructions – RIPA
+     New Construction Purchase Agreement and Joint Escrow Instructions – NCPA
+     Vacant Land Purchase Agreement and Joint Escrow Instructions – VLPA
+     Business Purchase Agreement and Joint Escrow Instructions – BPA
+     Commercial Property Purchase Agreement and Joint Escrow Instructions – CPA
+     Buyers Intent To Exchange Supplement – BES
+477                                CONTRACT PROVISIONS AND DISCLOSURES
+
+     Manufactured Home Purchase Agreement and Joint Escrow Instructions – MHPA
+The latest information on the most typical C.A.R. forms can be obtained at http://C.A.R..org and
+http://www.winforms.com
+                                  OVERVIEW - A TYPICAL TRANSACTION
+An owner (the seller) of a single-family residence (the property) in California wishes to sell the property.
+The seller enters into a Residential Listing Agreement, Exclusive - RLA (the listing) with a California real
+estate broker (the listing broker).
+Prior to entering into the listing, the broker is required to give the seller a Disclosure Regarding Real Estate
+Relationships – AD form. This requirement is discussed more completely in Chapter 10. In addition, the seller
+would typically be given an Estimated Sellers Proceeds – ESP or similar form. The listing typically provides
+that it will be placed into a multiple listing service and the listing broker can cooperate/share the commission if
+another broker (the selling broker) finds a buyer for the property. If the seller does not want the property listed
+in the multiple listing service, the C.A.R. form Seller Instruction to Exclude Listing From the Multiple Listing
+Service – SEL is used.
+Licensee’s should note the typical Residential Listing Agreement, Exclusive – RLA allows 5 days for
+management approval, and if the Broker or the Brokers Manager does not approve of its terms, the Broker or
+the Brokers Manager has the right to cancel the agreement.
+The selling broker finds a buyer purportedly ready, willing and able to purchase the property. An offer
+(preceded by a Disclosure Regarding Real Estate Relationships – AD ) is made, negotiated, and accepted so
+that a meeting of the minds is reflected in the Residential Purchase Agreement and Joint Escrow Instructions –
+RPACA (the contract). If a dual agency exists, as soon as practicable the selling agent shall disclose to the
+buyer and the seller the agents agency relationship. As soon as practicable the listing agent shall disclose to the
+seller whether the agent is acting as a dual agent. These relationships shall be acknowledged by the
+Confirmation of Agency relationships contained in the contract RPA-CA or by a separate form - Confirmation
+of Agency Relationships - AC. In the event a broker's presentation of offers on behalf of two different buyers
+occurs, the broker should obtain the clear, informed and unequivocal consent of both parties. C.A.R form DA
+addresses this issue. This requirement is discussed more completely in Chapter 10.
+The transaction, grounded in the conclusion of the sale negotiated by the listing and selling brokers, proceeds to
+the legal transfer of title, completing the financing and providing the final settlement statement.
+The typical licensee should note that extensive re-writing of any of the standard forms language is not advised
+and could be construed as the unauthorized practice of law. Specific contract provisions relating to the buyer
+and sellers unique situation should be outlined using the appropriate spaces provided in the standard forms or
+by using additional forms such as counter offers or addendums.
+The following sections of this chapter examine the provisions of a listing agreement and a typical residential
+agreement involved in such a transaction and the required disclosures. The real estate practitioner should check
+with the employing broker for any additional procedures required by the employing broker.
+
+                                                 A TYPICAL LISTING
+The Residential Listing Agreement, Exclusive - RLA is a listing for sale of one or more specifically described
+parcels of real property. (This is one of several different types of listing agreements.) The phrase “right to sell”
+means, “right to find a buyer.” It does not authorize the broker to sign transaction documents for the seller.
+A typical listing authorizes the broker to:
+     Place a “for sale” sign on the property;
+     Place the property in a multiple listing service;
+     Cooperate with buyer’s agents; and
+     Accept on the seller’s behalf a prospective buyer’s good faith deposit.
+478                                           CHAPTER TWENTY
+
+Any modifications to the typical listing agreement are made using the Modification of Terms Authorization and
+Right to Sell, Acquire or Rent- C.A.R. form MT.
+1. Term
+A listing must have a definite term. The term of the listing ends at 11:59 PM on a specified day.
+2. Description of the Property
+The description of the property should be specific and detailed. Accuracy of description avoids any doubt and
+assists if needed in the enforcement of the listing on that ground.
+3. Exclusion and Inclusions
+Other than fixtures and fittings that are attached to the property, which are included, and personal property,
+which are excluded, the licensee should be sure to specifically write in items the seller is including or excluding
+from the sale. If there is any doubt or potential confusion it is best to specifically point out items that are
+included or those items that are excluded.
+4. Listing Price and Terms of Sale
+The minimum requirement for setting forth the terms of sale, where cash is acceptable to the seller, is to express
+the price in cash.
+Complications may arise when the seller demands assumption of the existing loan or loans, or indicates a
+willingness to pay part of the assumption fees or new set-up charges if the buyer assumes the existing loan or
+refinances with the existing lender. Such terms of sale should be spelled out in detail.
+If the sale may be financed by a VA or FHA loan, the listing will include details of the seller’s conditions with
+respect to the payment of points.
+Where a first loan can be assumed and the seller is willing to carry secondary financing, the specific terms of
+the proposed secondary financing will be set forth.
+If the sale is to be a 'short sale' - where the sales price is less than the encumbrances on the property - it should
+be noted that lender approval of any offer will be required and a Short Sale Addendum (C.A.R. form SSA)
+should be used.
+5. Broker’s Compensation and Negotiability of Commission
+In the sale of residential property of not more than four units, including a mobilehome, Business and
+Professions Code Section 10147.5 requires that the listing (or whatever document initially establishes the
+broker’s right to a commission, or increases the amount or rate of the commission) contain, in not less than 10-
+point boldface type, the following provision before the compensation clause:
+      Notice: The amount or rate of real estate commissions is not fixed by law. They are set by
+      each broker individually and may be negotiable between the seller and broker.
+A broker can set a typical commission rate for the firm, but cannot use a listing form in which the amount or
+rate of compensation is preprinted or otherwise inserted prior to negotiation with the seller.
+The compensation clause in a typical listing agreement will be specific and unequivocal. It will state simply that
+the broker is entitled to the compensation, expressed either as a percentage of the purchase price or a dollar
+amount, if the property is sold by the broker, by another broker, or by the seller during the term of the listing or
+any extension of it. It also obligates the seller to pay the compensation if, without the consent of the broker, the
+owner withdraws the property from sale or in some other way makes it unmarketable during the term of the
+listing or any extension thereof.
+A listing’s “protection clause” will designate a period of time after expiration of the listing during which the
+broker’s compensation is protected if the owner personally sells to someone who physically entered and was
+shown the property or who wrote an offer on the property. For this clause to be effective, the broker must,
+either before or within the time specified in the agreement, notify the owner in writing of the names of the
+prospective buyers with whom the broker has negotiated during the listing term.
+6. Ownership, Title, and Authority
+In a typical transaction the seller warrants they are the owner with the right to sell the property and no other
+persons or entities have title. Any exceptions to ownership, title and authority should be noted.
+479                              CONTRACT PROVISIONS AND DISCLOSURES
+
+7. Multiple Listing Service (MLS) ) and the Internet
+A paragraph typically provides that the listing will be submitted to a designated MLS where information about
+the property will be disseminated to members, who may also solicit potential buyers for the property. The MLS
+and broker often have additional services to provide Internet access to registered clients via the brokers virtual
+office website or to advertise the property on the Internet on sites like Realtor.com or through the brokers own
+website using Internet Data Exchange (IDX) protocol.
+8. Seller Representations
+The seller typically represent that, unless specified in writing, they are not aware of any of the following:
+     Notice of Default
+     Loan Delinquencies
+     Bankruptcy or insolvency affecting the property
+     Threatened or pending litigation
+     Current, pending or proposed special assessments
+To notify the broker if the seller becomes aware of any changes in the items listed.
+9. The Broker’s and Seller’s Duty
+In return for the exclusive rights granted by the owner, the broker agrees to use due diligence in attempting to
+find a suitable buyer and negotiate a sale. Thus, the listing is a bilateral contract.
+The listing states that the right of the broker is “irrevocable.” Basically, this means that it cannot be revoked by
+either party without the other’s consent. However, if there is a breach of contract (e.g., failure of the broker to
+use due diligence), the contract may be subject to legal rescission.
+The seller is responsible for determining at what price to list and sell the property and agrees to indemnify and
+hold Broker harmless in actions resulting from any material fact the Seller knows but fails to disclose.
+10. Deposit
+This clause authorizes the agent to accept a certain deposit to be applied toward the purchase price. The proper
+handling of earnest money deposits should be outlined by your employing broker and is discussed in more
+detail in Chapter 23.
+
+11. Agency Relationships
+The broker is required to give the seller a Disclosure Regarding Real Estate Relationships – C.A.R. form AD.
+In the event the selling broker also represents more than one buyer, the consent of both the buyers and the seller
+is required by using the C.A.R. form, Disclosure and Consent For Representation Of More Than One Buyer Or
+Seller – DA or equivalent. These requirements are discussed more completely in Chapter 10.
+12. Security and Insurance
+This clause advises the seller to take reasonable precautions in safeguarding valuables and discloses that 3rd
+parties such as inspectors, virtual tour providers, prospective buyers, appraisers and others will access the
+property and they may take pictures and videos. The clause also discloses to the seller that the broker does not
+maintain insurance to protect the seller and is not responsible for loss of or damage to personal or real property.
+13. Keysafe/lockbox
+Authorizes the agent to place a key repository on the listed property.
+14. Sign
+ Authorizes placement of broker’s “for sale/sold” sign on the property.
+15. Equal housing opportunity clause
+This clause is prima facie evidence of nondiscriminatory intent. The proof of compliance is, of course, that the
+parties act in the spirit of the declaration.
+480                                           CHAPTER TWENTY
+
+16. Attorney’s fees
+In the event of any legal action to resolve a dispute, this clause provides that the prevailing party will be paid
+reasonable attorney’s fees.
+17. Additional terms
+Additional provisions could include: date for possession; rent if possession is delivered on a date other than
+closing day; repairs to be made by owner; and termite work. Also, if the seller has a prospect, which the seller
+personally located, the seller may wish to exclude a sale to that person from seller’s obligation to pay a
+commission.
+18. Management Approval
+After its' execution, the broker or the broker’s designee has the right to approve the terms of the agreement
+within 5 days or cancel the agreement in writing.
+19. Successors and assigns
+The agreement is typically binding on the seller’s successors and assigns.
+20. Dispute Resolution
+The seller and broker agree to first mediate any dispute regardless of the arbitration election. After mediation
+the parties will arbitrate, if initialed by all parties to the contract. There are certain exclusions from mediation
+and arbitration, most notably foreclosure, probate, bankruptcy and small claims actions.
+21. Entire Agreement
+It should be noted in the standard listing agreements published by C.A.R., all prior discussions and negotiations
+are superseded by the written agreement. Thus it is important to commit to writing all terms and conditions.
+22. Owner’s signature
+All owners must sign the listing. If the property is owned by a partnership or a corporation, the proper officials
+must sign and provide the appropriate authorization or resolution
+23. Agent’s signature
+When the listing is signed by an authorized licensee member of the broker’s staff or by the broker himself, it
+becomes a (bilateral) contract, with a 5-day management approval contingency. Broker (or broker’s agent) must
+give the seller a copy of the agreement at the time of signing.
+         RESIDENTIAL PURCHASE AGREEMENT AND JOINT ESCROW INSTRUCTIONS
+This section highlights provisions, which comprise a residential purchase agreement using the standard C.A.R.
+form, Residential Purchase Agreement and Joint Escrow Instructions – RPA CA. When completed with the
+terms and other information relative to the buyer’s attempt to purchase the property, it is an offer. When the
+seller [or seller or buyer after counter offer(s)] executes the documents and communicates unqualified
+acceptance, it is a contract. The contract provides joint escrow instructions. Many escrow companies will
+generate supplemental or other general provisions, which buyer and seller agree to execute. In this discussion,
+we refer to the document as the offer, contract or agreement.
+The contract will state that time is of the essence and that the time for performance can be extended or any other
+provision of the offer can be modified only by a writing signed by both buyer and seller. In general the buyer
+has 3 days to get the deposit to escrow, 7 days to complete loan applications and provide verification of funds
+and 17 days to inspect and investigate. The seller typically has 7 days to provide the buyer all required
+disclosures. Any removal of contingencies must be in writing, typically using the C.A.R. standard form
+Contingency Removal – CR. If one party does not perform, the other party has the option to provide a “Notice
+To Perform” and typically allow 24 hours for performance to occur. However, before initiating a cancellation of
+the agreement and escrow the “Notice To Perform” is typically required. Unilateral cancellation of the
+agreement and escrow is possible; however, the disposition of funds on deposit must be bilateral.
+The California Association of Realtors offers a comprehensive user guide to the Residential Purchase
+Agreement and Joint Escrow Instructions – RPA CA that is highly recommended for all licensees using these
+forms.
+481                              CONTRACT PROVISIONS AND DISCLOSURES
+
+Date and Place of Buyer’s Offer
+This is the date and place the deposit receipt is signed by the (prospective) buyer. This is not the date used to
+measure temporal compliance with any of the performance provisions of the contract. Those time constraints
+flow from the date a contract is formed by legal acceptance and formation of the contract.
+The Full and Correct Name of the Buyer
+This will include all the buyer’s complete names. If the buyer is a corporation, include the state where the
+corporation is chartered and a copy of the corporate resolution authorizing the activity. If the buyer is a general
+partnership, include the names of the partners. If buyer is a limited partnership, include the name of the general
+partner. If the buyer is a real estate licensee, disclose that fact. It is not necessary to include the manner in
+which the buyer will take title, since this will be handled in escrow.
+Description of the Property
+The property description must be adequate for a court to identify it: street address, map book, page and parcel,
+or other legal description such as an assessors parcel number (APN).
+Purchase Price
+The offer must state unmistakably the total purchase price offered and the terms to which the buyer is willing to
+commit (e.g., all cash, new loan, or loan assumption) as described in the Finance Terms Section. The total
+purchase price will not include the buyer’s closing costs and any costs associated with obtaining financing.
+Close of Escrow
+The offer must state when the close of escrow will occur, in general, to avoid confusion among all parties, it is
+best to write a specific date.
+Agency Disclosure
+Acknowledges the buyer and seller's prior receipt of the agency disclosure form (C.A.R. Form AD).
+Potentially Competing Buyers and Sellers
+Buyer understands that the broker representing the buyer may also represent other potential buyers who may
+make offers on the same property. Seller understands that broker representing seller may also represent other
+sellers with competing properties. If not previously disclosed the agent should complete C.A.R. form DA.
+Confirmation
+This section discloses the agency relationship chosen for this transaction. It is important to remember that if
+different agents each represent the buyer and the seller but are employed by the same broker, the agency
+relationship must represent both the buyer and the seller (dual agency).
+Finance Terms
+Licensees should note that the standard C.A.R. agreement states the buyer represents the funds will be good
+when deposited into escrow.
+The offer will typically outline within the Finance Terms section the initial deposit amount, increased deposit,
+the first loan amount and terms, any secondary financing, if FHA/VA financing is to be obtained the buyer has
+17 days to provide the seller with written notice of any lender required repairs, any additional financing terms,
+the balance of the purchase price, the control total to ensure the terms add up to the total price offered.
+It is important to note that the agent has several options regarding the handling of the initial deposit. The agent
+may designate that the buyer will deliver the deposit directly to Escrow Holder within 3 business days after
+acceptance or the buyer has given the deposit to the agent and the deposit shall be held uncashed until
+acceptance and then deposited into the broker's trust account or taken to escrow within 3 business days after
+acceptance. The agent should ensure that if this option is selected that the agent has the deposit in hand at the
+time of submitting the offer.
+The typical contract will contain a financing contingency unless both parties agree otherwise. That is, the
+loan(s) necessary for closing will be described and the buyer will agree to act diligently to obtain the financing.
+There may be a time limitation so the buyer must act promptly. If a loan contingency exists and in spite of
+buyer’s diligent attempt, the stated financing is not obtained within the allotted time the seller can deliver to the
+buyer a Notice To Buyer to Perform (C.A.R. form NBP). The buyer then must remove the financing
+contingency and proceed with the transaction or the seller may chose to cancel the contract.
+482                                           CHAPTER TWENTY
+
+Typically the buyer will have 7 days after acceptance to deliver to the seller written verification that buyer has
+sufficient funds to cover the down payment and closing costs and when the loan application must be completed.
+The buyer typically has 17 days to remove the loan and any appraisal contingencies.
+Allocation of Costs
+The offer will outline the allocation of costs between buyer and seller, including but not limited to:
+  Inspections and Reports
+      The contract will specify whether or not a pest control inspection is to be performed, who will complete
+      the inspection and it may specify who must pay for any work required so that a registered structural pest
+      control company can issue a written certification that the property is free of evidence of active infestation
+      in the accessible areas. The C.A.R. standard form Wood Destroying Pest Inspections and Allocation of
+      Cost Addendum – WPA can be used to add additional clarity or assign specific responsibility for repairs.
+      Lenders may require issuance of a certification prior to funding. If the contract provides that some of the
+      required work will be completed at seller’s expense after close of escrow, that provision may also require
+      that the seller deposit funds into escrow, to be disbursed when the buyer has received a written
+      certification.
+  Other Inspections
+      The contract will specify if the buyer or the seller will pay for various inspections or reports such as septic
+      systems, wells and natural hazard zone disclosures.
+  Government Requirements and Retrofit
+          o    Retrofit
+               The contract may assign responsibility for any retrofitting required, upon sale, by the local
+               government. This could include among other items the installation of low flow showerheads and
+               gallon restricted flush toilets.
+
+          o    Smoke Detector(s)
+               The contract may reiterate state laws that require that dwelling units be equipped with smoke
+               detectors approved by the State Fire Marshall. In an existing dwelling, there must be a battery-
+               operated smoke detector outside each sleeping area. As of August 14, 1992, new construction (or
+               an addition, alteration or repair that exceeds $1,000 and requires a permit or includes addition of
+               a sleeping room) must include smoke detectors in each bedroom and at a point centrally located
+               outside the bedroom(s). In new construction, the smoke detector(s) must be hard-wired, with
+               battery backup. The seller must give the buyer written certification of smoke detector
+               compliance, as required by Health and Safety Code Section 13113.8. This may be done in the
+               contract or in a separate writing. Certain transactions are exempt from this requirement, as set
+               forth in Health and Safety Code Section 13113.8(d). These exemptions are nearly identical to
+               those set forth below relative to the provision of a Transfer Disclosure Statement.
+          o    Water Heater Bracing
+               The contract may set forth the seller’s duty to see that each water heater is braced, anchored or
+               strapped, in accordance with the California Plumbing Code, to resist falling or horizontal
+               displacement during an earthquake. As indicated in Health and Safety Code Section 19211, the
+               seller must give the buyer written certification of compliance in the contract, the Homeowner’s
+               Guide to Earthquake Safety (discussed later in this chapter), in the Transfer Disclosure
+               Statement, or in some other transaction document.
+  Escrow and Title
+      This section specifies how title and escrow fees are to be paid and establishes the escrow holder.
+483                               CONTRACT PROVISIONS AND DISCLOSURES
+
+  Other Costs
+      Establishes who is to pay for additional costs such as County Transfer Tax, any Homeowner's Association
+      transfer fees, Homeowner Warranty plans, etc.
+Closing and Possession
+Typically for the benefit of the lender, the offer will address if the buyer does or does not intend to occupy the
+property and the date and time occupancy will be delivered. When using the standard forms and the transfer of
+title and occupancy do not occur at the same time, buyer and seller are advised to enter into a written agreement
+and consult with their insurance and legal advisors. The typical standard form used for occupancy under 30
+days is the Purchase Agreement Addendum – PAA, which references paragraph 3. In addition the standard form
+will address among other items, tenant occupancy, warranty rights and the disposition of keys, locks, security
+systems and HOA facilities.
+If the property is tenant occupied it is the seller's responsibility to have the property vacated at least 5 days prior
+to the close of escrow unless otherwise agreed to in writing.
+If the property is being purchased as an income/investment property, the Residential Income Purchase
+Agreement and Joint Escrow Instructions – RIPA standard form should be considered. Regardless of the form
+used, if applicable, the standard contracts have language dealing with tenants. The standard contract can help
+ensure that the rental situation undergoes a smooth transition by requiring that:
+         the seller, within a stated period of time, give the buyer copies of the rental agreement/lease, the
+          current income and expense statement, and any notices sent to the tenants;
+         the seller cannot make any changes to the rental agreement/lease without the buyer’s consent;
+         the seller must give the buyer written statements from the tenants confirming the salient aspects of the
+          tenancy and that no defaults exist; and
+         the seller must transfer to the buyer, through escrow, any unused tenant deposits.
+Statutory Disclosures
+The offer will outline the required statutory disclosures. See the Disclosures section of this chapter for more
+details.
+Condominium and Planned Unit Development Disclosures
+The seller typically has 7 days if not previously disclosed to disclose whether the property is a condominium or
+is located in a planned unit development. Typically within 3 days, if applicable, the seller must order all
+required documents from all controlling Home Owners Associations.
+Items Included or Excluded From Purchase Price
+The buyer and seller should be very clear on items that are included or excluded from the sale and the typical
+contract will state the seller represents they own the items being transferred and they will be transferred free
+and clear of any liens and without warranty.
+          o   Fixtures
+              Subject to specific exclusions made part of the contract, the buyer is entitled to all fixtures.
+              Fixtures are items attached permanently (e.g., by cement, plaster, bolts, screws, or nails) to what is
+              permanent (walls, etc.). Examples are electrical, lighting, plumbing and heating fixtures, fireplace
+              inserts, solar systems, built-in appliances, window coverings, TV antennas, air conditioners, and
+              in-ground landscaping.
+          o   Personal Property
+              The buyer is entitled to only that personal property listed in the contract and subject to lender
+              approval. This could include any large outside potted plants, as these are ordinarily not fixtures.
+Condition of Property
+Unless otherwise agreed to in writing the property is sold in its present physical ("as is") condition subject to
+the right of the buyers to inspect and investigate, including the investigating the insurability of the property.
+The seller shall disclose all material facts and defects including known insurance claims.
+484                                            CHAPTER TWENTY
+
+Buyers Investigation of Property
+Acceptance of the property’s condition is a contract provision, subject to inspections and investigations to be
+conducted at buyer’s expense. The buyer must communicate approval of the property’s condition or request the
+seller make repairs or take other actions.
+The seller shall make the property available for all of the buyer's investigations and buyer shall give the seller
+complete copies of all investigation reports obtained by the buyer.
+The seller shall have all utilities on for buyer's investigations
+The buyer agrees to keep the property free and clear of any liens and to repair any damage arising from the
+buyer’s inspections or investigations.
+Seller Disclosures
+The contract has provisions for disclosures, addenda and advisories such as Buyer's Inspection Advisory
+(C.A.R. form BIA), Purchase Agreement Addendum (C.A.R. form PAA), Probate Advisory (C.A.R. form
+PAK). If any of the disclosures, addenda are checked they become a part of the contract and should be signed
+and included at the time of presenting the offer.
+Title and Vesting
+The contract will state that title will vest as directed by the buyer in instructions to the escrow holder. As there
+can be significant legal and tax implications, a real estate licensee should urge a buyer to seek competent advice
+regarding the manner of taking title.
+The contract will typically require transfer by grant deed, with mineral, oil and water rights if currently owned
+by the seller.
+The contract will state that title must be free of financing liens except as provided in the contract and will be
+subject to all other encumbrances, easements, covenants, conditions, and restrictions, etc. shown in the
+preliminary title report. Title will also be subject to any other exceptions disclosed to, or discovered by, the
+buyer prior to closing unless the buyer disapproves in writing of a particular exception.
+The contract will designate which party must pay for a preliminary title report and a policy of title insurance.
+Sale of Buyer’s Property
+The offer will indicate if the offer is contingent upon the sale of any property owned by the buyer, if so the
+licensee will use the C.A.R. standard form Contingency For The Sale Or Purchase of Other Property – COP.
+The Seller, who counter offers with a contingency subject to finding a replacement property will also use this
+standard form.
+Time Periods, Removal Of Contingencies, Cancellation Rights
+The contract will state that time is of the essence and that the time for performance can be extended or any
+other provision of the offer can be modified only by a writing signed by both buyer and seller. In general the
+buyer has 3 days to get the deposit to escrow, 7 days to complete loan applications and provide verification of
+funds and 17 days to inspect and investigate, including the properties insurability. The seller typically has 7
+days to provide the buyer all required disclosures. Any removal of contingencies must be in writing using the
+C.A.R. standard form Contingency Removal – CR. If one party does not perform, the other party has the right
+to deliver a “Notice To Perform.” What happens thereafter depends upon the action of the noticed party and the
+response of the party giving the notice. Unilateral cancellation of the agreement and escrow may be possible
+after the Notice To Perform period has expired; however, the disposition of funds on deposit must be bilateral.
+Repairs
+The buyer must communicate approval of the property’s condition by releasing the inspection and investigation
+contingency or request the seller make repairs or take other actions The buyer and seller then have a period of
+time to negotiate buyer’s requests. If the seller is willing to correct the items, the transaction proceeds. If the
+seller is unable or unwilling to correct the items, the buyer must either proceed with the transaction or cancel
+the escrow and contract.
+485                              CONTRACT PROVISIONS AND DISCLOSURES
+
+Final Verification of Condition
+The agreement will specify that the buyer has the right to make a final inspection of the property within 5 days
+prior to closing, not as a contingency of the sale but solely to confirm the property is in the same condition, any
+repairs have been completed as agreed between the parties and the seller has complied with all other contractual
+obligations.
+Pro-rations of Property Taxes and Other Items
+Typically, the contract will require that certain expenses of ownership be paid current as of the date of close of
+escrow, to become the buyer’s responsibility thereafter. These include:
+     real property taxes (including supplemental taxes) and assessments;
+     if applicable, homeowners’ association assessments;
+     premiums on insurance assumed by buyer; and
+     payments on bonds assumed by buyer.
+If the property is a rental, the rent will be prorated so that any prepaid rent for time on and after the date of
+close of escrow will be credited to the buyer.
+Withholding Taxes
+The offer will state the buyer and seller agree to execute any instrument reasonably necessary to comply with
+Federal and California withholding laws. Typically the C.A.R. standard forms AS is used.
+Selection of Service Providers
+The offer will state if brokers refer buyer and seller to persons, vendors or service providers, that brokers do not
+guarantee the performance of any providers. Buyer and Sellers may select providers of their own choosing.
+Multiple Listing Service
+The offer may give the brokers authorization to report the terms of the transaction to any MLS, to be published
+and distributed to other parties on terms approved by the MLS.
+Equal Housing Opportunity
+The offer informs the parties that the property is sold in compliance with federal, state and local anti-
+discrimination laws. It is illegal to discriminate on the basis of race, color, religion, sex, handicap, familial
+status, or national origin.
+Attorney Fees
+The offer states, with a few exceptions, in any action arising out of the agreement, the prevailing party shall be
+entitled to reasonable attorney fees and costs from the non-prevailing party.
+Definitions
+For clarity, the standard C.A.R. offer defines the various terms used in the offer. The user should be familiar
+with these definitions or seek professional advice.
+Broker Compensation
+If applicable, the offer will specify that the seller or buyer, or both, agrees to pay compensation to the broker as
+specified in a separate written agreement between the broker and seller or buyer.
+Compensation is due upon close of escrow, or if escrow does not close, the seller and/or buyer agrees to pay
+Broker as specified in a separate written agreement between the seller and/or buyer.
+Joint Escrow Instructions
+The standard C.A.R. form serves as joint escrow instructions and if accepted by the escrow holder, the escrow
+holder will provide the parties an escrow holder acknowledgment. This acknowledgment will disclose
+information about the escrow holder, the escrow number assigned, the license status of the escrow holder and
+will reinforce the acceptance is subject to any supplemental instructions and general provisions issued by the
+escrow holder. A copy of the agreement shall be delivered to the escrow holder within 3 business days after
+acceptance.
+486                                             CHAPTER TWENTY
+
+Liquidated Damages
+If separately signed or initialed by both seller and buyer, the liquidated damages paragraph is activated and
+provides that if the seller proves that the buyer breached the contract:
+1.    The seller is released from the obligation to sell the property to the buyer.
+2.    The amount of the liquidated damages is limited to the buyer’s deposit, to a maximum of 3% of the
+      purchase price.
+The liquidated damages provision must be printed in at least 10-point bold type or in contrasting red print in at
+least 8-point bold type.
+If the deposit was increased after the initial offer/acceptance, the buyer and seller must, if the amount of the
+increase is to be subject to liquidated damages, sign a separate liquidated damages agreement covering the
+increased deposit.
+Dispute Resolution
+The parties agree to mediate, absent some exclusions, all disputes and claims before resorting to arbitration or
+court action. A mediator is impartial and may facilitate resolution of a dispute but cannot impose a settlement.
+However, mediation can result in a binding settlement document signed by seller and buyer. For mediation,
+which is not successful, the contract may afford the option of proceeding to arbitration. An arbitration,
+conducted in accordance with the rules of either the American Arbitration Association (AAA) or Judicial
+Arbitration and Mediation Services, Inc. (JAMS), results in a binding decision.
+Terms and Conditions of Offer
+The user should note that among other things, the offer will state that if at least one but not all parties initial a
+particular section, a counter offer is required until agreement is reached.
+In addition this section will state the seller has the right to continue to offer the property for sale and to accept
+any other offer at any time prior to notification of acceptance.
+The offer and any supplements, addendums or modifications, including any copy, may be signed in two or
+more counter parts, all of which shall constitute one writing.
+Time of Essence, Entire Contract and Changes
+The contract will state that time is of the essence and that the time for performance can be extended or any
+other provision of the offer modified only by a writing signed by both buyer and seller.
+It should be noted in the standard agreement published by C.A.R., all prior discussions and negotiations are
+superseded by the written agreement. Thus it is important to commit to writing all terms and conditions.
+Expiration
+Unless otherwise stated the offer will expire at 5:00 PM on the third calendar day after the offer is signed by the
+buyer.
+Acceptance of Offer
+In order to form a binding contract, the seller must accept the buyer’s offer in writing, without modification,
+and communicate that acceptance to the buyer before a specified expiration date.
+If the seller finds unacceptable some element(s) of the offer, the seller may make a counteroffer, giving the
+buyer a certain time to accept. These negotiations will culminate in either a stalemate or a contract. If a contract
+is reached, the result will be either breach, appropriate cancellation of the contract and escrow or transfer of the
+property.
+The seller warrants that the seller is the owner of the property or has the authority to execute the agreement and
+acknowledges receipt of a copy of the agreement.
+Confirmation of Acceptance
+It is a good practice to document the date and time that the buyer or the buyer’s representative personally
+received a copy of the signed. A binding agreement is created when a copy of the signed acceptance is
+personally received by the buyer or the buyer's authorized representative. Completion of this confirmation is
+487                               CONTRACT PROVISIONS AND DISCLOSURES
+
+not legally required in order to create a binding agreement; it is solely intended to evidence the date that
+confirmation of acceptance has occurred.
+Other information
+Four additional information boxes are included after the buyers and sellers signatures. These sections provide
+clarity and ease of use in contacting the parties assisting the buyer and seller during the transaction. They are:
+1. Information about the real estate brokers involved in the transaction.
+      Real estate brokers are not parties to the agreement between buyer and seller; this section documents the
+      contact information for the real estate brokers assisting the buyer and seller as well as cooperating broker
+      compensation information.
+2. Escrow Holders Acknowledgment
+      If accepted by the escrow holder, the escrow holder will provide the parties an escrow holder
+      acknowledgment. This acknowledgment will disclose information about the escrow holder, the escrow
+      number assigned, the license status of the escrow holder and will reinforce the acceptance is subject to any
+      supplemental instructions and general provisions issued by the escrow holder.
+3. Presentation of offer
+      Specifies the date the offer was presented to the seller.
+4. Rejection of offer
+      In the event the offer is rejected and no counter offer will be made, it is a good practice for the licensee to
+      provide the buyer’s agent with an acknowledgement that the offer was reviewed by and rejected by the
+      seller.
+                                                  DISCLOSURES
+This section lists important disclosure requirements, which attach primarily to the sale of residential real
+property of one-to-four units. In a typical transaction, the seller has 7 days to provide the buyer all required
+disclosures or before the execution of the contract in the case of a lease option, sales contract, or ground lease
+coupled with improvements. If the seller delivers certain disclosures or amended statutory disclosures after
+execution of the offer, the buyer may have three days after delivery in person or five days after delivery by
+deposit in the United States mail to terminate the offer or agreement to purchase by delivering a written notice
+of termination to the seller or to the seller’s agent.
+The obligation to prepare and deliver disclosures is imposed upon the seller and the seller’s agent and any agent
+acting in cooperation with such agent. If more than one real estate agent is involved in the transaction, (unless
+otherwise instructed by the seller) the agent obtaining the offer is required to deliver the disclosures to the
+prospective buyer. If the disclosure is based on a report or opinion of an expert, such as a contractor or
+structural pest control operator, the seller and the agent may be protected from liability for any error as to the
+item covered by the report or opinion.
+The required disclosures are set forth in Civil Code Section 1102 et. Seq. and 1103 et. Seq. Disclosure
+requirements can change and it is important to stay informed using sites like the Department Of Real Estate:
+http://www.dre.ca.gov.
+Please note: If your are a REALTOR® in addition to the disclosures outlined in this section the California
+Association of REALTORS® currently provides a Statewide Buyer and Seller Advisory. In addition your local
+board of REALTORS® may publish additional local area disclosures for use in your area. Your broker may also
+publish and require the use of specific local area disclosures.
+Agency Relationship Disclosure (See also Chapter 10.)
+To clarify relationships between buyers and sellers and real estate brokers, the law requires persons acting as
+agents in certain residential real estate transactions to make statutorily prescribed written disclosures
+concerning the agency roles intended. This requirement applies to transactions involving the sale or exchange
+of certain estates (including leases of more than one year) in residential real property of from one-to-four
+488                                            CHAPTER TWENTY
+
+dwelling units, as well as the sale or exchange of mobile homes occurring through a real estate agent. The seller
+should receive the agency disclosure before signing the listing agreement.
+Principals and agents may modify and change the agency relationship(s) between the parties by written consent
+of all of the parties to the transaction. The required agency disclosure form is set forth in Civil Code Section
+2079.16.
+Smoke Detector and Water Heater Bracing Statement of Compliance
+The seller typically shall pay for the installation of smoke detectors and water heater bracing where required by
+law. Unless exempt, the seller, prior to close of escrow will provide buyer a written statement of compliance.
+Typically these statements are made using standard C.A.R. form Water Heater and Smoke Detector Statement
+of Compliance Statement – WHSD.
+Disclosure Regarding Lead-Based Paint Hazards
+Many housing units in California still contain lead-based paint, which was banned for residential use in 1978.
+Lead-based paint can peel, chip, and deteriorate into contaminated dust, thus becoming a lead-based paint
+hazard. A child’s ingestion of the lead-laced chips or dust may result in learning disabilities, delayed
+development or behavior disorders.
+The federal Real Estate Disclosure and Notification Rule (the Rule) requires that owners of “residential
+dwellings” built before 1978 disclose to their agents and to prospective buyers or lessees/renters the presence of
+lead-based paint and/or lead-based paint hazards and any known information and reports about lead-based paint
+and lead-based paint hazards (location and condition of the painted surfaces, etc.). The Rule defines a
+residential dwelling as a single-family dwelling or a single-family dwelling unit in a structure that contains
+more than one separate residential dwelling unit, and in which each such unit is used or occupied, or intended
+to be used or occupied, in whole or in part, as the residence of one or more persons.
+Properties affected by the Rule are termed target housing. Target housing does not include pre-1978 housing,
+which is:
+     Sold at a foreclosure sale (but a subsequent sale of such a property is covered);
+     A “0-bedroom dwelling” (e.g., a loft, efficiency unit or studio);
+     A dwelling unit leased for 100 or fewer days (e.g., a vacation home or short-term rental), provided the
+      lease cannot be renewed or extended;
+     Housing designated for the elderly or handicapped, unless children reside there or are expected to reside
+      there;
+     Leased housing for which the requirements of the Rule have been satisfied, no pertinent new information is
+      available, and the lease is renewed or renegotiated;
+     Rental housing that has been inspected by a certified inspector and found to be free of lead-based paint.
+      (The Rule allows use of state certified inspectors only until a federal certification program or a federally
+      accredited state certification program is in place.)
+Sellers (and lessors) of units in pre-1978 multifamily structures will have to provide a buyer (or lessee) with
+any available records or reports pertaining to lead-based paint and/or lead-based paint hazards in areas used by
+all the residents (stairwells, lobbies, recreation rooms, laundry rooms, etc.). If there has been an evaluation or
+reduction of lead-based paint and/or lead-based paint hazards in the entire structure, the disclosure requirement
+extends to any available records or reports regarding the other dwelling units.
+The federal Environmental Protection Agency (EPA) publishes a pamphlet titled “Protect Your Family From
+Lead In Your Home.” This pamphlet describes ways to recognize and reduce lead hazards. The Rule requires
+that a seller (or lessor) of target housing deliver this pamphlet to a prospective buyer (or tenant) before a
+contract is formed. If this is done after that time the buyer has the right to cancel the contract.
+The Rule requires that a seller of target housing offer a prospective buyer ten days to inspect for lead-based
+paint and lead-based paint hazards. This 10-day inspection period can be increased, decreased, or waived by
+written agreement between buyer and seller. The Rule does not require a seller to pay for an inspection or to
+489                               CONTRACT PROVISIONS AND DISCLOSURES
+
+remove any lead-based paint/hazards, but merely gives a buyer the opportunity to have the property inspected.
+A list of State-certified lead inspectors and contractors is available by calling the California Department of
+Health Services at (800) 597-LEAD.
+The Rule further requires that the seller’s (or lessor’s) lead-based paint/lead-based paint hazards disclosures, a
+Lead Warning Statement, and the buyer’s (or lessee’s) acknowledgment of receipt of the information, offer of
+inspection period (or waiver of same) and the EPA pamphlet be included in an attachment to the contract. Seller
+(or lessor), buyer (or tenant) and agent must sign and date the attachment. The retention period, for sellers (or
+lessors) and agents, of this document is three years from completion of the sale (or from commencement of the
+lease/rental).
+A real estate agent must ensure that:
+     His or her principal (seller or lessor) is aware of the disclosure requirements;
+     The transaction documentation includes the required notifications and disclosures;
+     The buyer or lessee/renter receives the EPA pamphlet; and,
+     In the case of a sale, the buyer is offered an opportunity to have the property inspected for lead-based paint
+      and lead-based paint hazards. In the case of a sale, “agent” does not include one who represents only the
+      buyer and receives compensation only from the buyer.
+Violation of the Rule may result in civil and/or criminal penalties.
+To obtain more information, a person may call the EPA at 1-800-424-LEAD. The typical form used in
+disclosure is the C.A.R. standard form, Lead Based Paint Hazards – FLD.
+Real Estate Transfer Disclosure Statement
+Many facts about a residential property affect its value and desirability. These include:
+     age, condition, and any defects or malfunctions of the structural components and/or plumbing, electrical,
+      heating, or other mechanical systems;
+     easements, common driveways, or fences;
+     room additions, structural alterations, repairs, replacements, or other changes, especially those made
+      without required building permits;
+     flood, drainage, settling or soil problems on or near the property;
+     zoning violations, such as nonconforming uses or insufficient setbacks;
+     homeowners’ association obligations and deed restrictions or “common area” problems;
+     citations against the property or lawsuits against the owner or affecting the property;
+     neighborhood noise or nuisance problems; and
+     location of the property within a known earthquake zone.
+California Civil Code Section 1102.3 requires that a seller of real property consisting of one-to-four residential
+dwelling units deliver to prospective buyers a specified written disclosure statement concerning the condition of
+the property. The disclosure covers matters within the personal knowledge of the seller and the agent, and
+matters based on a reasonably diligent inspection of the property. This requirement extends to any transfer by
+sale, exchange, installment land sale contract, lease with an option to purchase, any other option to purchase, or
+ground lease coupled with improvements. The following transfers are exempt:
+     transfers required to be preceded by delivery to the prospective transferee of a subdivision public report or
+      where a public report is not required because the offering of subdivided land satisfies all the criteria in
+      Business and Professions Code Section 11010.4;
+     transfer pursuant to a court order;
+490                                             CHAPTER TWENTY
+
+     transfer to a mortgagee by a mortgagor who is in default; transfer by a foreclosure sale, or pursuant to a
+      power of sale, after such default;
+     transfer by a fiduciary in the administration of a decedent’s estate, guardianship, conservatorship or certain
+      transfers from a trust;
+     transfer from one co-owner to another;
+     transfer to a spouse or to a person or persons in the lineal line of consanguinity;
+     transfer between spouses resulting from a judgment of dissolution of marriage or of legal separation or
+      from a property settlement agreement incidental to such a judgment;
+     transfer by the State Controller of unclaimed property;
+     transfer resulting from failure to pay taxes; and
+     transfer to or from any governmental entity.
+Agents Visual Inspection- Real Estate Transfer Disclosure Statement
+The real estate agent representing a seller of residential property consisting of one to four dwelling units (or a
+manufactured home) and any cooperating agent each have the duty to conduct a reasonably competent and
+diligent visual inspection of the property and to disclose to a prospective buyer all material facts affecting
+value, desirability, and implicitly intended use.
+Areas not reasonable accessible are not included in the required inspection. If the real property is a dwelling
+unit in a condominium, planned development, or a stock cooperative, the visual inspection need only include
+the unit involved and not the common area. It also does not include investigation of areas off the site of the
+property or public records and permits in the absence of special circumstances.
+Nothing in the law relieves a buyer of the duty to exercise reasonable care to protect himself/herself, including
+the facts that are known to or within the reasonably diligent attention and observation of the buyer.
+An agent’s certification of performing the required visual inspection is contained in the Real Estate Transfer
+Disclosure Statement. This requirement does not apply if the sale is made pursuant to a subdivision public
+report or the sale is exempt from the public report requirement pursuant to Business and Professions Code
+Section 11010.4, provided that the property has not been previously occupied.
+(See also Chapter 10.)
+Natural Hazards Disclosure
+Typically, these disclosure are made on the Natural Hazard Disclosure Statement (C.A.R. form NHD) and/or
+included as part of a package of disclosures provided by third party vendors:
+1. Special Flood Hazard Area Disclosure and Responsibilities of FEMA and Dam or Reservoir Inundation
+Area
+Flood Hazard Boundary Maps identify the general flood hazards within a community. They are also used in
+flood plain management and for flood insurance purposes. Flood Hazard Boundary Maps developed by the
+Federal Emergency Management Agency (FEMA) in conjunction with communities participating in the
+National Flood Insurance Program (NFIP) delineate areas within the l00-year flood boundary termed “special
+flood zone areas.” Also identified are areas between l00 and 500-year levels termed “areas of moderate flood
+hazards” and the remaining areas above the 500-year level termed “areas of minimal risk.”
+A seller of property located in a special flood hazard area, or the seller’s agent and any cooperating agent, must
+disclose that fact to the buyer and that federal law requires flood insurance as a condition of obtaining financing
+on most structures located in a special flood hazard area. Since the cost and extent of flood insurance coverage
+may vary, the buyer should contact an insurance carrier or the intended lender for further information.
+2. Disclosures Regarding State Responsibility Areas
+The Department of Forestry and Fire Protection (the Department) has produced maps identifying rural lands
+classified as state responsibility areas. In a state responsibility area, the state (as opposed to a local or federal
+491                               CONTRACT PROVISIONS AND DISCLOSURES
+
+agency) has the primary financial responsibility for the prevention and extinguishing of fires. Maps of these
+state responsibility areas and any changes (including new maps to be produced every five years) are to be
+provided to assessors in the affected counties.
+If a seller knows that the property is located in a state responsibility area or the property is included on a map
+given by the Department to the county assessor, the seller must disclose the possibility of substantial fire risk
+and that the land is subject to certain preventative requirements. (Public Resources Code Section 4291 lists the
+requirements.) Notices of the location of the maps will be posted at the offices of the county recorder, county
+assessor, and the county planning commission.
+With the agreement of the Director of Forestry and Fire Protection, a county may, by ordinance, assume
+responsibility for all fires, including those occurring in state responsibility areas. Absent such an ordinance, the
+seller of property located in a state responsibility area must disclose to the buyer that the state is not obligated to
+provide fire protection services for any building or structure unless such protection is required by a cooperative
+agreement with a county, city, or district.
+3. Disclosure of Geological Hazards and Earthquake Fault Zones
+Pursuant to the Alquist-Priolo Earthquake Fault Zoning Act, the State Geologist is in the process of identifying
+areas of the state susceptible to “fault creep” and delineating these areas on maps prepared by the State Division
+of Mines and Geology.
+A seller of real property situated in an earthquake fault zone, or the agent of the seller and any agent acting in
+cooperation with such agent, must disclose to the buyer that the property is or may be situated in an earthquake
+fault zone. This disclosure must be made on the Natural Hazard Zone Disclosure Statement,
+In addition, the Seismic Safety Commission has developed a Homeowner’s Guide to Earthquake Safety for
+distribution to real estate licensees and the general public. The guide includes information on geologic and
+seismic hazards for all areas, explanations of related structural and nonstructural hazards, recommendations for
+mitigating the hazards of an earthquake, and a statement that safety or damage prevention cannot be guaranteed
+with respect to a major earthquake and that only precautions such as retrofitting can be undertaken to reduce the
+risk. The Seismic Safety Commission has also developed a Commercial Property Owner’s Guide to Earthquake
+Safety.
+If a buyer receives a copy of the Homeowner’s Guide (or, if applicable, the Commercial Property Owner’s
+Guide), neither the seller nor the broker is required to provide additional information regarding geologic and
+seismic hazards. Sellers and real estate licensees must, however, disclose that the property is in an earthquake
+fault zone and the existence of known hazards affecting the real property being transferred.
+Delivery of a booklet is required in the following transactions:
+      1.   Transfer of any real property improved with a residential dwelling built prior to January 1, 1960 and
+           consisting of one-to-four units any of which are of conventional light-frame construction
+           (Homeowner’s Guide); and,
+      2.   Transfer of any masonry building with wood-frame floors or roofs built before January 1, 1975 (if
+           residential, both guides; if commercial property, only the Commercial Guide).
+In a transfer subject to item 1 above, the following aspects of the structure and any corrective measures taken,
+which are within the seller’s actual knowledge, must be disclosed to a prospective buyer:
+     absence of foundation anchor bolts;
+     unbraced or inappropriately braced perimeter cripple walls;
+     unbraced or inappropriately braced first-story wall or walls;
+     unreinforced masonry perimeter foundation;
+     unreinforced masonry dwelling walls;
+     habitable room or rooms above a garage; and
+492                                           CHAPTER TWENTY
+
+     water heater not anchored, strapped, or braced.
+Certain exemptions apply to the obligation to deliver the booklet when transferring either a dwelling of one-to-
+four units or a reinforced masonry building. These exemptions are essentially the same as those that apply to
+delivery of the Real Estate Transfer Disclosure Statement.
+4. Other Disclosures typically included with the Natural Hazards Disclosure and Residential Disclosure Report
+provided by third party vendors:
+4a. Disclosure of Ordnance Location
+Federal and state agencies have identified certain areas once used for military training, which may contain live
+ammunition. A seller of residential property located within one mile of such a hazard must, pursuant to Civil
+Code Section 1102.15, give the buyer written notice as soon as practicable before transfer of title. This
+obligation depends upon the seller having actual knowledge of the hazard. The exemptions, which pertain to
+delivery of the Real Property Transfer Disclosure Statement, apply also to this requirement.
+4b. Commercial/Industrial Disclosure
+4c. Airport Proximity and Airport Influence Disclosure
+4d. Database Disclosure (Megan’s Law)
+The report will provide additional details about Megan’s Law
+4e. Mold Disclosure
+The report will provide additional details on Mold and Mold inspections.
+4f. Mello-Roos Disclosure
+The Mello-Roos Community Facilities Act of 1982 authorizes the formation of community facilities districts;
+the issuance of bonds, and the levying of special taxes thereunder to finance designated public facilities and
+services. Civil Code Section 1102.6b requires that a seller of a property consisting of one-to-four dwelling units
+subject to the lien of a Mello-Roos community facilities district make a good faith effort to obtain from the
+district a disclosure notice concerning the special tax and give the notice to a prospective buyer. The same
+exemptions apply as for delivery of a Real Property Transfer Disclosure Statement.
+5. Other disclosures:
+Environmental Hazard Disclosure Booklet
+The booklet, titled Environmental Hazards: A Guide for Homeowners, Buyers, Landlords, and Tenants
+identifies common environmental hazards, describes the risks involved with each, discusses mitigation
+techniques, and provides lists of publications and sources from which consumers can obtain more detailed
+information. Hazards discussed in the booklet are asbestos, radon, lead, and formaldehyde. The booklet also
+provides general information on hazardous wastes and the use and disposal of hazardous household products.
+If the booklet is provided to a prospective buyer of real property, neither the seller nor a real estate agent
+involved in the sale has a duty to provide further information concerning such hazards, other than lead, unless
+the seller or licensee has actual knowledge of the existence of environmental hazards on or affecting the subject
+property.
+If the booklet is provided to a prospective buyer of real property, neither the seller nor a real estate agent
+involved in the sale has a duty to provide further information concerning such hazards, other than lead, unless
+the seller or licensee has actual knowledge of the existence of environmental hazards on or affecting the subject
+property.
+As discussed above, in California a seller (with a few exceptions) of residential real property comprising one-
+to-four dwelling units must give the buyer a Real Estate Transfer Disclosure Statement. The statement must
+include environmental hazards of which the seller is aware. The listing and selling agents must inspect the
+property and disclose to the buyer material facts, including environmental hazards (e.g., lead-based paint),
+which may affect the value or desirability of the property. Further, the seller or the seller’s agent can give the
+buyer (of any real property) a pamphlet titled “Environmental Hazards: A Guide for Homeowners, Buyers,
+493                               CONTRACT PROVISIONS AND DISCLOSURES
+
+Landlords, and Tenants.” If the buyer receives the pamphlet, neither the seller nor agent is required to say more
+about environmental hazards (again, assuming no awareness of such a problem).
+Energy Conservation Retrofit and Thermal Insulation Disclosure
+State law prescribes a minimum energy conservation standard for all new construction without which a building
+permit may not be issued. Local governments also have ordinances that impose additional energy conservation
+measures on new and/or existing homes. Some local ordinances impose energy retrofitting as a condition of the
+sale of an existing home. The requirements of the various ordinances, as well as who is responsible for
+compliance, may vary among local jurisdictions. The existence and basic requirements of local energy
+ordinances should be disclosed to a prospective buyer by the seller and/or the seller’s agent and any
+cooperating agent.
+Federal law requires a “new home” seller to disclose in every sales contract the type, thickness, and R-value of
+the insulation, which has been or will be installed in the house.
+If the buyer receives the informational booklet published pursuant to Section 25402.9 of the Public Resources
+Code (Home Energy Rating Program Booklet) the seller or the broker is not required to provide information
+additional to that contained in the booklet.
+Local Option Disclosure Statement
+Civil Code Section 1102.6a permits any city or county to require an additional disclosure statement focusing on
+some local condition which may materially affect a buyer’s use and enjoyment of residential property. The
+statute uses the example of adjacent land zoned for timber production and perhaps subject to harvest.
+Local Requirements Resulting from City and County Ordinances
+Residential properties located in cities and counties throughout California are typically subject to specific local
+ordinances relating to occupancy, zoning and use, building code compliance, and fire, health and safety code
+regulations. Whether such matters must be investigated when they are not within the personal knowledge of the
+seller or the agent may depend on the circumstances. Civil Code Section 2079.3 provides that the listing and
+selling agents’ duty to inspect does not include areas off the site of the property or public records or permits
+concerning the title or use of the property in the absence of special circumstances.
+Foreign Investment in Real Property Tax Act
+Federal law requires that a buyer of real property must withhold and send to the Internal Revenue Service (IRS)
+l0% of the gross sales price if the seller of the real property is a “foreign person.” The primary grounds for
+exemption from this requirement are: the seller’s nonforeign affidavit and U.S. taxpayer I.D. number; a
+qualifying statement obtained through the IRS attesting to other arrangements resulting in collection of, or
+exemption from, the tax; or the sales price does not exceed $300,000 and the buyer intends to reside in the
+property.
+Because of the number of exemptions and other requirements relating to this law, it is recommended that the
+IRS be consulted for more detailed information. Sellers and buyers and the real estate agents involved who
+desire further advice should also consult an attorney, CPA, or other qualified tax advisor.
+Notice and Disclosure to Buyer of State Tax Withholding on Disposition of California Real Property
+In certain California real estate sale transactions, the buyer must withhold 3 1/3% of the total sale price as state
+income tax and deliver the sum withheld to the State Franchise Tax Board. The escrow holder, in applicable
+transactions, is required by law to notify the buyer of this responsibility.
+A buyer’s failure to withhold and deliver the required sum may result in the buyer being subject to penalties.
+Should the escrow holder fail to notify the buyer, penalties may be levied against the escrow holder.
+Transactions to which the law applies are those in which:
+     The seller shows an out of state address, or sale proceeds are to be disbursed to a financial intermediary of
+      the seller;
+     The sales price exceeds $100,000; and,
+     The seller does not certify that he/she is a resident of California or that the property being conveyed is
+      his/her personal residence, as defined in Section 1034 of the Internal Revenue Code. (Note: If the seller is a
+494                                           CHAPTER TWENTY
+
+      corporation, the certification would be that the corporation has a permanent place of business in
+      California.)
+For further information, contact the Franchise Tax Board.
+Furnishing Controlling Documents and a Financial Statement
+The owner (other than a subdivider) of a separate interest in a common interest development (community
+apartment project, condominium project, planned development, or stock cooperative) must provide a
+prospective buyer with the following:
+     a copy of the governing documents of the development;
+     should there be an age restriction not consistent with Civil Code Section 51.3, a statement that the age
+      restriction is only enforceable to the extent permitted by law and specifying the applicable provisions of
+      law;
+     a copy of the most recent documents of the homeowners’ association, including financial statements,
+      budgets and insurance information required under Civil Code Section 1365;
+     a written statement from the association specifying the amount of the current regular and special
+      assessments as well as any unpaid assessment, late charges, interest, and costs of collection which are or
+      may become a lien against the property; and,
+     information regarding any approved change in the assessments or fees which is not yet due and payable as
+      of the disclosure date.
+Notice Regarding the Advisability of Title Insurance
+In an escrow for a sale (or exchange) of real property where no title insurance is to be issued, the buyer (or both
+parties to an exchange) will receive from escrow and acknowledge receipt by signing the following notice: :
+“IMPORTANT: IN A PURCHASE OR EXCHANGE OF REAL PROPERTY, IT MAY BE ADVISABLE TO
+OBTAIN TITLE INSURANCE IN CONNECTION WITH THE CLOSE OF ESCROW SINCE THERE MAY
+BE PRIOR RECORDED LIENS AND ENCUMBRANCES WHICH AFFECT YOUR INTEREST IN THE
+PROPERTY BEING ACQUIRED. A NEW POLICY OF TITLE INSURANCE SHOULD BE OBTAINED IN
+ORDER TO ENSURE YOUR INTEREST IN THE PROPERTY THAT YOU ARE ACQUIRING.”
+This requirement is also of interest to a real estate broker conducting an escrow pursuant to the exemption set
+forth in Financial Code Section 17006(a)(4).
+Disclosure of Sale Price Information
+Within one month after the close of escrow for the transfer of title to real property (or the sale of a business
+opportunity) through a real estate agent(s), the agent(s) must inform the buyer and seller in writing of the
+selling price. In the case of an exchange, the information on the selling price is required to include a description
+of the property and the amount of added money consideration, if any.
+If a transaction is closed through an authorized third party escrow holder, a closing statement from said escrow
+holder will be regarded as compliance with the requirements of this law.
+Seller Financing Disclosure Statement
+Some sellers of residential properties participate in financing the sale of their homes by extending credit to the
+buyer in the form of a seller “carry-back.” This is usually in the form of a promissory note secured by a deed of
+trust. To ensure adequate disclosure and to prevent abuses involving some of these seller-assisted financing
+plans, the state legislature enacted a disclosure law which applies to real estate transactions involving
+residential dwellings of not more than four units if the seller extends credit to the buyer through a written
+agreement which provides for either a finance charge or more than four payments of principal and interest (or
+interest only), not including the down payment.
+Written disclosures required by this law are the responsibility of the arranger of credit. An arranger of credit is
+defined as a person who is not a party to the transaction (except as noted below), but is involved in negotiation
+of the credit terms and completion of the credit documents, and who is compensated for arranging the credit or
+495                               CONTRACT PROVISIONS AND DISCLOSURES
+
+for facilitating the transaction. A real estate broker may be deemed an arranger of credit. The duty to provide
+the disclosures also applies to an attorney or a real estate licensee who is a principal in the transaction.
+Disclosures pursuant to this law are not required to be given to a buyer or seller who is entitled to receive (in
+connection with the credit being extended) a disclosure under any of the following :
+     Federal Truth-in-Lending Act;
+     Real Estate Settlement Procedures Act (RESPA);
+     A mortgage loan disclosure statement (Business and Professions Code Section 10240) or a
+      lender/purchaser disclosure statement (Business and Professions Code Section 10232.4); or
+     Section 25110 of the Corporations Code or exemption therefrom relating to the sale of qualified securities
+      under permit or exempt securities or transaction.
+The disclosure statement required by this law must be delivered as soon as possible before the execution of any
+note or security document. The statement must be signed by the arranger of credit and the buyer and seller, who
+are each to receive a copy. Should there be more than one arranger of credit, the arranger obtaining the offer
+from the buyer is responsible for making the disclosure unless another person is designated in writing by the
+parties to the transaction.
+The disclosure statement will include comprehensive information about the financing, cautions applicable to
+certain types of financing, and suggestions of procedures which will protect the parties during the term of the
+financing. The disclosures include:
+     Identification of the note, or credit, or security document and the property which is or will become the
+      security;
+     A copy of the note, or credit, or security document, or a description of the terms of these documents;
+     The terms and conditions of each encumbrance recorded against the property which shall remain as a lien
+      or is an anticipated lien which will be senior to the financing being arranged;
+     A warning about the hazards and potential difficulty of refinancing and, should the existing financing or
+      the financing being arranged involve a balloon payment, the amount and due date of any balloon payment
+      and a warning that new financing may not be available;
+     An explanation of the possible effects of an increase in the amount owed due to negative amortization as a
+      result of any variable or adjustable-rate financing being arranged;
+     If the financing being arranged involves an all-inclusive trust deed (AITD), a statement of the possible
+      penalties, discounts, responsibilities, and rights of parties to the transaction with respect to acceleration
+      and/or prepayment of a prior encumbrance as the result of the creation and/or refinancing of the AITD;
+     If the financing involves an AITD or a real property sales contract, a statement identifying the party to
+      whom payments will be made and to whom such payments will be forwarded, and if the party receiving
+      and forwarding the payments is not a neutral third party, a warning that the principals may wish to
+      designate a neutral third party;
+     A complete disclosure about the prospective buyer, including credit and employment information along
+      with a statement that the disclosure is not a representation of the credit worthiness of the prospective buyer;
+      or, a statement that no representation regarding the credit worthiness of the prospective buyer is being
+      made;
+     A warning regarding possible limitations on the seller’s ability, in the event of foreclosure, to recover
+      proceeds of the sale financed;
+     A statement recommending loss payee clauses be added to the property insurance policy to protect the
+      seller’s interest and advising of the existence or the availability of services which will notify the seller if
+      the property taxes are not paid;
+496                                            CHAPTER TWENTY
+
+     A statement suggesting or acknowledging that the seller should file or has filed a request for notice of
+      delinquency and a request for notice of default in case the buyer fails to pay liens senior to the financing
+      being arranged;
+     A statement that a title insurance policy has been or will be obtained and furnished to the buyer and seller
+      insuring their respective interests, or that the buyer and seller should each obtain title insurance coverage;
+     A disclosure whether the security documents for the financing being arranged have been or will be
+      recorded, and what might occur if the documents are not recorded; and,
+     Information as to whether the buyer is to receive any “cash back” from the sale, including the amount,
+      source, and purpose of the cash refund.
+The requirement of a seller financing disclosure statement also applies to transactions by real property sales
+contracts (as defined in Civil Code Section 2985) and to leases with option-to-purchase provisions where the
+facts demonstrate intent to transfer equitable title. If the extension of credit is subject to a balloon payment, a
+balloon payment notice is to be included on the face of the promissory note or other evidence of debt.
+An arranger of credit must inform the seller that a buyer who intends to occupy the real property involved may
+have the right to homeownership counseling in the event of a default in the mortgage payments. The collector
+of the payments, whether the seller or a loan servicing agent, has the duty to inform the defaulting homeowner
+of the availability of such counseling. Loss of or reduced ability to make payments on a residence may entitle
+the homeowner to the aforementioned counseling. The duty to inform a defaulting homeowner of the
+availability of counseling is operative regardless of the nature of the credit transaction or the presence of an
+arranger of credit.
+Disclosure of Roles when Arranging Financing
+When an agent undertakes to arrange financing in connection with a sale, lease, or exchange of real property, or
+when a person or entity arranging financing in connection with the sale, lease, or exchange of real property
+undertakes to act as an agent with respect to that property, that agent, person, or entity shall, within 24 hours,
+make a written disclosure of those roles to all parties to the sale, lease, or exchange, and any related loan
+transaction. For purposes of this section, "agent" has the same meaning as defined in subdivision (a) of Section
+2079.13 of the Civil Code. (Business and Professions Code Section 10177.6)
+

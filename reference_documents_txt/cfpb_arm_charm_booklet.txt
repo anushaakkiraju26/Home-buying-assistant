@@ -1,0 +1,671 @@
+CONSUMER HANDBOOK ON
+
+
+
+Adjustable-Rate
+Mortgages
+
+Find out how
+your payment can
+change over time
+
+
+
+
+   An official publication of the U.S. government
+How to use the booklet                                   How can this booklet help you?
+When you and your mortgage lender discuss                This booklet can help you decide whether an
+adjustable-rate mortgages (ARMs), you receive            adjustable-rate mortgage (ARM) is the right
+a copy of this booklet. When you apply for an            choice for you and to help you take control of
+ARM loan, you receive a Loan Estimate. You can           the homebuying process.
+request and receive multiple Loan Estimates
+from competing lenders to find your best deal.           Your lender may have already provided you
+                                                         with a copy of Your Home Loan Toolkit. You
+You may want to have your Loan Estimate handy            can also download the Toolkit from the CFPB’s
+for any loan you are considering as you work             Buying a House guide at cfpb.gov/buy-a-
+through this booklet. We reference a sample              house/.
+Loan Estimate throughout the booklet to help
+you apply the information to your situation.
+
+You can find more information about ARMs
+                                                              An ARM is a mortgage with an interest
+at cfpb.gov/about-arms. You’ll also find other
+                                                              rate that changes, or “adjusts,”
+mortgage-related CFPB resources, facts, and
+                                                              throughout the loan.
+tools to help you take control of the homebuying
+process.                                                      With an ARM, the interest rate and
+                                                              monthly payment may start out low.
+                                                              However, both the rate and the payment
+About the CFPB                                                can increase very quickly.
+The Consumer Financial Protection Bureau                      Consider an ARM only if you can afford
+regulates the offering and provision of consumer              increases in your monthly payment—even
+financial products and services under the federal             to the maximum amount.
+consumer financial laws and educates and
+empowers consumers to make better informed
+financial decisions.
+                                                         After you finish this booklet:
+                                                         •   You’ll understand how an ARM works and
+This booklet, titled Consumer Handbook on Adjustable         whether it’s the right choice for you. (page 2)
+Rate Mortgages, was created to comply with federal law
+pursuant to 12 U.S.C. 2604 and 12 CFR 1026.19(b)(1).     •   You’ll know how to review important
+                                                             documents when you apply for an ARM.
+                                                             (page 6)
+
+                                                         •   You’ll understand the risks that come with
+                                                             different types of ARMs. (page 18)
+Is an ARM right for you?                                 TIP
+
+                                                         Don’t count on being able to refinance before your
+ARMs come with the risk of higher payments in
+                                                         interest rate and monthly payments increase. You
+the future that you might not be able to predict.
+                                                         might not qualify for refinancing if the value of
+But in some situations, an ARM might make sense          your home goes down or if something unexpected
+for you. If you are considering an ARM, be sure to       damages your financial situation, like a job loss or
+understand the tradeoffs.                                medical costs.
+
+
+
+
+    COMPARE          FIXED-RATE MORTGAGE                 ADJUSTABLE-RATE MORTGAGE
+
+
+    Consider         § You prefer predictable            § You are confident you can afford increases
+    this option if     payments, or                        in your monthly payment­— even to the
+                                                           maximum amount, or
+                     § You plan to keep your home
+                       for a long period of time         § You plan to sell your home within a short
+                                                           period of time
+
+
+    Interest rate    § Set when you take out the loan    § Based on an index that changes
+
+                     § Stays the same for the entire     § May start out lower than a fixed rate mortgage
+                       loan term                           but you bear the risk of increases throughout
+                                                           your loan
+
+
+    Monthly          § Principal and interest payment    § Initial principal and interest payment amount
+    payment            stays the same over the life of     remains in effect for a limited period
+                       your loan
+                                                         § You can't know in advance how much
+                     § You know the total you will pay     total interest you will pay because your
+                       in principal and interest over      interest rate changes
+                       the life of the loan
+                                                         § If you can’t afford the increased payments,
+                                                           you may lose your home to foreclosure
+
+
+
+
+2    ADJUSTABLE-RATE MORTGAGES                                 IS AN ADJUSTABLE-RATE MORTGAGE RIGHT FOR YOU?   3
+Learn about how ARMs work                           Changes to initial rate and payment
+As you decide whether to move ahead with an         The initial interest rate and initial principal and
+ARM, you should understand how they work and        interest payment amount on an ARM remain in
+how your housing costs can be affected.             effect for a limited period.
+
+                                                    So, when you see ARMs advertised as 5/1 or
+Interest rate = index + margin                      5/6m ARMs:
+
+                                                    •   The first number tells you the length of time
+The interest rate on an ARM has two parts: the
+                                                        your initial interest rate lasts.
+index and the margin.
+                                                    •   The second number tells you how often the
+INDEX                                                   rate changes after that.
+An index is a measure of interest rates generally
+                                                    For example, during the first five years in a 5/6m
+that reflects trends in the overall economy.
+                                                    ARM your rate stays the same. After that, the rate
+Different lenders use different indexes for their
+                                                    may adjust every six months (the 6m in the 5/6m
+ARM programs.
+                                                    example) until the loan is paid off. This period
+Common indexes include the U.S. prime rate          between rate changes is called the adjustment
+and the Constant Maturity Treasury (CMT) rate.      period. Adjustment periods can vary. Some last
+Talk with your lender to find out more about the    a month, a year, or like this example, six months.
+index they use, which is also shown on your Loan
+                                                    For some ARMs, the initial rate and payment can
+Estimate.
+                                                    be very different from the rates and payments later
+MARGIN                                              in the loan term. Even if the market for interest
+The margin is an extra percentage that the          rates is stable, your rates and payments could
+lender adds to the index.                           change a lot.
+
+You can shop around to different lenders to find
+the lowest combination of the index plus the
+margin. Your Loan Estimate shows the index and
+the margin being offered to you.
+
+
+
+
+4   ADJUSTABLE-RATE MORTGAGES                                              LEARN ABOUT HOW ARMS WORK      5
+Use your Loan Estimate to
+understand your ARM                                                                                   Product
+
+
+When you apply for a mortgage,
+the lender gives you a document                                                                     Save this Loan Estimate to compare with your Closing Disclosure.
+
+                                      Loan Estimate                                                                30 years
+called a Loan Estimate. It
+                                                                                                    LOAN TERM
+                                                                                                    PURPOSE        Purchase ce
+                                      DATE ISSUED                                                   PRODUCT        5/1 Adjustable Rate
+describes important features of       APPLICANTS                                                    LOAN TYPE
+                                                                                                    LOAN ID #
+                                                                                                                   x Conventional
+                                                                                                                   1234567891330172608
+                                                                                                                                       FHA            VA       _____________
+
+                                                                                                                   x NO     YES
+the loan the lender is offering
+                                                                                                    RATE LOCK
+                                      PROPERTY                                                                     Before closing, your interest rate, points, and lender credits can
+                                                                                                                   change unless you lock the interest rate. All other estimated
+you. This section illustrates the     SALE PRICE                                                                   closing costs expire on
+
+
+parts of a Loan Estimate that are      Loan Terms                                                               Can this amount increase after closing?
+
+                                                                                $216,000                        NO
+specific features of ARM loans.        Loan Amount
+
+                                       Interest Rate            Closing Cost3%
+                                                                             Details                            YES        · Adjusts every year starting in year 6
+An interactive, online version of a                                                                                        · Can go as high as 8% in year 8
+                                                                                                                           · See AIR Table on page 2 for details
+
+Loan Estimate sample is available                             Loan Costs
+                                       Monthly Principal & Interest             $910.66
+                                                                  A. Origination Charges
+                                                                                                                YES
+                                                                                                                                          Other Costs
+                                                                                                                           · Adjusts every year starting in year 6
+                                                                                                                                          E. as
+                                                                                                                                             Taxes and Other  Government Fees
+                                       See Projected Payments Below % of Loan Amount (Points)
+                                                                                                                           · Can go as high     $1,467  in year 8
+at: cfpb.gov/arm-explainer/            for Your Total Monthly Payment
+                                                                                                                                             Recording Fees and Other Taxes
+                                                                                                                                             Transfer Taxes
+                                                                                                                                             F. Prepaids
+                                                                                                                Does the loan have these features?
+                                                                                                                                             Homeowner’s Insurance Premium ( months)
+                                       Prepayment Penalty                                                       NO                           Mortgage Insurance Premium ( months)
+
+                    Loan Terms         Balloon Payment                                                          NO
+                                                                                                                                             Prepaid Interest ($ per day for days @ )
+                                                                                                                                             Property Taxes ( months)
+
+
+                                        Projected Payments
+                                       Payment Calculation                        Years 1-5                  Years 6                    YearsG.7 Initial Escrow Payment
+                                                                                                                                                              Years 8-30 at Closing
+                                                                                                                                             Homeowner’s Insurance $ per month for mo.
+                                        Principal & Interest
+                                                                 B. Services You Cannot Shop For
+                                                                                     $910.66              $838 min                    $838Mortgage
+                                                                                                                                             min    Insurance $ per
+                                                                                                                                                           $838  minmonth for mo.
+                                                                                                         $1,123 max                  $1,350Property
+                                                                                                                                             max Taxes $$1,467
+                                                                                                                                                           per month
+                                                                                                                                                                max for mo.
+                                        Mortgage Insurance                       +      99               +            99            +           99             +          ––
+                                        Estimated Escrow                         +      341              +         341              +         341              +         341
+                                        Amount can increase over time
+                                                                                                                                             H. Other
+
+                    Projected           Estimated Total
+                                        Monthly Payment                              $1,290             $1,217 – $1,502 $1,217 – $1,729                    $1,179 – $1,808
+
+                    Payments                                                                             This estimate includes
+                                                                                                         x Property Taxes
+                                                                                                                                                               In escrow?
+                                                                                                                                                               YES
+                                       Estimated Taxes, Insurance                                                                            I. TOTAL OTHER COSTS (E + F + G + H)
+                                       & Assessments                                 $341                x Homeowner’s Insurance                               YES
+                                       Amount can increase over time                a month                  Other:
+                                                                  C. Services You Can Shop For                                            J. TOTAL CLOSING COSTS
+                                                                                                         See Section G on page 2 for escrowed property costs.
+                                                                                                                                          D + Iseparately.
+                                                                                                         You must pay for other property costs
+                                                                                                                                          Lender Credits
+                                       Costs at Closing
+                                                                                                                                         Calculating Cash to Close
+                                       Estimated Closing Costs                                           Includes     in Loan Costs + TotalinClosing
+                                                                                                                                                Other Costs  –
+                                                                                     $X,XXX              in Lender Credits. See details on page 2.
+                                                                                                                                                      Costs (J)
+                                                                                                                                             Closing Costs Financed (Included in Loan Amount)
+                                                                                                                                        Down Payment/Funds
+                                                                                                         Includes Closing Costs. See calculating Cash to Close onfrom
+                                                                                                                                                                   pageBorrower
+                                       Estimated Cash to Close                                                                                                          2
+                                                                                     $XX,XXX             for details.                        Deposit
+                                                                                                                                             Funds for Borrower
+                                                               Visit www.consumerfinance.gov/learnmore for general information and tools.
+                                                                                                                                             Seller Credits
+                                      LOAN ESTIMATE                                                                                           PAGE 1 OF 3 • LOAN ID # 123456789
+                                                                 D. TOTAL LOAN COSTS (A + B + C)                                             Adjustments and Other Credits
+                                                                                                                                             Estimated Cash to Close
+
+
+
+                                                                                                                                              Adjustable Interest Rate (AIR) Table
+                                                                                                                                            Index + Margin                       1 Year Cmt + 2.25%
+                Adjustable                                                                                                                  Initial Interest Rate                                 3%
+                                                                                                                                            Minimum/Maximum Interest Rate                 2.25% / 8%
+
+                Interest Rate                                                                                                               Change Frequency
+                                                                                                                                              First Change                  Beginning of 61st month
+
+                (AIR) Table                                                                                                                   Subsequent Changes Every 12 months after first change
+                                                                                                                                            Limits on Interest Rate Changes
+                                                                                                                                              First Change                                        2%
+                                                                                                                                              Subsequent Changes                                  2%
+
+
+                                                                LOAN ESTIMATE                                                                                                  PAGE 2 OF 3 • LOAN ID # 123456789
+
+
+
+
+6   ADJUSTABLE-RATE MORTGAGES                                                                      USE YOUR LOAN ESTIMATE TO UNDERSTAND YOUR ARM                                                                   7
+Loan terms
+INTEREST RATE                                                    THE TALK
+The Loan Estimate shows the initial interest rate               You might hear, “An ARM makes sense
+you pay at the beginning of your loan term. This                because you can refinance the loan
+                                                                before your interest rate and monthly
+row also shows how often your rate can change
+                                                                payment increase.”
+and how high it can go.
+                                                                Ask yourself, a spouse, or a loved one:
+MONTHLY PRINCIPAL & INTEREST
+                                                                “What if the market value of the home
+The Loan Estimate shows the initial monthly
+                                                                 goes down?”
+principal and interest payment you’ll make if you
+accept this loan. Your principal is the money that              “What if our financial situation or
+you originally agreed to pay back on your loan.                  our credit score gets damaged by
+Interest is a cost you pay to borrow the principal.              something unexpected like a job loss
+                                                                 or illness?”
+The initial principal and interest payment
+amount for an ARM is set only for the initial                   “If we can’t refinance at a better rate,
+period and may change after that.                                can we afford the maximum interest
+                                                                 rate and payment increase under
+                                                                 this loan?”
+
+
+
+
+      Loan Terms                                          Can this amount increase after closing?
+
+      Loan Amount                           $216,000      NO
+      Interest Rate                         3%            YES      · Adjusts every year starting in year 6
+                                                                   · Can go as high as 8% in year 8
+                                                                   · See AIR Table for details
+
+      Monthly Principal & Interest          $910.66       YES      · Adjusts every year starting in year 6
+                                                                   · Can go as high as $1,467 in year 8
+      See Projected Payments Below
+      for Your Total Monthly Payment
+
+                                                          Does the loan have these features?
+      Prepayment Penalty                                  NO
+      Balloon Payment                                     NO
+
+
+Example of “Loan terms” section. Find this on page 1 of
+your own Loan Estimate
+
+
+8   ADJUSTABLE-RATE MORTGAGES                               USE YOUR LOAN ESTIMATE TO UNDERSTAND YOUR ARM    9
+      Projected Payments
+      Payment Calculation                      Years 1-5         Years 6                 Years 7              Years 8-30
+       Principal & Interest                       $910.66       $838 min                $838 min              $838 min
+                                                               $1,123 max              $1,350 max            $1,467 max
+       Mortgage Insurance                     +          99     +          99           +         99          +        ––
+       Estimated Escrow                       +         341     +         341           +        341          +       341
+       Amount can increase over time
+       Estimated Total
+       Monthly Payment                            $1,290      $1,217 – $1,502 $1,217 – $1,729 $1,179 – $1,808
+                                                               This estimate includes                         In escrow?
+                                                               x Property Taxes                               YES
+      Estimated Taxes, Insurance
+      & Assessments                         $341               x Homeowner’s Insurance                        YES
+      Amount can increase over time         a month              Other:
+                                                               See Section G on page 2 for escrowed property costs.
+                                                               You must pay for other property costs separately.
+
+
+Example of “Projected payments” section. Find this on
+page 1 of your own Loan Estimate
+
+
+
+Projected payments
+PRINCIPAL & INTEREST
+                                                                       THE TALK
+The monthly principal and interest payment on                         Talk over how your financial life could
+your ARM is likely to change after the initial period.                be affected if your ARM monthly
+Review this section to see how your payment can                       payment increases. In future years, you
+change based on your loan’s interest rate.                            might face money decisions like:
+
+ESTIMATED TOTAL MONTHLY PAYMENT
+                                                                      •    Job changes
+
+Review this row to see the total minimum and                          •    School or other education expenses
+maximum monthly payments. The payments                                •    Medical needs and expenses
+include mortgage insurance, property taxes,
+homeowners insurance, and any additional                              Because ARM adjustments are
+property assessments or other escrow items.                           unpredictable, you might have less or
+                                                                      more financial flexibility for other parts
+Learn more about these mortgage terms at
+                                                                      of your life.
+cfpb.gov/mortgage-terms/
+
+Keep in mind that other parts of your monthly
+and annual housing costs can change, such
+as your property taxes and homeowners
+insurance payments.
+
+
+10   ADJUSTABLE-RATE MORTGAGES                                      USE YOUR LOAN ESTIMATE TO UNDERSTAND YOUR ARM           11
+Adjustable Interest Rate (AIR) table                    CHANGE FREQUENCY
+                                                        This indicates when the interest rate on your
+You should read and understand the AIR table
+                                                        loan will change. Your loan servicer sends you
+calculations before committing to an ARM.
+                                                        advance notices of changes.
+It's important to know how your interest rate
+changes over the life of your loan.                     LIMITS ON INTEREST RATE CHANGES
+
+INDEX + MARGIN                                          This shows the highest amount your interest rate
+                                                        can increase when there is a change.
+Your lender is required to show you how your
+interest rate is calculated, which is determined by
+the index and margin on your loan. See page 2 of
+                                                            Adjustable Interest Rate (AIR) Table
+this booklet for more about index and margin.
+                                                        Index + Margin                           1 Year Cmt + 2.5%
+INITIAL INTEREST RATE                                   Initial Interest Rate                                    3%
+                                                        Minimum/Maximum Interest Rate                     2.5% / 8%
+This is the interest rate at the beginning of your
+                                                        Change Frequency
+loan. The initial interest rate changes to the
+                                                            First Change                Beginning of 61st month
+index plus the margin at your first adjustment
+                                                            Subsequent Changes    Every 12 months after first change
+(subject to the limits on interest rate changes).
+                                                        Limits on Interest Rate Changes
+Your loan servicer tells you your new payment
+                                                            First Change                                         2%
+amount seven to eight months in advance, so
+                                                            Subsequent Changes                                   2%
+you can budget for it or shop for a new loan.
+
+MINIMUM/MA XIMUM INTEREST RATE                          Example of “AIR table” section. Find this on page 2 of your
+                                                        own Loan Estimate
+This shows how low or high your interest rate could
+be over the life of your loan. Generally, an ARM’s
+interest rate is never lower than the margin.
+
+
+
+
+      “TEASER” RATES                                   Consider this example:
+     Some lenders offer a “teaser,” “start,” or         •     A lender’s fully indexed rate is 4.5%
+     “discounted” rate that is lower than their fully         (the index is 2% and the margin is 2.5%).
+     indexed rate. When the teaser rate ends, your
+                                                        •     The loan also features a “teaser” rate of 3%.
+     loan takes on the fully indexed rate. Don’t
+     assume that a loan with a teaser rate is a         •     Even if the index doesn’t change,
+     good one for you. Not everyone’s budget can              your interest rate still increases from 3%
+     accommodate a higher payment.                            to 4.5% when your teaser rate expires.
+
+
+
+
+12   ADJUSTABLE-RATE MORTGAGES                                USE YOUR LOAN ESTIMATE TO UNDERSTAND YOUR ARM            13
+  Shop
+    COMPARE YOUR ARM OFFERS
+         for at least three loan offers, and fill in the blanks                                            FIXED-R ATE
+      below using the information on your Loan Estimates:             ARM OFFER 1        ARM OFFER 2       OFFER
+
+
+Lender name
+
+
+Loan amount
+                                                                                                     
+
+Initial interest rate
+                                                                                                                       
+
+Initial principal and interest payment
+                                                                                                     
+
+Index
+
+
+Margin
+
+
+How long will the initial interest rate and initial
+payment apply?
+
+
+How high can my interest rate go?
+                                                                                                                       
+
+How high can my principal and interest payment go?
+                                                                                                     
+
+
+                                                                  My best loan offer is:
+
+
+
+      THE TALK
+     You are in control of whether or not to proceed              “A fixed-rate mortgage seems to be a better
+     with an ARM. If you prefer to proceed with a                  fit for me. Let’s talk about what you can offer
+     fixed-rate mortgage, here is one way to start                 and how it compares to other loans I may be
+     the conversation with a lender:                               able to get.”
+
+
+
+
+14   ADJUSTABLE-RATE MORTGAGES                                                              COMPARE YOUR ARM OFFERS      15
+Review your lender’s ARM                                 Ask about other options
+program disclosure                                       offered by your lender
+Your lender gives you an ARM program disclosure
+when they give you an application. This is the           Conversion option
+lender’s opportunity to tell you about their
+different ARM loans and how the loans work. The          Your loan agreement may include a clause
+index and margin can differ from one lender to           that lets you convert the ARM to a fixed-rate
+another, so it is helpful to compare offers from         mortgage in the future.
+different lenders.
+                                                         When you convert, the new rate is generally set
+Generally, the index your lender uses won’t              using a formula given in your loan documents.
+change after you get your loan, but your loan            That fixed rate may be higher or lower than
+contract may allow the lender to switch to a             interest rates available to you in the market at
+different index in some situations.                      that time. Also your lender may charge you a
+                                                         conversion fee. Ask your lender whether the loan
+                                                         you are being offered has a conversion feature
+
+  GATHER FACTS                                         and how it works.
+
+Review your program disclosure and ask your
+lender questions to understand their ARM                 Special features
+loan offerings:
+                                                         You can shop around to understand what special
+     How are the interest rate and payment               ARM features may be available from different
+     determined?                                         lenders.
+
+                                        caps (that
+     Does this loan have interest-rate caps              Not all programs are the same. Talk with your
+     is, limits on interest rate changes)?               lender to find out if there’s anything special about
+                                                         their ARM programs that you may find valuable.
+     How often do the interest rate and
+     payment adjust?
+
+     What index is used and where is it published?
+
+     Is the initial interest rate lower than the fully
+     indexed rate? (see “Teaser rates,” on page 12)
+
+     What type of information is provided in notices
+     of adjustment and when do I receive them?
+
+
+
+
+16   ADJUSTABLE-RATE MORTGAGES                                REVIEW YOUR LENDER’S ARM PROGRAM DISCLOSURE   17
+Check your ARM for features
+that could pose risks                                      Loan Costs
+Some types of ARMs have features that can                 A. Origination Charges                         $3,160
+reduce your payments in the short term but                1% of Loan Amount (Points)                      $2,160
+
+may include fees or the risk of higher payments           Application Fee                                   $500
+
+later. Review your loan terms and make sure               Processing Fee                                    $500
+
+that you understand the fees and how your rate
+and payment may change. Lower payments at              Example of “Loan costs” section. Find this on page 2 of
+                                                       your own Loan Estimate
+the beginning could mean higher fees or much
+higher payments later.
+
+
+Paying points to reduce your initial
+interest rate                                                THE TALK
+                                                            If your Loan Estimate shows points, ask
+Lenders can offer you a lower rate in exchange              your lender:
+for paying loan fees at closing, or points.                 • “What
+                                                                    is my interest rate if I choose
+                                                               not to pay points?”
+With an ARM, paying points often reduces
+your interest rate only until the end of the initial        • “How
+                                                                    much money do I pay in
+period—the reduction most likely does not apply                points? And, compared to the
+over the life of your loan.                                    total reduction in my payments
+                                                               during the initial period, am I
+If you are using an ARM to refinance a loan,                   coming out ahead?”
+points are often rolled into your new loan                  • “Can
+                                                                   I see a revised Loan Estimate
+amount. You might not realize you are paying                   with the points removed and the
+points unless you look carefully. Points are                   interest rate adjusted?”
+disclosed on the top of Page 2 of your Loan
+Estimate.
+
+Lenders may give you the option to pay points,
+but you never have to take that option. To figure
+out if you have a good deal, compare your cost
+in points with the amount that you will save with
+a lower interest rate.
+
+
+
+
+18   ADJUSTABLE-RATE MORTGAGES                                    CHECK YOUR ARM FOR ADDITIONAL FEATURES         19
+Interest-only ARMs
+                                                       GATHER FACTS
+With an interest-only ARM payment plan, you pay
+                                                     Learn more information about payment option
+only the interest for a specified number of years.
+                                                     ARMs and negative amortization at:
+During this interest-only period, you have smaller
+monthly payments, but you are not paying             •   cfpb.gov/payment-option-arm/
+anything toward your mortgage loan balance.
+                                                     •   cfpb.gov/negative-amortization/
+When the interest-only period ends, your
+monthly payment increases—even if interest
+rates stay the same—because you must start
+paying back the principal plus the interest each
+month. Your monthly payments can increase
+                                                           WELL DONE!
+                                                          Choosing the right home loan is just
+a lot. The longer the interest-only period, the
+                                                          as important as choosing the right
+more your monthly payments increase after the
+                                                          home. By equipping yourself with
+interest-only period ends.
+                                                          knowledge about ARMs, you can
+                                                          decide whether or not this type of
+                                                          loan is the right choice for you.
+Payment option ARMs
+Payment option ARMs were common before
+2008 when the housing crisis began, and some
+lenders might still offer them.
+
+A payment option ARM means the borrower can
+choose from different payment options, such as:
+
+•    A traditional principal and interest payment
+
+•    An interest-only payment (see above)
+
+•    A minimum payment, which could result in
+     negative amortization
+
+Negative amortization
+Negative  amortization happens when you are
+not paying enough to cover all of the interest
+due. Your loan balance goes up instead of down.
+
+
+
+
+20   ADJUSTABLE-RATE MORTGAGES                                 CHECK YOUR ARM FOR ADDITIONAL FEATURES   21
+Consumer Handbook on
+Adjustable-Rate Mortgages
+
+ A SK YOUR LENDER
+    • How high can my payment go?
+
+    • How high can my interest rate go?
+
+    • How long is my initial principal and
+      interest payment guaranteed?
+
+
+ ASK YOURSELF
+    • Have I shopped around to compare ARMs
+      and fixed-rate loans?
+
+    • If an ARM has a lower initial interest rate
+      than a fixed-rate mortgage, is paying less
+      money now worth the risk of an increase
+      later?
+
+    • Can I afford the highest payment possible
+      with the ARM if I can’t sell the home, or
+      refinance into a lower rate, before the
+      increase?
+
+
+ ON LINE TOOLS
+    CFPB website
+    cfpb.gov
+
+    Answers to common questions
+    cfpb.gov/askcfpb
+
+    Tools and resources for home buyers
+    cfpb.gov/owning-a-home
+
+    Talk to a housing counselor
+    cfpb.gov/find-a-housing-counselor
+
+    Submit a complaint
+    cfpb.gov/complaint
+
+
+
+
+                               Last updated 06/20
+

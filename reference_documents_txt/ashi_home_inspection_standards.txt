@@ -1,0 +1,996 @@
+                             ASHI’s HOME INSPECTION STANDARD OF PRACTICE
+                                 FOR THE HOME INSPECTION PROFESSION
+
+
+                                      APPROVED CHANGES AS OF 1/8/26
+Please note that the newly approved changes are not yet effective. Additional information will be
+provided regarding the implementation date. The leadership team will work through the details of this
+process and communicate next steps, timelines and guidance as they become available
+
+
+    The deck and balcony items are now in its own section “Deck and Balcony” (new section 5) for clarity and to
+     increase inspector awareness of the many issues pertaining to inspecting decks and balconies.
+
+    The individual sections for “Heating” and “Air Conditioning” are now combined into one new combined section
+     (“Heating, Ventilation and Air Conditioning (HVAC)” – section 9) to eliminate duplicative items within the
+     current sections and for industry uniformity of terminology.
+
+    Attached and detached garages are now its own “Garage and Carport” section (section 14) for clarity and
+     simplicity when determining what items should be inspected. The new section 14 identifies those components
+     that are specifically found in a garage and carport. For those other systems and components not specifically
+     addressed within the new section 14 but pertain to or are a part of a garage or carport, the other applicable
+     sections of the Standard should be followed as contained in Structure, Exterior, Roofing, Plumbing, Electrical,
+     HVAC, Interior, Insulation, Venting Systems, etc.
+
+    “Insulation” and “Ventilation” are now separate sections (“Insulation” – section 11 and “Ventilation” – section
+     12) for clarity.
+
+    A new section “Use of Specialized Tools and Equipment” has been added as section 16 for risk management
+     purposes.
+
+    Definitions has been expanded to provide better understanding of terms used in the Standard and for risk
+     management.
+
+The final document will be reviewed for grammatical and formatting changes prior to implementation.
+ THE STANDARD OF PRACTICE FOR HOME INSPECTIONS
+                        AND
+CODE OF ETHICS FOR THE HOME INSPECTION PROFESSION
+
+
+
+
+                    www.ashi.org
+                                The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+Distribution of this material is not an indication of ASHI® Membership. To find an ASHI inspector, go to “Find an Inspector” at
+www.ashi.org. To obtain additional copies or request permission to reprint The ASH Standard of Practice for Home Inspections,
+contact:
+
+American Society of Home Inspectors, Inc.
+Regency Towers
+1415 West 22nd St., Tower Floor
+Oak Brook, IL 60523
+
+800-743-ASHI/2744
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means,
+electronic, mechanical, photocopy, recording or otherwise, without the prior written consent of the publisher.
+Find local ASHI Inspectors by calling 1-800-743-2744 or visiting ASHI’s web site at www.ashi.org.
+
+
+
+                                                                        Preface
+HOME INSPECTION
+Home inspections were being performed in the mid-1950s and, by the early 1970s, were considered by many consumers to be
+essential to a real estate transaction. The escalating demand was due to a growing desire by consumers to learn about the
+condition of a house prior to purchase. Meeting the expectations of consumers required a unique discipline, distinct from
+construction, engineering, architecture, or municipal building inspection. As such, home inspection requires its own set of
+professional guidelines and qualifications. The American Society of Home Inspectors (ASHI) was formed in 1976 and
+established the ASHI Standard of Practice for Home Inspections and Code of Ethics to help buyers and sellers make real estate
+transaction decisions based on information about the condition of their current or prospective house.
+
+American Society of Home Inspectors
+As the oldest and most respected organization of home inspectors in North America, ASHI takes pride in its position of
+leadership. Its Membership works to build public awareness of home inspections and to enhance the technical and ethical
+performance of home inspectors.
+
+Standard of Practice for Home Inspections
+The ASHI Standard of Practice for Home Inspections guides home inspectors in the performance of their inspections. Subject to
+regular review, the Standard of Practice for Home Inspections reflects information gained through surveys of conditions in the
+field and of the consumers’ interests and concerns. Vigilance has elevated ASHI’s Standard of Practice for Home Inspections so
+that today it is the most widely accepted home inspection guideline and is recognized by many government and professional
+groups as the definitive standard for professional performance.
+
+Code of Ethics for the Home Inspection Profession
+ASHI’s Code of Ethics stresses the home inspector’s responsibility to report the results of the inspection in a fair, impartial and
+professional manner, avoiding conflicts of interest.
+
+ASHI Membership
+Selecting the right home inspector can be as important as finding the right home. ASHI Certified Inspectors have performed no
+fewer than 250 fee-paid inspections in accordance with the ASHI Standard of Practice for Home Inspections. They have passed
+written examinations testing their knowledge of residential construction, defect recognition, inspection techniques, and report-
+writing, as well as ASHI’s Standard of Practice for Home Inspections and Code of Ethics. Membership in the American Society of
+Home Inspectors is well-earned and maintained only through meeting requirements for continuing education.
+
+
+              ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+       All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                              2
+                                The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+Non-Exclusive License for use of the ASHI Standard of Practice for Home Inspectors
+The American Society of Home Inspectors (ASHI) hereby grants this irrevocable, non-exclusive, royalty-free License to any federal,
+state or local government or educational institution located in the United States or Canada, and any agencies thereof, including
+licensing boards, to use the ASHI Standard of Practice for Home Inspections without the need for pre-approval, provided that such
+use is clearly attributed to ASHI.
+
+ASHI specifically authorizes any government or government agency to use and copy, for any public purpose, the ASHI Standard of
+Practice for Home Inspectors and other materials without further approval from ASHI, even if the materials are protected by
+copyright or other laws. If a government adopts the ASHI Standard of Practice for Home Inspectors but modifies the ASHI
+Standard of Practice for Home Inspectors, the government must note the modification so that it is clear to the reader which
+portion of the text was modified.
+
+Nothing in this License shall preclude ASHI from modifying its Standards of Practice or other materials.
+
+Members of ASHI may utilize the ASHI Standard of Practice for Home Inspectors solely in their own home inspection services.
+
+
+
+
+              ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+       All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                              3
+                         The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+                                                   TABLE OF CONTENTS
+
+
+                  Section                                                                                              Page
+                  Preface                                                                                                  2
+                  1.0     Introduction                                                                                     5
+                  2.0     Purpose and Scope                                                                                5
+                  3.0     Structure                                                                                        5
+                  4.0     Exterior                                                                                         6
+                  5.0     Deck and Balcony                                                                                 7
+                  6.0     Roofing                                                                                          7
+                  7.0     Plumbing                                                                                         7
+                  8.0     Electrical                                                                                       8
+                  9.0     Heating, Ventilation and Air Conditioning (HVAC)                                                 9
+                  10.0 Interior                                                                                            10
+                  11.0 Insulation                                                                                          11
+                  12.0 Venting Systems                                                                                     11
+                  13.0 Fireplaces and Fuel Burning Appliances                                                              11
+                  14.0 Garage and Carport                                                                                  12
+                  15.0 General Limitations and Exclusions                                                                  12
+                  16.0 Use of Specialized Tools and Equipment                                                              14
+                  17.0 Definitions of Italicized Terms                                                                     14
+
+                             Code of Ethics for the Home Inspection Profession                                             18
+
+
+
+
+       ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                       4
+                                  The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+
+                                                                                                1.  describes the readily accessible, visually
+ASHI STANDARD OF PRACTICE                                                                           observable, installed systems and components
+FOR HOME INSPECTIONS                                                                                specified in this Standard.
+                                                                                                2. states the condition of those systems and
+                                                                                                    components specified in this Standard that, in
+1. INTRODUCTION
+                                                                                                    the professional judgment of the Inspector, are
+1.1 The American Society of Home Inspectors®, Inc. (ASHI®)
+    is a not-for-profit professional society established in                                         not functioning properly, significantly deficient,
+    1976. Membership in ASHI is voluntary and its members                                           unsafe, or are near, at, or beyond the end of
+    are private home inspectors. ASHI’s objectives include                                          their normal useful lives;
+    promotion of excellence within the profession and                                           3. states the recommendations to repair or
+    continual improvement of its members’ home inspection                                           replace, or to obtain further evaluation and
+    services to the public.
+                                                                                                    analysis by a qualified professional, tradesman
+                                                                                                    or service technician, regarding the systems or
+2. PURPOSE AND SCOPE
+                                                                                                    components identified in 2.4.B.2.
+2.1 While the ASHI Standards of Practice establish
+                                                                                                4. states the reasoning or explanation as to the
+    obligations that may be different than those mandated
+                                                                                                    nature of the significantly deficient and unsafe
+    by law, in any instance where the ASHI Standards of
+                                                                                                    systems and components reported in 2.4.B.2;
+    Practice and the law conflict, the obligations of the law
+                                                                                                5. states those systems and components specified
+    take precedence. The ASHI Standards of Practice are not
+                                                                                                    for inspection in this Standard that were present
+    intended to discourage or limit additional or more
+                                                                                                    at the time of the home inspection but were not
+    detailed inspections.
+                                                                                                    inspected and the reason(s) they were not
+2.2 The purpose of this document is to establish a minimum                                          inspected;
+    standard (Standard) for home inspections performed by                                  C.   adhere to the ASHI© Code of Ethics for the Home
+    home inspectors who subscribe to this Standard. Home                                        Inspection Profession.
+    inspections performed using this Standard are intended
+                                                                                     2.5 This Standard is NOT intended to limit the Inspector
+    to provide the client with information about the
+                                                                                         from:
+    condition of inspected systems and components of the
+                                                                                         A. Including additional inspection services or other
+    residential building as observed at the time of the home
+                                                                                              services or systems and components in addition to
+    inspection.
+                                                                                              those specified in this Standard.
+2.3 The scope of this Standard applies to a Residential                                  B. designing or specifying repairs, provided the
+    Building defined as a structure consisting of from one to                                 inspector is appropriately qualified and willing to do
+    four family dwelling units and their attached or detached                                 so.
+    garages or carports but excluding the common elements                                C. excluding systems and components from the
+    and areas in multiple unit housing such as condominiums                                   inspection if requested or agreed to by the client.
+    and cooperative housing.
+
+2.4 The Inspector shall:
+                                                                                     3. STRUCTURE
+    A. inspect the readily accessible, visually observable,                          3.1 The Inspector shall:
+        installed systems and components specified in this                               A. inspect the visible and accessible structural
+        Standard.                                                                            components including the foundation and framing.
+    B. provide the client with a written report, using a                                 B. describe in writing the type and material of the:
+        format and medium selected by the inspector, that:                                   1. foundation.
+
+
+
+                ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+         All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                                5
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+        2.  floor structure:                                                          4. EXTERIOR
+            a. subfloor;                                                              4.1 The Inspector shall:
+            b. floor joists;                                                              A. inspect the visible and accessible:
+            c. beams/girders;                                                                 1. wall coverings (siding), flashing and trim.
+            d. columns/piers.                                                                 2. exterior doors including basement and crawl
+       3. wall structure.                                                                          space accesses, and windows.
+       4. ceiling structure.                                                                  3. attached and adjacent stoops, steps, ramps,
+       5. roof structure:                                                                          porches, and their associated guards and
+            a. sheathing/decking;                                                                  handrails.
+            b. framing.                                                                       4. eaves, soffits, and fascias where accessible from
+    C. describe in writing the condition, recommendations                                          ground level.
+       and explanations, according to Sections 2.4.B.2-5, of                                  5. vegetation, grading, surface drainage, and
+       the following systems and components specified in                                           retaining walls that are likely to adversely affect
+       this Standard:                                                                              the residential building.
+       1. foundation.                                                                         6. walkways, patios, and driveways.
+       2. floor structure:                                                                B. describe in writing the type and material of the:
+            a. subfloor;                                                                      1. wall coverings (siding).
+            b. floor joists;                                                              C. describe in writing the condition, recommendations
+            c. beams/girders;                                                                 and explanations, according to Sections 2.4.B.2-5, of
+            d. columns/piers.                                                                 the following systems and components specified in
+       3. wall structure.                                                                     this Standard:
+       4. ceiling structure.                                                                  1. wall coverings (siding), flashing, and trim.
+       5. roof structure:                                                                     2. exterior doors including basement and crawl
+            a. sheathing/decking;                                                                  space accesses, and windows.
+            b. framing.                                                                       3. attached and adjacent stoops, steps, ramps,
+    D. state in writing the location of the access to and                                          porches, and their associated guards and
+       methods used to inspect under-floor crawlspaces                                             handrails, eaves, soffits, and fascias where
+       and attics.                                                                                 accessible from the ground level.
+3.2 The Inspector is NOT required to:                                                         4. eaves, soffits, and fascias where accessible from
+    A. provide engineering or architectural services or                                            the ground level.
+        analysis, including calculations regarding roof                                       5. vegetation, grading, surface drainage, and
+        loading by any roof structures or environmental                                            retaining walls that are likely to adversely affect
+        conditions.                                                                                the residential building.
+    B. offer an opinion about the adequacy of structural                                      6. walkways, patios, and driveways.
+        systems and components.                                                       4.2 The Inspector is NOT required to inspect:
+    C. enter under-floor crawl space areas and attics that                                A. storm doors, storm windows, safety glazing,
+        are not readily accessible or have less than 30 inches                                screening, shutters, awnings, and similar seasonal
+        of vertical clearance and 30 inches of horizontal                                     accessories.
+        clearance between components and the ground or                                    B. fences, boundary walls, and similar structures.
+        that have an access opening smaller than 18 inches                                C. geological and soil conditions.
+        by 24 inches.                                                                     D. recreational facilities.
+    D. traverse attic load bearing components that are                                    E. outbuildings other than garages and carports.
+        concealed by insulation or by other materials.                                    F. seawalls, breakwalls, bulkheads and docks.
+    E. walk on unfloored sections of attics.                                              G. erosion control and earth stabilization measures.
+    F. inspect footings.
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                                6
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+    H. sidewalks, whether public or private, adjacent to the                               C. describe in writing the condition, recommendations
+       street.                                                                                and explanations, according to Sections 2.4.B.2-5, of
+                                                                                              the following systems and components specified in
+5. DECK AND BALCONY                                                                           this Standard:
+5.1 The Inspector shall:                                                                      1. roofing.
+    A. inspect the visible and accessible:                                                    2. roof drainage systems.
+        1. framing including ledger boards, joists, and                                       3. flashing.
+             beams.                                                                        D. state in writing the method(s) used to inspect the
+        2. supporting members.                                                                roofing.
+        3. footings and piers.                                                        6.2 The Inspector is NOT required to inspect:
+        4. walking surface.                                                               A. antennas, satellite dishes, de-icing equipment,
+        5. guards and handrails.                                                              lightning arrestors, or similar attachments.
+        6. stairs and landings.                                                           B. interiors of vent systems, flues, and chimneys that
+    B. describe in writing the type and material of the:                                      are not readily accessible.
+        1. framing.                                                                       C. other installed accessories.
+        2. walking surface.
+        3. guards and handrails.                                                      6.3 The Inspector is NOT required to walk on roofs.
+    C. describe in writing the condition, recommendations
+        and explanations, according to Sections 2.4.B.2-5, of                         7. PLUMBING
+        the following systems and components specified in                             7.1 The Inspector shall:
+        this Standard:                                                                    A. inspect the visible and accessible:
+        1. framing.                                                                           1. interior water service and predominant
+        2. walking surface.                                                                       distribution systems including fixtures and
+        3. guards and handrails.                                                                  faucets.
+                                                                                              2. predominant interior drain, waste and vent
+5.2 The Inspector is NOT required to:
+                                                                                                  systems including fixtures.
+    A. determine adequacy and load capacity of framing,
+                                                                                              3. water heating equipment and hot water supply
+        footings, and piers.
+                                                                                                  systems.
+    B. enter the underside of a deck that has less than 30
+                                                                                              4. vent systems, flues, and chimneys.
+        inches of vertical clearance and 30 inches of
+                                                                                              5. above ground fuel storage and fuel distribution
+        horizontal clearance between components and the
+                                                                                                  systems.
+        ground or that has an access opening smaller than
+                                                                                              6. sewage ejectors, sump pumps and related
+        18 inches by 24 inches or inspect the underside of a
+                                                                                                  piping.
+        deck or balcony that is more than 14 feet above
+                                                                                              7. functional flow and functional drainage of
+        grade level.
+                                                                                                  interior fixtures.
+                                                                                          B. describe in writing the:
+6. ROOFING                                                                                    1. predominant type and material of interior water
+6.1 The Inspector shall:                                                                          service and distribution systems, drain, waste
+    A. inspect the visible and accessible:                                                        and vent pipes.
+        1. roofing materials.                                                                 2. water heating equipment, including energy
+        2. roof drainage systems.                                                                 source(s).
+        3. flashing.                                                                      C. state in writing the location of the:
+        4. skylights, chimneys, and other roof                                                    a. main water service pipe shutoff valve;
+            penetrations.                                                                         b. main fuel supply shutoff valve.
+    B. describe in writing the type and material of the
+        roofing.
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                                7
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+    D. describe in writing the condition, recommendations                                              d.anti-siphon devices;
+       and explanations, according to Sections 2.4.B.2-5, of                                           e.water circulation system;
+       the following systems and components specified in                                               f.anti-scald devices;
+       this Standard:                                                                                  g.relief valves such as temperature and
+       1. interior water service and distribution systems,                                                pressure relief (T&P) valves, pressure relief
+            drain, waste and vent pipes.                                                                  valves, temperature relief valves, and
+       2. water heating equipment.                                                                        pressure reducing valves.
+       3. interior fuel storage and fuel distribution                                         7. a geothermal system.
+            system.                                                                           8. or measure water supply flow and pressure and
+                                                                                                    well water quantity.
+7.2 The Inspector is NOT required to:
+                                                                                              9. the adequacy of whirlpool or spa design
+    A. inspect:
+                                                                                                    features.
+        1. clothes washing machine connections.
+                                                                                              10. whether there are sufficient cleanouts for
+        2. interiors of vent systems, flues and chimneys
+                                                                                                    effective drain cleaning.
+            that are not readily accessible.
+                                                                                              11. the presence or condition of polybutylene (PB),
+        3. wells, well pumps, pressure pumps, bladder
+                                                                                                    polyethylene (PE), or similar plastic piping and
+            tanks, water storage tanks, water filters, and
+                                                                                                    components.
+            related well or water storage tank equipment
+                                                                                           C. fill shower pans and fixtures, tub and shower
+            and components.
+                                                                                              surrounds or enclosures to test for leakage or
+        4. water conditioning systems.
+                                                                                              functional overflow protection.
+        5. manual and automatic fire extinguishing and
+                                                                                           D. remove the cover on a tankless water heater
+            sprinkler systems.
+                                                                                              cabinet.
+        6. lawn and landscape irrigation systems.
+                                                                                           E. test, operate, open or close:
+        7. septic and other sewage disposal or wastewater
+                                                                                              1. relief valves.
+            treatment systems.
+                                                                                              2. safety controls.
+        8. underground fuel storage tanks or supply
+                                                                                              3. manual stop valves.
+            systems.
+                                                                                              4. check valves.
+        9. or test for gas or fuel leaks or indications of gas
+                                                                                              5. control valves.
+            or fuel leaks.
+                                                                                           F. evaluate the plumbing system for the proper design
+    B. determine:
+                                                                                              or sizing of any water, drain, waste or vent
+        1. whether water supply and sewage disposal are
+                                                                                              components including, but not limited to pipes or
+            public or private.
+                                                                                              fixtures, or compliance with conservation, energy or
+        2. water quality.
+                                                                                              standards.
+        3. the adequacy of combustion air components.
+                                                                                           G. evaluate or determine the time to obtain hot water
+        4. The type of geothermal system.
+                                                                                              at any fixture or perform testing of any kind to water
+        5. the effectiveness of:                                                              heater elements.
+             a. drain stoppers;
+             b. fixture overflow protection;                                          8. ELECTRICAL
+             c. sewage ejectors;                                                      8.1 The Inspector shall:
+             d. sump pumps;                                                               A. inspect the visible and accessible:
+             e. circulator pumps.                                                             1. service drop.
+        6. the function or effectiveness of:                                                  2. service entrance conductors, cables, and
+                                                                                                  raceways.
+             a. condensate control and disposal systems or
+                                                                                              3. service equipment and main disconnects.
+                 components;
+                                                                                              4. service bonding and grounding.
+             b. thermal expansion control devices;                                            5. interior components of load centers (service
+             c. backflow preventers;                                                              panels and subpanels).
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                                8
+                                The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+        6.  conductors.                                                                              c.lightning arrestor systems;
+        7.  overcurrent protection devices (fuses and circuit                                        d.de-icing systems;
+            breakers).                                                                               e.EV charging equipment and related
+       8. representative number of installed lighting                                                  components;
+            fixtures, switches and receptacles, ground fault                                      f. stand-by power generation and storage
+            circuit interrupters (GFCIs) and arc fault circuit                                         systems, transfer switching and related
+            interrupters (AFCIs) when possible.                                                        components;
+    B. describe in writing the:                                                                   g. whole house surge protection device(s),
+       1. amperage and voltage rating of the service.                                                  smart home devices and/or systems,
+       2. location of main disconnect(s) and load centers                                              communication, and automation.
+            (service panels and subpanels).                                               B. measure amperage, voltage and impedance.
+       3. presence or absence of smoke alarms and                                         C. determine the age and type of smoke alarms and
+            carbon monoxide alarms/detectors.                                                carbon monoxide alarms/detectors.
+       4. type and material of the predominant branch                                     D. insert any tool, probe or testing device inside
+            circuit wire.                                                                    electrical panels.
+       5. type of overcurrent protection devices (fuses                                   E. dismantle any electrical device or control other than
+            and circuit breakers).
+                                                                                             to remove the covers of load centers (service panels
+    C. state in writing the presence, where visible and if
+       readily identifiable, of:                                                             and subpanels).
+       1. solid conductor aluminum branch circuit wiring.                                 F. activate any electrical systems or branch circuits that
+       2. knob and tube branch circuit wiring.                                               are not energized.
+    D. describe in writing the condition, recommendations                                 G. determine the accuracy of overcurrent protection
+       and explanations, according to Sections 2.4.B.2-5, of                                 device labeling.
+       the following systems and components specified in
+       this Standard:                                                                9. HEATING, VENTILATION AND
+       1. service drop.
+                                                                                        AIR CONDITIONING (HVAC)
+       2. service entrance conductors, cables, and
+            raceways.                                                                9.1. The Inspector shall:
+       3. service equipment and main disconnects.                                         A. open readily openable access panels
+       4. service bonding and grounding.                                                  B. inspect the visible and accessible:
+       5. interior components of load centers (service                                        1. permanently installed heating and cooling
+            panels and subpanels).                                                                 systems.
+       6. conductors.
+                                                                                              2. vent systems, flues, and chimneys.
+       7. overcurrent protection devices (fuses and circuit
+                                                                                              3. distribution systems.
+            breakers).
+       8. a representative number of installed lighting                                       4. whole house fans.
+            fixtures, switches and receptacles, ground fault                              C. describe in writing the:
+            circuit interrupters (GFCIs) and arc fault circuit                                1. type of permanently installed heating and
+            interrupters (AFCIs) when possible.                                                    cooling system (i.e., forced air furnace, heat
+8.2 The Inspector is NOT required to:                                                              pump, steam boiler, hot water boiler,
+    A. inspect:                                                                                    geothermal, hot water hybrid, ductless mini-
+        1. remote control devices.                                                                 split, split-system, etc.).
+        2. or test smoke alarms and carbon monoxide                                           2. energy source(s).
+            alarms/detectors, security systems and other
+                                                                                              3. vent systems, flues and chimneys.
+            signaling and warning devices.
+                                                                                              4. distribution systems.
+        3. identify, or disclose:
+            a. low voltage wiring systems and                                             D. describe in writing the condition, recommendations
+                components;                                                                   and explanations, according to Sections 2.4.B.2-5, of
+            b. ancillary wiring systems and components                                        the following systems and components specified in
+                not a part of the primary electrical power                                    this Standard:
+                distribution system;
+
+              ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+       All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                               9
+                                  The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+         1.    permanently installed heating and cooling                                          2.   permanently installed household appliances (i.e.
+               systems.                                                                                ovens, ranges, surface cooking appliances,
+         2.    vent systems, flues, and chimneys.                                                      microwave ovens, dishwashing machines and
+         3.    distribution systems.                                                                   food waste disposers) by using normal operating
+         4.    whole house fans.                                                                       controls to activate the primary function.
+                                                                                            C.    describe in writing the condition, recommendations
+9.2 The Inspector is NOT required to:
+    A. inspect:                                                                                   and explanations, according to Sections 2.4.B.2-5, of
+        1. interiors of vent systems, flues and chimneys                                          the following systems and components specified in
+            that are not readily accessible.                                                      this Standard:
+        2. heat exchangers.                                                                       1. walls, ceilings and floors.
+        3. humidifiers and dehumidifiers.                                                         2. ramps, steps, stairways, landings, guards and
+        4. electric air cleaning and sanitizing devices.                                               handrails.
+        5. heating and cooling systems units that are not                                         3. countertops and a representative number of
+            permanently installed or that are installed in                                             installed kitchen wall cabinets.
+            windows.                                                                              4. permanently installed ovens, ranges, surface
+        6. automatic venting systems (i.e. HVAC exhaust                                                cooking appliances, microwave ovens,
+            fans).                                                                                     dishwashing machines and food waste
+        7. condensate control and disposal.                                                            disposers.
+        8. automatic setbacks, timers, programs or clocks.
+                                                                                       10.2 The Inspector is NOT required to inspect:
+         9.   mechanical ventilation systems such as:                                      A. paint, wallpaper, and other finish treatments.
+              a. heat recovery ventilators (HRVs).                                         B. floor coverings.
+              b. energy recovery ventilators (ERVs).                                       C. window treatments.
+              c. smart ventilation systems.                                                D. coatings on and/or the hermetic seals between
+         10. dehumidification systems.                                                          panes of window glass.
+    B.   determine:                                                                        E. safety glazing.
+         1. heating and cooling supply adequacy and                                        F. central vacuum systems.
+              distribution balance.                                                        G. recreational facilities.
+         2. the adequacy of combustion air components.                                     H. installed and free-standing kitchen and laundry
+         3. the type of geothermal system.                                                      appliances not listed in Section 10.1.B.2.
+         4. thermostat calibration.                                                        I. household appliance thermostats including their
+    C.   operate HVAC equipment when weather conditions                                         calibration, adequacy of heating elements, self-
+         or other circumstances may cause damage to the                                         cleaning oven cycles, indicator lights, door seals,
+         system.                                                                                timers, clocks, timed features, other specialized
+                                                                                                features of the household appliance and microwave
+                                                                                                radiation leakage.
+10. INTERIOR
+                                                                                             J. operate, or confirm the operation of every control
+10.1 The Inspector shall:
+                                                                                                and feature of an inspected appliance.
+     A. inspect the visible and accessible:
+        1. walls, ceilings and floors.                                                 10.3 The Inspector is NOT required to:
+        2. ramps, steps, stairways, landings, guards and                                    A. move suspended ceiling tiles or panels.
+             handrails.                                                                     B. move personal possessions, furniture, stored items,
+        3. countertops and a representative number of                                          window treatments, or any coverings such as carpets
+             installed cabinets.                                                               or rugs.
+    B. inspect:                                                                             C. operate any security bar release and opening
+        1. a representative number of doors and windows.                                       mechanisms, whether interior or exterior.
+
+
+                ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+         All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                                10
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+11. INSULATION                                                                        12.2 The Inspector is NOT required to:
+11.1 The Inspector shall:                                                                  A. break or otherwise damage the surface finish or
+     A. inspect the visible and accessible:                                                     weather seal on or around attic and crawl space
+        1. insulation and vapor retarders in crawl spaces,                                      access panels or covers.
+             foundation areas and unfinished attic spaces.                                 B. activate thermostatically operated or solar
+     B. state in writing the presence or absence of:                                            powered fans.
+        1. insulation and vapor retarders in crawl spaces,                                 C. determine the adequacy of ventilation in attics
+             foundation areas and unfinished attic spaces at                                    and crawl spaces.
+             conditioned surfaces.                                                         D. determine the adequacy of mechanical or similar
+        2. a radiant barrier.                                                                   exhaust systems for the kitchen(s), bathroom(s)
+     C. describe in writing the condition, recommendations                                      and laundry areas or clothes dryer exhaust
+        and explanations, according to Sections 2.4.B.2-5, of                                   systems.
+        the following systems and components specified in
+        this Standard:                                                                13. FIREPLACES AND FUEL-BURNING APPLIANCES
+        1. insulation and vapor retarders in crawl spaces,                            13.1 The Inspector shall:
+             foundation areas and unfinished attic spaces.                                 A. inspect the visible and accessible:
+                                                                                              1. fuel-burning fireplaces, stoves, and fireplace
+11.2 The Inspector is NOT required to:                                                             inserts.
+    A. disturb or move insulation or vapor retarders.                                         2. fuel-burning accessories installed in fireplaces.
+    B. break or otherwise damage the surface finish or                                        3. chimneys and vent systems.
+        weather seal on or around attic and crawl space                                       4. permanently installed electric fireplaces.
+        access panels or covers.                                                              5. mantle, hearth, and fireplace surround.
+                                                                                           B. describe in writing the type and material of:
+    C. identify the composition or R-value of insulation.
+                                                                                              1. fuel-burning fireplaces, stoves, and fireplace
+                                                                                                   inserts.
+12. VENTING SYSTEMS                                                                           2. fuel-burning accessories installed in fireplaces.
+12.1 The Inspector shall:                                                                     3. chimneys and vent systems.
+     A. inspect the visible and accessible:                                                C. describe in writing the condition, recommendations
+        1. ventilation in crawl spaces, foundation areas                                      and explanations, according to Sections 2.4.B.2-5, of
+             and unfinished attic spaces.                                                     the following systems and components specified in
+        2. mechanical or similar exhaust systems for the                                      this Standard:
+             kitchen(s), bathroom(s) and laundry areas.                                       1. fuel-burning fireplaces, stoves, and fireplace
+                                                                                                   inserts.
+        3. clothes dryer exhaust systems.
+                                                                                              2. fuel-burning accessories installed in fireplaces.
+     B. state in writing the presence or absence of:                                          3. chimneys and vent systems.
+        1. ventilation in crawl spaces, foundation areas                                      4. permanently installed electric fireplaces.
+             and unfinished attic spaces.                                                     5. mantles, hearth, and fireplace surround.
+     C. describe in writing the condition, recommendations
+                                                                                      13.2 The inspector is NOT required to:
+        and explanations, according to Sections 2.4.B.2-5, of                              A. inspect:
+        the following systems and components specified in                                     1. interiors of vent systems, flues, and chimneys
+        this Standard:                                                                             that are not readily accessible.
+        1. ventilation in crawl spaces, foundation areas                                      2. fire screens and doors.
+             and unfinished attic spaces.                                                     3. seals and gaskets.
+                                                                                              4. automatic fuel feed devices.
+        2. mechanical or similar exhaust systems for the
+                                                                                              5. combustion air components and to determine
+             kitchen(s), bathroom(s) and laundry areas.                                            their adequacy.
+        3. clothes dryer exhaust systems.                                                     6. heat distribution assists (gravity fed and fan
+                                                                                                   assisted).
+
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                               11
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+        7.  fuel-burning fireplaces and appliances located                                            b. cosmetic imperfections that do not
+            outside the inspected structures.                                                            significantly affect a component’s
+     B. operate, or confirm the operation of every control                                               performance of its intended function.
+        and feature of permanently installed fireplaces other                                C. This Standard applies to buildings with four or fewer
+        than their primary functionality.                                                       dwelling units and their attached and detached
+     C. determine draft characteristics.                                                        garages and carports.
+     D. move fireplace inserts and stoves or firebox                                         D. This Standard shall not limit or prevent the inspector
+        contents.                                                                               from meeting state statutes which license
+     E. perform any type of chimney inspection, such as a                                       professional home inspectors.
+        National Fire Protection Association (NFPA) 211                                      E. Redundancy in the description of the requirements,
+        Level I, II or III inspection.                                                          limitations, and exclusions regarding the scope of
+                                                                                                the home inspection is provided for emphasis only.
+14. GARAGE AND CARPORT                                                                15.2 General exclusions
+14.1 The Inspector shall:                                                                  A. The Inspector is NOT required to determine:
+     A. inspect the visible and accessible:                                                    1. the condition of systems and components that
+        1. systems and components specified in the                                                  are not readily accessible.
+             applicable sections of this Standard where they                                   2. the age, life expectancy or remaining useful life
+                                                                                                    of systems and components.
+             exist, such as Structure, Exterior, Roofing,
+                                                                                               3. the strength, adequacy, effectiveness, and
+             Plumbing, Electrical, HVAC, Interior, Insulation,                                      efficiency of systems and components.
+             Venting Systems, etc.                                                             4. the causes of any condition or deficiency.
+     B. inspect:                                                                               5. methods, materials and costs of corrections.
+        1. a representative number of doors and windows.                                       6. the suitability of the property for any
+        2. garage vehicle doors including automatic door                                            specialized uses.
+             openers and entrapment protection                                                 7. compliance of systems and components with
+                                                                                                    past and present requirements, guidelines,
+             mechanisms, excluding remote control devices.
+                                                                                                    codes, standards, regulations, laws,
+     C. describe in writing the condition, recommendations                                          ordinances, specifications, installation and
+        and explanations, according to Sections 2.4.B.2-5, of                                       maintenance instructions, use and care guides,
+        the systems and components specified in the                                                 recall notices or advisories, etc.
+        applicable sections of this Standard where they exist.                                 8. the market value of the property and its
+                                                                                                    marketability.
+14.2 The Inspector is NOT required to:                                                         9. the advisability of purchasing the property.
+     A. inspect or test vehicle door remote control devices.                                   10. the presence of wood destroying insects and
+     B. move suspended ceiling tiles or panels.                                                     organisms.
+     C. move personal possessions, furniture, stored items,                                    11. the presence of potentially hazardous plants,
+        window treatments, or any coverings such as carpets                                         animals or diseases or the presence of any
+                                                                                                    suspected hazardous substances or adverse
+        or rugs.
+                                                                                                    conditions such as environmental hazards,
+                                                                                                    animal urine or feces, mold, fungus, allergens,
+15. GENERAL LIMITATION AND EXCLUSIONS                                                               toxins, carcinogens, asbestos, electromagnetic
+15.1 General limitations                                                                            radiation, noise, radioactive substances, and
+     A. The inspector is NOT required to perform any                                                contaminants in building materials, soil, water,
+         actions, or to make determinations or                                                      and air.
+         recommendations not specifically stated in this                                       12. operating costs of systems and components.
+         Standard.                                                                             13. acoustical properties of systems and
+     B. Inspections performed using this Standard:                                                  components.
+        1. are not technically exhaustive.                                                     14. soil conditions relating to seismic, geotechnical
+        2. are not required to identify and to report:                                              or hydrologic specialties.
+            a. concealed conditions, latent defects,                                           15. whether items, materials, conditions and
+                 consequential damages, and                                                         components are subject to recall, controversy,
+
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                               12
+                            The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+         litigation, product liability, and other adverse                                   7.  ignite or extinguish fires, pilot lights, burners,
+         claims and conditions.                                                                 and other open flames that require manual
+    16. the method of construction such as but not                                              ignition.
+         limited to site-built, modular, manufactured,                                      8. probe components where deterioration is visible
+         balloon or platform framed, etc.                                                       and suspected or where clear indications of
+    17. property boundary lines or encroachments.                                               possible deterioration exist. Probing is not
+    18. the insurability of the property.                                                       required when, in the opinion of the Inspector,
+    19. future conditions that may occur including the                                          probing would only further damage any area
+         failure of systems and components including                                            already identified as defective or where no
+         consequential damage.                                                                  deterioration is visible or presumed to exist.
+B. The Inspector is NOT required to offer:                                                  9. turn on any utilities such as the electric, water
+   1. or to perform acts or services contrary to law or                                         or gas.
+       to government regulations.                                                           10. identify the presence of, or determine the
+   2. or to perform architectural, engineering,                                                 effectiveness of, any system installed or method
+       contracting, or surveying services or to confirm                                         utilized to control or remove subsurface water
+       or to evaluate such services performed by                                                penetration and storm drainage or suspected
+       others.                                                                                  potentially hazardous substances.
+   3. or to perform trades or professional services                                         11. anticipate future events or conditions, including
+       other than home inspection.                                                              but not limited to:
+   4. warranties or guarantees.                                                                 a. decay, deterioration, or damage that may
+C. The Inspector is NOT required to operate:                                                          occur after the inspection;
+   1. systems and components that are shut down or                                              b. deficiencies from abuse, misuse or lack of
+       otherwise inoperable.                                                                          use;
+   2. systems and components that do not respond to                                             c. changes in performance of any component
+       normal operating controls.                                                                     or system due to changes in use or
+   3. shut-off valves and manual stop valves.                                                         occupancy;
+   4. automatic safety controls.                                                                d. the consequences of the inspection or its
+   5. remote-controlled devices via Wi-Fi, Bluetooth,                                                 effects on clients;
+       RF, or other communication protocols and                                                 e. common household accidents, personal
+       automations.                                                                                   injury, or death;
+D. The Inspector is NOT required to:                                                            f. water penetration;
+   1. enter areas that will, in the professional                                                g. the failure or future performance of any
+       judgment of the inspector, likely be dangerous                                                 system or component.
+       to the inspector or to other persons, or to                                    E.    The Inspector is NOT required to inspect:
+       damage the property or its systems and                                               1. underground items including, but not limited to,
+       components.                                                                              wells, cisterns, underground storage tanks and
+   2. perform procedures or operations that will, in                                            other underground indications of their
+       the professional judgment of the inspector,                                              presence, whether abandoned or active.
+       likely be dangerous to the inspector or to other                                     2. interior and exterior subsurface drainage
+       persons, or to damage the property or its                                                systems.
+       systems or components.                                                               3. items that are not permanently installed.
+   3. describe or report on systems and components                                          4. installed decorative items.
+       that are not included in this Standard and that                                      5. items in areas that are not entered in
+       were not inspected.                                                                      accordance with 3.2.C and 15.2.D.1.
+   4. move personal property, stored items, furniture,                                      6. detached structures other than garages and
+       equipment, plants, soil, snow, ice, and debris.                                          carports.
+   5. dismantle systems and components, except as                                           7. common elements or areas in multi-unit
+       explicitly required by this Standard.                                                    housing, such as condominiums and cooperative
+   6. reset, reprogram, or otherwise adjust devices,                                            housing.
+       systems, and components affected by inspection                                       8. every occurrence of multiple similar
+       required by this Standard.                                                               components.
+                                                                                            9. outdoor cooking appliances, fireplaces, and fire
+                                                                                                pits.
+          ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+   All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                          13
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+        10. bridges.                                                                  Accessible (see Readily Accessible)
+        11. elevators, lifts, cable-hoisted fixtures and
+            devices.                                                                  Activate means the act of turning on, supplying power, or
+        12. swimming pools, spas, hot tubs, ponds, water                              otherwise enabling systems, equipment, or devices to
+            features and their related components.                                    become active by normal operating controls.
+        13. phone and cable lines, antennas and satellite
+            dishes.                                                                   Additional Inspection Services means a specialized inspection
+        14. photovoltaic (solar), geothermal, wind and other                          by a professional trained to evaluate a specific element of the
+            renewable energy systems.                                                 property that is outside of the scope of home inspection and
+        15. alarm systems or warning devices, installed or                            may require additional licenses, certification, or training.
+            free-standing, including but not limited to flue
+            gas and other spillage detectors, security                                Architectural Service means any practice involving the art
+            equipment, ejector pumps, smoke alarms and                                and science of building design for construction of any
+            carbon monoxide alarms/detectors.                                         structure or groupings of structures and the use of space
+                                                                                      within and surrounding the structures or the design for
+16. USE OF TOOLS AND SPECIALIZED EQUIPMENT                                            construction, including but not specifically limited to, services
+16.1 A home inspector may use reasonable and appropriate                              that an architect typically provides including concept design,
+                                                                                      development, preparation of construction documents and
+     tools or equipment that, in the Inspector’s professional
+                                                                                      construction administration.
+     judgment, the Inspector believes is necessary to
+     adequately perform a home inspection.                                            Attic means the unfinished space between the ceiling joists or
+                                                                                      truss chords of the top floor and the underside of the roof
+16.2 A home inspector is not required to:
+                                                                                      framing.
+     A. use specialized equipment, instruments or testing
+        devices, such as but not limited to:                                          Automatic Safety Controls means devices designed and
+        1. amp meters;                                                                installed to protect systems and components from unsafe
+        2. pressure gauges;                                                           conditions.
+        3. moisture meters;
+        4. combustible gas or carbon monoxide detection                               Basement/Cellar means the bottom full story of a residential
+            equipment and similar equipment;                                          building below the first floor. A basement may be partially or
+        5. thermal imaging equipment (i.e. infrared                                   completely below grade.
+            cameras);
+        6. environmental testing equipment and devices;                               Bonding means connecting metallic systems to establish
+        7. elevation determination devices;                                           electrical continuity and conductivity.
+        8. ladders capable of reaching surfaces over one
+            story above ground surface;                                               Branch Circuit means the circuit conductors (wire) between
+        9. cameras or other equipment used to inspect the                             the final overcurrent device protecting the circuit and the
+            interior of a drain or sewer line;                                        outlet(s).
+        10. small unmanned aircraft systems (drones).
+                                                                                      Client means any current or prospective homeowner who
+17 DEFINITIONS OF ITALICIZED TERMS                                                    engages, or seeks to engage, the services of a home inspector
+17.1 This section provides definitions and descriptions or                            for the purpose of obtaining an inspection of, and written
+     terms for the words used in this Standard. These are an                          report regarding, the condition of a residential building.
+     integral part of this Standard and are critical to an
+     understanding of this Standard and its use.                                      Component means a part of a system.
+     A. Scope. Unless otherwise expressly stated, the
+         following terms shall, for the purposes of this                              Cooling System means a permanently installed climate-
+         Standard, have the meanings shown in this section.                           controlled system to cool all or a portion of the residential
+     B. Terms not defined. Where terms are not defined                                building.
+         through the methods authorized by this section,
+         such terms shall have ordinarily accepted meanings
+         such as the context implies.
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                               14
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+Cosmetic means blemishes or imperfections that affect the                             Heating System means a permanently installed system to
+appearance or aesthetics and do not interfere with the                                heat all or a portion of the residential building.
+functionality of the component or system.
+                                                                                      Home Inspection means a limited visual non-invasive
+Crawl Space means in a residential building or portion of a                           examination of the readily accessible systems and
+residential building, the accessible space between the surface                        components of a residential building as defined in this
+of the ground and the bottom of the first floor joists, with                          Standard, for compensation and performed without moving
+less-than-normal headroom. Any interior space of limited                              personal property, furniture, equipment, plants, soil, snow,
+height designed to permit access to components such as                                ice, or debris.
+ductwork, wiring, and pipe fittings (see also Under-floor
+Crawl Space).                                                                         Home Inspector means an individual who performs a Home
+                                                                                      Inspection for compensation.
+Decorative means not required for the proper operation of
+the essential systems and components of a home.                                       Inspect means the process of examining readily accessible
+                                                                                      systems and components by applying this Standard, operating
+Describe means to state in writing a system and/or                                    normal operating controls and opening readily openable
+component by its type or other observed significant                                   access panels.
+characteristics to distinguish it from other similar systems or
+components.                                                                           Inspection Report or “Home Inspection Report” means a
+                                                                                      written document of the observations in accordance with
+Dismantle means to take apart or remove components,                                   Section 2.4.B.1-5 as of the date and time of the home
+devices, or pieces of equipment that would not be taken                               inspection resulting from the limited visual
+apart or removed by a homeowner in the course of normal                               examination/inspection of the property which meets this
+maintenance, except as may be required within this Standard.                          Standard.
+
+Engineering means the application of scientific knowledge for                         Inspector (see Home Inspector)
+the design, control, or use of building structures, equipment,
+or apparatus.                                                                         Installed means attached such that removal requires tools.
+
+Engineering Service means any professional service or                                 Load Bearing means those elements that support both dead
+creative work requiring engineering education, training, and                          and live loads (i.e. foundations, floors, walls, ceilings, and roof
+experience and the application of special knowledge of the                            framing).
+mathematical, physical and engineering sciences to such
+professional service or creative work as consultation,                                Non-Invasive means not causing disturbance or damage upon
+investigation, evaluation, planning, design and supervision of                        inspection.
+construction for the purpose of assuring compliance with the
+specifications and design, in conjunction with structures,                            Normal Operating Controls means devices such as
+buildings, machines, equipment, works or processes.                                   thermostats, switches and valves intended to be operated by
+                                                                                      the homeowner.
+Functional Drainage means a plumbing drain that empties at
+a rate equal to or greater than the supply water flow to the                          Normal Use mean systems and components used in
+plumbing fixture.                                                                     accordance with the instruction manual included with the
+                                                                                      product and ordinary use under typical daily operations
+Functional Flow means sufficient water flow to provide                                including routine maintenance activities performed by
+supply to the highest and/or furthest fixture from the main                           homeowners and service technicians.
+water source when a single intermediate fixture is operated
+simultaneously with uninterrupted flow.                                               Normal Useful Life. means a subjective estimate based upon
+                                                                                      observations, and/or average estimates of similar items,
+Further Evaluation means examination and analysis by a                                systems, or components, that an item, system, or component,
+qualified professional, tradesman, or service technician                              is estimated to be able to function in accordance with its
+beyond that provided by a home inspection.                                            intended purpose before warranting replacement.
+
+
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                               15
+                                 The American Society of Home Inspectors Standard of Practice for Home Inspections
+
+
+
+Operate means to activate equipment using normal                                      Significantly Deficient means a condition that in the
+operating controls.                                                                   professional judgment of the inspector significantly affects
+                                                                                      the value, habitability, or safety of the dwelling and/or
+Permanently Installed means an item, system or component                              occupants but does not include decorative, stylistic, cosmetic,
+designed or intended to remain where originally placed, not                           or aesthetic aspects of the system, structure or component..
+easily moved and which is attached, connected, or set in                              The fact that a system or component is near, at or beyond the
+place for use so as to render moving or removing the item,                            end of the normal useful life is not by itself significantly
+system, or component impossible without the use of tools or                           deficient.
+equipment.
+                                                                                      State means to identify in writing.
+Readily Accessible means visually observable and able to be
+examined: without requiring destructive measures; without                             Structural Component means a component that supports
+risk to the Inspector or others; without risk of damage to any                        non-variable forces or weights (dead loads) and variable
+item of personal or real property; without requiring the                              forces or weights (live loads).
+Inspector to move, remove, damage, or disturb any wall,
+floor, ceiling, window coverings, any interior or exterior                            System means a combination of interacting or
+claddings, finish treatments; without requiring the Inspector                         interdependent components, assembled to carry out one or
+to move, remove, damage, disturb, climb upon, climb over, or                          more functions.
+straddle any item of personal property; without requiring the
+Inspector to move, remove, damage, or disturb any landscape                           Technically Exhaustive means an investigation that involves
+elements; without interrupting the business of occupants and                          dismantling, the extensive use of advanced techniques,
+without requiring disassembly or the use of any special                               measurements, instruments, testing, calculations, or other
+protective clothing or special tools or equipment.                                    means.
+
+Readily Openable Access Panel means a panel provided for                              Under-floor Crawl Space (see Crawl Space)
+homeowner inspection and maintenance that is readily
+accessible, within normal reach, can be opened by one                                 Unsafe means a condition in a readily accessible, installed
+person and is not sealed in place.                                                    system or component that is judged by the Inspector to be a
+                                                                                      significant risk of serious bodily injury during normal use; the
+Recreational Facilities means spas, saunas, steam baths,                              risk may be due to damage, deterioration, or improper
+swimming pools, exercise, entertainment, athletic,                                    installation.
+playground and other similar equipment and associated
+accessories, etc.
+
+Representative Number means one component per room for
+multiple similar interior components such as windows and
+electric receptacles; one component on each side of the
+residential building for multiple similar exterior components.
+
+Residential Building means a structure consisting of from one
+to four family dwelling units and their attached or detached
+garages or carports but excluding the common elements and
+areas in multiple unit housing such as condominiums and
+cooperative housing.
+
+Roof Drainage Systems means components used to carry
+water off a roof and away from a building.
+
+Shut Down means a state in which a system or component
+cannot be operated by normal operating controls.
+
+
+
+
+               ASHI Standard of Practice for Home Inspections Effective tbd, 2026. © Copyright 2026 American Society of Home Inspectors, Inc.
+        All rights reserved. This supersedes all previous versions of the American Society of Home Inspectors Standard of Practice for Home Inspections.
+
+                                                                               16
+                            The American Society of Home Inspectors’ Code of Ethics for the Home Inspection Profession
+
+
+
+                                                                                            C.    Inspectors shall not directly or indirectly compensate
+                                                                                                  realty agents, or other parties having a financial
+                                                                                                  interest in closing or settlement of real estate
+                                                                                                  transactions, for the referral of inspections or for
+                                                                                                  inclusion on a list of recommended inspectors,
+                                                                                                  preferred providers, or similar arrangements.
+
+                                                                                            D.     Inspectors shall not receive compensation for an
+                                                                                                  inspection from more than one party unless agreed
+                                                                                                  to by the client(s).
+
+Code of Ethics for the Home Inspection Profession                                           E.    Inspectors shall not accept compensation, directly or
+                                                                                                  indirectly, for recommending contractors, services,
+The ASHI Code of Ethics details the core guidelines of home                                       or products to inspection clients or other parties
+inspection professionalism and home inspection ethics.                                            having an interest in inspected properties.
+Covering crucial issues such as conflicts of interest, good faith
+and public perception, these home inspection ethics are                                     F.    Inspectors shall not repair, replace, or upgrade, for
+central pillars of home inspection professionalism for the                                        compensation, systems or components covered by
+entire industry.                                                                                  ASHI Standards of Practice, for one year after the
+                                                                                                  inspection.
+Integrity, honesty, and objectivity are fundamental principles
+embodied by this Code, which sets forth obligations of ethical                         2. Inspectors shall act in good faith toward each client and
+conduct for the home inspection profession. The                                           other interested parties.
+Membership of ASHI has adopted this Code to provide high                                  A. Inspectors shall perform services and express
+ethical standards to safeguard the public and the profession.                                 opinions based on genuine conviction and only
+                                                                                              within their areas of education, training, or
+Inspectors shall comply with this Code, shall avoid association                               experience.
+with any enterprise whose practices violate this Code, and
+shall strive to uphold, maintain, and improve the integrity,                                B.    Inspectors shall be objective in their reporting and
+reputation, and practice of the home inspection profession.                                       not knowingly understate or overstate the
+                                                                                                  significance of reported conditions.
+All inspector members of ASHI have agreed to abide by this
+Code of Ethics.                                                                             C.    Inspectors shall not disclose inspection results or
+                                                                                                  client information without client approval.
+1.   Inspectors shall avoid conflicts of interest or activities                                   Inspectors, at their discretion, may disclose observed
+     that compromise, or appear to compromise,                                                    immediate safety hazards to occupants exposed to
+     professional independence, objectivity, or inspection                                        such hazards, when feasible.
+     integrity.
+     A. Inspectors shall not inspect properties for                                   3.    Inspectors shall avoid activities that may harm the
+         compensation in which they have, or expect to have,                                public, discredit themselves, or reduce public
+         a financial interest.                                                              confidence in the profession.
+                                                                                            A. Advertising, marketing, and promotion of inspectors'
+     B.   Inspectors shall not inspect properties under                                         services or qualifications shall not be fraudulent,
+          contingent arrangements whereby any                                                   false, deceptive, or misleading.
+          compensation or future referrals are dependent on                                 B. Inspectors shall report substantive and willful
+          reported findings or on the sale of a property.                                       violations of this Code to the Society.
+
+
+
+
+          ASHI Code of Ethics for the Home Inspection Profession Effective March 1, 2014. © Copyright 2026 American Society of Home Inspectors, Inc.
+
+                        All rights reserved. This supersedes all previous versions of the ASHI Standard of Practice for Home Inspections.
+
+                                                                               17
+
