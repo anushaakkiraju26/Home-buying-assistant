@@ -51,7 +51,6 @@ Question
 ├── ask.py                 # Command-line Q&A entry point
 ├── chunks.json            # Local chunk corpus used by BM25
 ├── reference_documents/   # Canonical reference PDFs and web documents
-├── n8n/                   # Optional n8n workflow and instructions
 ├── ui/                    # FastAPI-served web interface
 └── .streamlit/            # Streamlit theme configuration
 ```
@@ -167,8 +166,6 @@ python ask.py "What costs should I expect at closing?"
 | `/retrieve` | `POST` | Structured context and retrieved documents |
 | `/tool` | `POST` | Plain-text context for agent tools |
 | `/ask` | `POST` | Grounded answer with structured source documents |
-
-See [n8n/README.md](n8n/README.md) for n8n setup and deployment details.
 
 ## Security
 
