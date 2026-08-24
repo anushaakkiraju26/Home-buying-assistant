@@ -12,6 +12,7 @@ __pycache__/
 
 .pytest_cache/
 .mypy_cache/
+tmp/
 
 # Local working copies of the canonical files in reference_documents/
 data/

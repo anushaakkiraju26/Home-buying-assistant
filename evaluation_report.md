@@ -1,6 +1,6 @@
 # Home Buying RAG Retrieval Evaluation
 
-**Generated:** 2026-08-24T05:36:40.915810+00:00
+**Generated:** 2026-08-24T05:51:01.138396+00:00
 
 ## Executive summary
 
@@ -8,6 +8,7 @@ This evaluation measures whether the retriever surfaces the manually identified 
 
 | Metric | Score |
 | --- | ---: |
+| Strict pass rate | 60.0% (9/15) |
 | Hit@1 | 66.7% (10/15) |
 | Hit@3 | 93.3% (14/15) |
 | Hit@5 | 100.0% (15/15) |
@@ -17,6 +18,7 @@ This evaluation measures whether the retriever surfaces the manually identified 
 
 ### Interpretation
 
+- **Strict pass**: an expected source ranks first and every manually expected source is recovered in the top five.
 - **Hit@K**: percentage of questions with at least one expected source in the first K unique sources.
 - **MRR**: rewards placing the first expected source near rank 1; 1.0 is perfect.
 - **Expected-source recall@5**: fraction of all manually expected sources recovered in the top five.
@@ -24,25 +26,36 @@ This evaluation measures whether the retriever surfaces the manually identified 
 
 ## Question-level results
 
-| ID | Category | Expected source | First relevant rank | Hit@5 | Recall@5 | Top score |
-| --- | --- | --- | ---: | :---: | ---: | ---: |
-| Q01 | Closing costs | `cfpb_home_loan_toolkit.pdf`<br>`cfpb_closing_disclosure_sample.pdf` | 2 | Yes | 50.0% | 0.743 |
-| Q02 | Adjustable-rate mortgages | `cfpb_arm_charm_booklet.pdf` | 1 | Yes | 100.0% | 0.957 |
-| Q03 | Loan estimates | `cfpb_loan_estimate_sample.pdf`<br>`cfpb_home_loan_toolkit.pdf` | 1 | Yes | 50.0% | 0.971 |
-| Q04 | California disclosures | `ca_civil_code_1102_disclosure_law.html`<br>`ca_dre_refbook_disclosures.pdf` | 1 | Yes | 100.0% | 0.866 |
-| Q05 | Texas disclosures | `trec_sellers_disclosure_notice.pdf` | 1 | Yes | 100.0% | 0.932 |
-| Q06 | Homeowners associations | `trec_hoa_addendum.pdf` | 4 | Yes | 100.0% | 0.322 |
-| Q07 | Home inspections | `ashi_home_inspection_standards.pdf` | 2 | Yes | 100.0% | 0.986 |
-| Q08 | Federal income taxes | `irs_pub530_homeowners_tax.pdf` | 1 | Yes | 100.0% | 0.757 |
-| Q09 | Appraisals | `fannie_mae_appraisal_report_1004.pdf` | 2 | Yes | 100.0% | 0.670 |
-| Q10 | Homeowners insurance | `naic_homeowners_insurance_guide.pdf` | 1 | Yes | 100.0% | 0.711 |
-| Q11 | Fair housing | `hud_fair_housing_booklet.pdf` | 3 | Yes | 100.0% | 0.932 |
-| Q12 | Contractors | `ftc_hiring_a_contractor.pdf` | 1 | Yes | 100.0% | 0.713 |
-| Q13 | VA loans | `va_home_loan_buyers_guide.pdf` | 1 | Yes | 100.0% | 0.869 |
-| Q14 | USDA loans | `usda_rural_housing_loan_guide.pdf` | 1 | Yes | 100.0% | 0.866 |
-| Q15 | California down payment help | `calhfa_downpayment_assistance.html` | 1 | Yes | 100.0% | 0.999 |
+| ID | Verdict | Category | Expected source | First relevant rank | Hit@5 | Recall@5 | Top score |
+| --- | :---: | --- | --- | ---: | :---: | ---: | ---: |
+| Q01 | FAIL | Closing costs | `cfpb_home_loan_toolkit.pdf`<br>`cfpb_closing_disclosure_sample.pdf` | 2 | Yes | 50.0% | 0.743 |
+| Q02 | PASS | Adjustable-rate mortgages | `cfpb_arm_charm_booklet.pdf` | 1 | Yes | 100.0% | 0.957 |
+| Q03 | FAIL | Loan estimates | `cfpb_loan_estimate_sample.pdf`<br>`cfpb_home_loan_toolkit.pdf` | 1 | Yes | 50.0% | 0.971 |
+| Q04 | PASS | California disclosures | `ca_civil_code_1102_disclosure_law.html`<br>`ca_dre_refbook_disclosures.pdf` | 1 | Yes | 100.0% | 0.866 |
+| Q05 | PASS | Texas disclosures | `trec_sellers_disclosure_notice.pdf` | 1 | Yes | 100.0% | 0.932 |
+| Q06 | FAIL | Homeowners associations | `trec_hoa_addendum.pdf` | 4 | Yes | 100.0% | 0.322 |
+| Q07 | FAIL | Home inspections | `ashi_home_inspection_standards.pdf` | 2 | Yes | 100.0% | 0.986 |
+| Q08 | PASS | Federal income taxes | `irs_pub530_homeowners_tax.pdf` | 1 | Yes | 100.0% | 0.757 |
+| Q09 | FAIL | Appraisals | `fannie_mae_appraisal_report_1004.pdf` | 2 | Yes | 100.0% | 0.670 |
+| Q10 | PASS | Homeowners insurance | `naic_homeowners_insurance_guide.pdf` | 1 | Yes | 100.0% | 0.711 |
+| Q11 | FAIL | Fair housing | `hud_fair_housing_booklet.pdf` | 3 | Yes | 100.0% | 0.932 |
+| Q12 | PASS | Contractors | `ftc_hiring_a_contractor.pdf` | 1 | Yes | 100.0% | 0.713 |
+| Q13 | PASS | VA loans | `va_home_loan_buyers_guide.pdf` | 1 | Yes | 100.0% | 0.869 |
+| Q14 | PASS | USDA loans | `usda_rural_housing_loan_guide.pdf` | 1 | Yes | 100.0% | 0.866 |
+| Q15 | PASS | California down payment help | `calhfa_downpayment_assistance.html` | 1 | Yes | 100.0% | 0.999 |
 
 ## Failure analysis
+
+### Strict failures (6/15)
+
+The strict criterion fails a question when the expected source is not rank one or when any manually expected source is missing from the top five.
+
+- **Q01 - Closing costs: FAIL.** Expected source not ranked first; incomplete expected-source recovery.
+- **Q03 - Loan estimates: FAIL.** Incomplete expected-source recovery.
+- **Q06 - Homeowners associations: FAIL.** Expected source not ranked first.
+- **Q07 - Home inspections: FAIL.** Expected source not ranked first.
+- **Q09 - Appraisals: FAIL.** Expected source not ranked first.
+- **Q11 - Fair housing: FAIL.** Expected source not ranked first.
 
 ### Expected source retrieved but not ranked first
 

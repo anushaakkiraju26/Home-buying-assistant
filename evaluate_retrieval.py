@@ -44,6 +44,15 @@ def score_case(case: dict, ranking: list[dict]) -> dict:
     first_rank = min(relevant_ranks) if relevant_ranks else None
     found_at_5 = expected.intersection(ranked_sources[:5])
     top_score = ranking[0]["score"] if ranking else None
+    failure_reasons = []
+    if first_rank != 1:
+        failure_reasons.append(
+            "expected source not ranked first"
+            if first_rank is not None
+            else "expected source absent from top five"
+        )
+    if len(found_at_5) < len(expected):
+        failure_reasons.append("incomplete expected-source recovery")
 
     return {
         **case,
@@ -56,6 +65,8 @@ def score_case(case: dict, ranking: list[dict]) -> dict:
         "expected_source_recall_at_5": len(found_at_5) / len(expected),
         "missing_expected_sources": sorted(expected - found_at_5),
         "top_rerank_score": top_score,
+        "strict_pass": not failure_reasons,
+        "failure_reasons": failure_reasons,
     }
 
 
@@ -70,6 +81,7 @@ def build_report(results: list[dict], generated_at: str) -> str:
     hit_5 = sum(item["hit_at_5"] for item in results) / count
     mrr = statistics.mean(item["reciprocal_rank"] for item in results)
     recall = statistics.mean(item["expected_source_recall_at_5"] for item in results)
+    strict_pass = sum(item["strict_pass"] for item in results) / count
     scores = [item["top_rerank_score"] for item in results if item["top_rerank_score"] is not None]
     mean_score = statistics.mean(scores) if scores else 0.0
 
@@ -96,6 +108,7 @@ def build_report(results: list[dict], generated_at: str) -> str:
         "",
         "| Metric | Score |",
         "| --- | ---: |",
+        f"| Strict pass rate | {pct(strict_pass)} ({sum(x['strict_pass'] for x in results)}/{count}) |",
         f"| Hit@1 | {pct(hit_1)} ({sum(x['hit_at_1'] for x in results)}/{count}) |",
         f"| Hit@3 | {pct(hit_3)} ({sum(x['hit_at_3'] for x in results)}/{count}) |",
         f"| Hit@5 | {pct(hit_5)} ({sum(x['hit_at_5'] for x in results)}/{count}) |",
@@ -105,6 +118,7 @@ def build_report(results: list[dict], generated_at: str) -> str:
         "",
         "### Interpretation",
         "",
+        "- **Strict pass**: an expected source ranks first and every manually expected source is recovered in the top five.",
         "- **Hit@K**: percentage of questions with at least one expected source in the first K unique sources.",
         "- **MRR**: rewards placing the first expected source near rank 1; 1.0 is perfect.",
         "- **Expected-source recall@5**: fraction of all manually expected sources recovered in the top five.",
@@ -112,8 +126,8 @@ def build_report(results: list[dict], generated_at: str) -> str:
         "",
         "## Question-level results",
         "",
-        "| ID | Category | Expected source | First relevant rank | Hit@5 | Recall@5 | Top score |",
-        "| --- | --- | --- | ---: | :---: | ---: | ---: |",
+        "| ID | Verdict | Category | Expected source | First relevant rank | Hit@5 | Recall@5 | Top score |",
+        "| --- | :---: | --- | --- | ---: | :---: | ---: | ---: |",
     ]
 
     for item in results:
@@ -122,11 +136,25 @@ def build_report(results: list[dict], generated_at: str) -> str:
         top_score = item["top_rerank_score"]
         score_text = f"{top_score:.3f}" if top_score is not None else "—"
         lines.append(
-            f"| {item['id']} | {item['category']} | {expected} | {rank} | "
+            f"| {item['id']} | {'PASS' if item['strict_pass'] else 'FAIL'} | {item['category']} | {expected} | {rank} | "
             f"{'Yes' if item['hit_at_5'] else 'No'} | "
             f"{pct(item['expected_source_recall_at_5'])} | {score_text} |"
         )
     lines += ["", "## Failure analysis", ""]
+
+    strict_failures = [item for item in results if not item["strict_pass"]]
+    lines += [
+        f"### Strict failures ({len(strict_failures)}/{count})",
+        "",
+        "The strict criterion fails a question when the expected source is not rank one or when any manually expected source is missing from the top five.",
+        "",
+    ]
+    for item in strict_failures:
+        lines.append(
+            f"- **{item['id']} - {item['category']}: FAIL.** "
+            f"{'; '.join(item['failure_reasons']).capitalize()}."
+        )
+    lines.append("")
 
     if not misses and not weak and not partial:
         lines.append("All expected sources ranked first; no source-level failures were observed.")

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:36:40.915810+00:00",
+  "generated_at": "2026-08-24T05:51:01.138396+00:00",
   "results": [
     {
       "id": "Q01",
@@ -50,7 +50,12 @@
       "missing_expected_sources": [
         "cfpb_closing_disclosure_sample.pdf"
       ],
-      "top_rerank_score": 0.74298155
+      "top_rerank_score": 0.74298155,
+      "strict_pass": false,
+      "failure_reasons": [
+        "expected source not ranked first",
+        "incomplete expected-source recovery"
+      ]
     },
     {
       "id": "Q02",
@@ -86,7 +91,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.9566342
+      "top_rerank_score": 0.9566342,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q03",
@@ -119,7 +126,11 @@
       "missing_expected_sources": [
         "cfpb_loan_estimate_sample.pdf"
       ],
-      "top_rerank_score": 0.9710193
+      "top_rerank_score": 0.9710193,
+      "strict_pass": false,
+      "failure_reasons": [
+        "incomplete expected-source recovery"
+      ]
     },
     {
       "id": "Q04",
@@ -162,7 +173,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.8662457
+      "top_rerank_score": 0.8662457,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q05",
@@ -204,7 +217,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.9324533
+      "top_rerank_score": 0.9324533,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q06",
@@ -252,7 +267,11 @@
       "reciprocal_rank": 0.25,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.32188618
+      "top_rerank_score": 0.32188618,
+      "strict_pass": false,
+      "failure_reasons": [
+        "expected source not ranked first"
+      ]
     },
     {
       "id": "Q07",
@@ -282,7 +301,11 @@
       "reciprocal_rank": 0.5,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.9863105
+      "top_rerank_score": 0.9863105,
+      "strict_pass": false,
+      "failure_reasons": [
+        "expected source not ranked first"
+      ]
     },
     {
       "id": "Q08",
@@ -312,7 +335,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.7565375
+      "top_rerank_score": 0.7565375,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q09",
@@ -354,7 +379,11 @@
       "reciprocal_rank": 0.5,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.6699608
+      "top_rerank_score": 0.6699608,
+      "strict_pass": false,
+      "failure_reasons": [
+        "expected source not ranked first"
+      ]
     },
     {
       "id": "Q10",
@@ -384,7 +413,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.7112304
+      "top_rerank_score": 0.7112304,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q11",
@@ -426,7 +457,11 @@
       "reciprocal_rank": 0.3333333333333333,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.93195957
+      "top_rerank_score": 0.93195957,
+      "strict_pass": false,
+      "failure_reasons": [
+        "expected source not ranked first"
+      ]
     },
     {
       "id": "Q12",
@@ -462,7 +497,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.71253234
+      "top_rerank_score": 0.71253234,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q13",
@@ -486,7 +523,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.86860406
+      "top_rerank_score": 0.86860406,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q14",
@@ -510,7 +549,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.8659059
+      "top_rerank_score": 0.8659059,
+      "strict_pass": true,
+      "failure_reasons": []
     },
     {
       "id": "Q15",
@@ -540,7 +581,9 @@
       "reciprocal_rank": 1.0,
       "expected_source_recall_at_5": 1.0,
       "missing_expected_sources": [],
-      "top_rerank_score": 0.9985562
+      "top_rerank_score": 0.9985562,
+      "strict_pass": true,
+      "failure_reasons": []
     }
   ]
 }
