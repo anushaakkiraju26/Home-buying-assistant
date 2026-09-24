@@ -172,4 +172,4 @@ python ask.py "What costs should I expect at closing?"
 - Do not commit `.env`, API keys, tokens, or `.streamlit/secrets.toml`.
 - Use a secret manager or hosting-provider environment variables in production.
 - Set `RAG_SERVICE_API_KEY` when exposing the FastAPI service publicly.
-- Review document redistribution rights before adding new reference material.
+- Review document redistribution rights before adding new reference material — see [SOURCES.md](SOURCES.md) for the current corpus's status.
