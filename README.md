@@ -167,6 +167,34 @@ python ask.py "What costs should I expect at closing?"
 | `/tool` | `POST` | Plain-text context for agent tools |
 | `/ask` | `POST` | Grounded answer with structured source documents |
 
+## Evaluation
+
+`evaluate_retrieval.py` runs 15 hand-written questions spanning closing costs, ARMs,
+CA/TX disclosure law, HOAs, inspections, appraisals, insurance, fair housing,
+contractors, and VA/USDA loans against the hybrid retriever, and checks whether the
+manually identified authoritative source(s) for each question come back in the top 5.
+
+| Metric | Score |
+| --- | ---: |
+| Strict pass rate (source ranked #1, all expected sources in top 5) | 60.0% (9/15) |
+| Hit@1 | 66.7% |
+| Hit@3 | 93.3% |
+| Hit@5 | 100.0% |
+| Mean reciprocal rank | 0.806 |
+
+Every strict failure was a ranking problem, not a miss: the expected source was always
+retrieved somewhere in the top 5 (Hit@5 is 100%), just not first — e.g. the home
+inspection question ranked `ashi_home_inspection_standards.pdf` at #2, behind a VA
+guide that also mentions inspections. The two multi-source questions (closing costs,
+loan estimates) each recovered one of their two expected sources but missed the other.
+
+Full per-question results, retrieved rankings, and recommendations are in
+[`evaluation_report.md`](evaluation_report.md); questions and expected sources are in
+[`evaluation_questions.json`](evaluation_questions.json). Top recommendations from that
+report: add jurisdiction metadata so CA/TX questions don't cross-contaminate, and
+re-run this suite after any corpus, chunking, embedding, or reranker change to track
+metric deltas over time.
+
 ## Security
 
 - Do not commit `.env`, API keys, tokens, or `.streamlit/secrets.toml`.
